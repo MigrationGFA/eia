@@ -19,6 +19,7 @@ jobs:
         with:
           submodules: true
           lfs: false
+      
       - name: Build And Deploy
         id: builddeploy
         uses: Azure/static-web-apps-deploy@v1
@@ -28,9 +29,7 @@ jobs:
           action: "upload"
           app_location: "/"
           api_location: ""
-          output_location: "dist"  # Changed from "/" to the actual build output folder
-          app_build_command: "npm run build"  # Added explicit build command
-          ###### End of Repository/Build Configurations ######
+          output_location: "/"
 
   close_pull_request_job:
     if: github.event_name == 'pull_request' && github.event.action == 'closed'
