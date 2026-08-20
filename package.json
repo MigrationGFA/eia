@@ -1,11 +1,11 @@
 {
   "name": "eia",
   "version": "1.0.0",
-  "description": "EIA Static Website",
-  "license": "ISC",
-  "type": "commonjs",
+  "description": "",
+  "main": "index.js",
   "scripts": {
     "build": "tailwindcss -i ./src/input.css -o ./dist/output.css --minify",
+    "build:css": "tailwindcss -i ./src/input.css -o ./dist/output.css --minify",
     "build:azure": "npm run build",
     "watch:css": "tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
   },
@@ -13,6 +13,10 @@
     "type": "git",
     "url": "git+https://github.com/MigrationGFA/eia.git"
   },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
   "bugs": {
     "url": "https://github.com/MigrationGFA/eia/issues"
   },
