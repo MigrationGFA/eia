@@ -1,0 +1,536 @@
+{
+ "id": "113:269",
+ "name": "Desktop - 64",
+ "type": "FRAME",
+ "box": {
+  "x": 7732,
+  "y": 43540,
+  "width": 1440,
+  "height": 915
+ },
+ "fills": [
+  {
+   "type": "SOLID",
+   "color": "#1b2027"
+  }
+ ],
+ "strokeWeight": 1,
+ "children": [
+  {
+   "id": "113:270",
+   "name": "Rectangle 158",
+   "type": "RECTANGLE",
+   "box": {
+    "x": 7732,
+    "y": 43605,
+    "width": 1440,
+    "height": 959
+   },
+   "fills": [
+    {
+     "type": "GRADIENT_LINEAR",
+     "stops": [
+      {
+       "color": "#ffffff00",
+       "pos": 0
+      },
+      {
+       "color": "#f1f1f1",
+       "pos": 1
+      }
+     ]
+    }
+   ],
+   "strokeWeight": 1
+  },
+  {
+   "id": "113:271",
+   "name": "For CEOs who need to know sooner.",
+   "type": "TEXT",
+   "box": {
+    "x": 7858,
+    "y": 43718,
+    "width": 552,
+    "height": 456
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#ffffff"
+    }
+   ],
+   "strokeWeight": 1,
+   "characters": "For CEOs who need to know sooner.",
+   "textStyle": {
+    "fontFamily": "Times New Roman",
+    "fontWeight": 400,
+    "fontSize": 128,
+    "lineHeightPx": 114,
+    "letterSpacing": 0,
+    "textAlign": "LEFT"
+   },
+   "textColor": "#ffffff"
+  },
+  {
+   "id": "113:272",
+   "name": "The assessment is made for the person who needs to move the business forward not for a technical team to configure another system.",
+   "type": "TEXT",
+   "box": {
+    "x": 7858,
+    "y": 44207,
+    "width": 567,
+    "height": 66
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#ffffff",
+     "opacity": 0.6000000238418579
+    }
+   ],
+   "strokeWeight": 1,
+   "characters": "The assessment is made for the person who needs to move the business forward not for a technical team to configure another system.",
+   "textStyle": {
+    "fontFamily": "Inter",
+    "fontWeight": 400,
+    "fontSize": 16,
+    "lineHeightPx": 33,
+    "letterSpacing": 0,
+    "textAlign": "LEFT"
+   },
+   "textColor": "#ffffff"
+  },
+  {
+   "id": "113:273",
+   "name": "Built for the accountable leader",
+   "type": "TEXT",
+   "box": {
+    "x": 7858,
+    "y": 43641,
+    "width": 285,
+    "height": 27
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#ffffff"
+    }
+   ],
+   "strokeWeight": 1,
+   "characters": "Built for the accountable leader",
+   "textStyle": {
+    "fontFamily": "Inter",
+    "fontWeight": 400,
+    "fontSize": 16,
+    "lineHeightPx": 27,
+    "letterSpacing": 0,
+    "textAlign": "LEFT"
+   },
+   "textColor": "#ffffff"
+  },
+  {
+   "id": "113:274",
+   "name": "Frame 377",
+   "type": "FRAME",
+   "box": {
+    "x": 8559,
+    "y": 43712,
+    "width": 417,
+    "height": 132
+   },
+   "strokes": [
+    "#ffffff"
+   ],
+   "strokeWeight": 1,
+   "children": [
+    {
+     "id": "113:275",
+     "name": "CEOs & Managing Directors",
+     "type": "TEXT",
+     "box": {
+      "x": 8612,
+      "y": 43733,
+      "width": 223,
+      "height": 20
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#ffffff"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "CEOs & Managing Directors",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeightPx": 20,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#ffffff"
+    },
+    {
+     "id": "113:276",
+     "name": "Accountable for high-stakes decisions with fragmented information.",
+     "type": "TEXT",
+     "box": {
+      "x": 8575,
+      "y": 43778,
+      "width": 307,
+      "height": 40
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#ffffff"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "Accountable for high-stakes decisions with fragmented information.",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 400,
+      "fontSize": 14,
+      "lineHeightPx": 20,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#ffffff"
+    },
+    {
+     "id": "113:277",
+     "name": "01",
+     "type": "TEXT",
+     "box": {
+      "x": 8575,
+      "y": 43725,
+      "width": 26,
+      "height": 36
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#0053d0"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "01",
+     "textStyle": {
+      "fontFamily": "Times New Roman",
+      "fontWeight": 400,
+      "fontSize": 24,
+      "lineHeightPx": 71,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#0053d0"
+    }
+   ]
+  },
+  {
+   "id": "113:278",
+   "name": "Frame 378",
+   "type": "FRAME",
+   "box": {
+    "x": 8559,
+    "y": 43877,
+    "width": 417,
+    "height": 132
+   },
+   "strokes": [
+    "#ffffff"
+   ],
+   "strokeWeight": 1,
+   "children": [
+    {
+     "id": "113:279",
+     "name": "Founder-led leadership teams",
+     "type": "TEXT",
+     "box": {
+      "x": 8614,
+      "y": 43900,
+      "width": 252,
+      "height": 20
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#ffffff"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "Founder-led leadership teams",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeightPx": 20,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#ffffff"
+    },
+    {
+     "id": "113:280",
+     "name": "Managing growth while spending too much time assembling updates.",
+     "type": "TEXT",
+     "box": {
+      "x": 8575,
+      "y": 43943,
+      "width": 307,
+      "height": 40
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#ffffff"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "Managing growth while spending too much time assembling updates.",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 400,
+      "fontSize": 14,
+      "lineHeightPx": 20,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#ffffff"
+    },
+    {
+     "id": "113:281",
+     "name": "02",
+     "type": "TEXT",
+     "box": {
+      "x": 8575,
+      "y": 43890,
+      "width": 26,
+      "height": 36
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#0053d0"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "02",
+     "textStyle": {
+      "fontFamily": "Times New Roman",
+      "fontWeight": 400,
+      "fontSize": 24,
+      "lineHeightPx": 71,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#0053d0"
+    }
+   ]
+  },
+  {
+   "id": "113:282",
+   "name": "Frame 379",
+   "type": "FRAME",
+   "box": {
+    "x": 8559,
+    "y": 44042,
+    "width": 417,
+    "height": 132
+   },
+   "strokes": [
+    "#ffffff"
+   ],
+   "strokeWeight": 1,
+   "children": [
+    {
+     "id": "113:283",
+     "name": "Growing SMEs",
+     "type": "TEXT",
+     "box": {
+      "x": 8614,
+      "y": 44065,
+      "width": 252,
+      "height": 20
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#ffffff"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "Growing SMEs",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeightPx": 20,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#ffffff"
+    },
+    {
+     "id": "113:284",
+     "name": "Businesses ready to improve operational intelligence before complexity compounds.",
+     "type": "TEXT",
+     "box": {
+      "x": 8575,
+      "y": 44108,
+      "width": 307,
+      "height": 40
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#ffffff"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "Businesses ready to improve operational intelligence before complexity compounds.",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 400,
+      "fontSize": 14,
+      "lineHeightPx": 20,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#ffffff"
+    },
+    {
+     "id": "113:285",
+     "name": "03",
+     "type": "TEXT",
+     "box": {
+      "x": 8575,
+      "y": 44055,
+      "width": 26,
+      "height": 36
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#0053d0"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "03",
+     "textStyle": {
+      "fontFamily": "Times New Roman",
+      "fontWeight": 400,
+      "fontSize": 24,
+      "lineHeightPx": 71,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#0053d0"
+    }
+   ]
+  },
+  {
+   "id": "113:286",
+   "name": "Frame 380",
+   "type": "FRAME",
+   "box": {
+    "x": 8559,
+    "y": 44201,
+    "width": 417,
+    "height": 132
+   },
+   "strokes": [
+    "#ffffff"
+   ],
+   "strokeWeight": 1,
+   "children": [
+    {
+     "id": "113:287",
+     "name": "Multi-department organizations",
+     "type": "TEXT",
+     "box": {
+      "x": 8614,
+      "y": 44224,
+      "width": 252,
+      "height": 20
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#ffffff"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "Multi-department organizations",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeightPx": 20,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#ffffff"
+    },
+    {
+     "id": "113:288",
+     "name": "Companies seeking a clearer view across functions and fewer reporting gaps.",
+     "type": "TEXT",
+     "box": {
+      "x": 8575,
+      "y": 44267,
+      "width": 307,
+      "height": 40
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#ffffff"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "Companies seeking a clearer view across functions and fewer reporting gaps.",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 400,
+      "fontSize": 14,
+      "lineHeightPx": 20,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#ffffff"
+    },
+    {
+     "id": "113:289",
+     "name": "04",
+     "type": "TEXT",
+     "box": {
+      "x": 8575,
+      "y": 44214,
+      "width": 26,
+      "height": 36
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#0053d0"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "04",
+     "textStyle": {
+      "fontFamily": "Times New Roman",
+      "fontWeight": 400,
+      "fontSize": 24,
+      "lineHeightPx": 71,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#0053d0"
+    }
+   ]
+  }
+ ]
+}

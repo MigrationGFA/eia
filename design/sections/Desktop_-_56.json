@@ -1,0 +1,920 @@
+{
+ "id": "113:180",
+ "name": "Desktop - 56",
+ "type": "FRAME",
+ "box": {
+  "x": 7732,
+  "y": 40528,
+  "width": 1440,
+  "height": 1149
+ },
+ "fills": [
+  {
+   "type": "SOLID",
+   "color": "#ebebeb"
+  }
+ ],
+ "strokeWeight": 1,
+ "children": [
+  {
+   "id": "113:181",
+   "name": "Rectangle 158",
+   "type": "RECTANGLE",
+   "box": {
+    "x": 7732,
+    "y": 40593,
+    "width": 1440,
+    "height": 959
+   },
+   "fills": [
+    {
+     "type": "GRADIENT_LINEAR",
+     "stops": [
+      {
+       "color": "#ffffff00",
+       "pos": 0
+      },
+      {
+       "color": "#f1f1f1",
+       "pos": 1
+      }
+     ]
+    }
+   ],
+   "strokeWeight": 1
+  },
+  {
+   "id": "113:182",
+   "name": "Frame 388",
+   "type": "FRAME",
+   "box": {
+    "x": 8566,
+    "y": 40723,
+    "width": 1,
+    "height": 87
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#000000"
+    }
+   ],
+   "strokeWeight": 1,
+   "children": []
+  },
+  {
+   "id": "113:183",
+   "name": "Frame 389",
+   "type": "FRAME",
+   "box": {
+    "x": 8566,
+    "y": 40887,
+    "width": 1,
+    "height": 87
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#000000"
+    }
+   ],
+   "strokeWeight": 1,
+   "children": []
+  },
+  {
+   "id": "113:184",
+   "name": "Frame 390",
+   "type": "FRAME",
+   "box": {
+    "x": 8566,
+    "y": 41042,
+    "width": 1,
+    "height": 87
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#000000"
+    }
+   ],
+   "strokeWeight": 1,
+   "children": []
+  },
+  {
+   "id": "113:185",
+   "name": "Frame 391",
+   "type": "FRAME",
+   "box": {
+    "x": 8566,
+    "y": 41202,
+    "width": 1,
+    "height": 87
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#000000"
+    }
+   ],
+   "strokeWeight": 1,
+   "children": []
+  },
+  {
+   "id": "113:186",
+   "name": "Frame 392",
+   "type": "FRAME",
+   "box": {
+    "x": 8566,
+    "y": 41371,
+    "width": 1,
+    "height": 87
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#000000"
+    }
+   ],
+   "strokeWeight": 1,
+   "children": []
+  },
+  {
+   "id": "113:187",
+   "name": "From question to clarity.",
+   "type": "TEXT",
+   "box": {
+    "x": 7862,
+    "y": 40666,
+    "width": 493,
+    "height": 142
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#202020"
+    }
+   ],
+   "strokeWeight": 1,
+   "characters": "From question to clarity.",
+   "textStyle": {
+    "fontFamily": "Times New Roman",
+    "fontWeight": 400,
+    "fontSize": 64,
+    "lineHeightPx": 71,
+    "letterSpacing": 0,
+    "textAlign": "LEFT"
+   },
+   "textColor": "#202020"
+  },
+  {
+   "id": "113:188",
+   "name": "A human-guided process that turns the information you already have into a view you can act on.",
+   "type": "TEXT",
+   "box": {
+    "x": 7868,
+    "y": 40828,
+    "width": 443,
+    "height": 66
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#000000",
+     "opacity": 0.6000000238418579
+    }
+   ],
+   "strokeWeight": 1,
+   "characters": "A human-guided process that turns the information you already have into a view you can act on.",
+   "textStyle": {
+    "fontFamily": "Inter",
+    "fontWeight": 400,
+    "fontSize": 16,
+    "lineHeightPx": 33,
+    "letterSpacing": 0,
+    "textAlign": "LEFT"
+   },
+   "textColor": "#000000"
+  },
+  {
+   "id": "113:189",
+   "name": "The journey",
+   "type": "TEXT",
+   "box": {
+    "x": 7862.4921875,
+    "y": 40614,
+    "width": 285,
+    "height": 27
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#0053d0"
+    }
+   ],
+   "strokeWeight": 1,
+   "characters": "The journey",
+   "textStyle": {
+    "fontFamily": "Inter",
+    "fontWeight": 400,
+    "fontSize": 16,
+    "lineHeightPx": 27,
+    "letterSpacing": 0,
+    "textAlign": "LEFT"
+   },
+   "textColor": "#0053d0"
+  },
+  {
+   "id": "113:190",
+   "name": "Frame 368",
+   "type": "FRAME",
+   "box": {
+    "x": 7863,
+    "y": 40921.678187772384,
+    "width": 589.6304987482399,
+    "height": 677.3451586992815
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#ffffff"
+    }
+   ],
+   "strokeWeight": 1,
+   "cornerRadius": 20,
+   "children": [
+    {
+     "id": "113:191",
+     "name": "remsana-hero 1",
+     "type": "RECTANGLE",
+     "box": {
+      "x": 7785.6953125,
+      "y": 40909.947446141276,
+      "width": 804.8193674917566,
+      "height": 804.8193674917566
+     },
+     "strokeWeight": 1
+    },
+    {
+     "id": "113:192",
+     "name": "remsana-ceo-finance 1",
+     "type": "RECTANGLE",
+     "box": {
+      "x": 7653.0732421875,
+      "y": 40782.47208307241,
+      "width": 837.1062843981126,
+      "height": 837.1062843981126
+     },
+     "fills": [
+      {
+       "type": "IMAGE",
+       "imageRef": "0df46958f6582c8c24e80e525fc90a54b76b6ebb"
+      }
+     ],
+     "strokeWeight": 1
+    }
+   ]
+  },
+  {
+   "id": "113:193",
+   "name": "Tell us about your business and the decision you need to make with more confidence.",
+   "type": "TEXT",
+   "box": {
+    "x": 8631,
+    "y": 40723,
+    "width": 342,
+    "height": 52
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#000000",
+     "opacity": 0.6000000238418579
+    }
+   ],
+   "strokeWeight": 1,
+   "characters": "Tell us about your business and the decision you need to make with more confidence.",
+   "textStyle": {
+    "fontFamily": "Inter",
+    "fontWeight": 400,
+    "fontSize": 14,
+    "lineHeightPx": 26,
+    "letterSpacing": 0,
+    "textAlign": "LEFT"
+   },
+   "textColor": "#000000"
+  },
+  {
+   "id": "113:194",
+   "name": "An Executive Intelligence Advisor will discuss your business, your goals, and determine whether the assessment is a good fit.",
+   "type": "TEXT",
+   "box": {
+    "x": 8631,
+    "y": 40873,
+    "width": 342,
+    "height": 78
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#000000",
+     "opacity": 0.6000000238418579
+    }
+   ],
+   "strokeWeight": 1,
+   "characters": "An Executive Intelligence Advisor will discuss your business, your goals, and determine whether the assessment is a good fit.",
+   "textStyle": {
+    "fontFamily": "Inter",
+    "fontWeight": 400,
+    "fontSize": 14,
+    "lineHeightPx": 26,
+    "letterSpacing": 0,
+    "textAlign": "LEFT"
+   },
+   "textColor": "#000000"
+  },
+  {
+   "id": "113:195",
+   "name": "We’ll request only the information required to answer your specific question.",
+   "type": "TEXT",
+   "box": {
+    "x": 8631,
+    "y": 41047,
+    "width": 342,
+    "height": 52
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#000000",
+     "opacity": 0.6000000238418579
+    }
+   ],
+   "strokeWeight": 1,
+   "characters": "We’ll request only the information required to answer your specific question.",
+   "textStyle": {
+    "fontFamily": "Inter",
+    "fontWeight": 400,
+    "fontSize": 14,
+    "lineHeightPx": 26,
+    "letterSpacing": 0,
+    "textAlign": "LEFT"
+   },
+   "textColor": "#000000"
+  },
+  {
+   "id": "113:196",
+   "name": "See your own business data transformed into a meaningful executive view.",
+   "type": "TEXT",
+   "box": {
+    "x": 8631,
+    "y": 41202,
+    "width": 342,
+    "height": 52
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#000000",
+     "opacity": 0.6000000238418579
+    }
+   ],
+   "strokeWeight": 1,
+   "characters": "See your own business data transformed into a meaningful executive view.",
+   "textStyle": {
+    "fontFamily": "Inter",
+    "fontWeight": 400,
+    "fontSize": 14,
+    "lineHeightPx": 26,
+    "letterSpacing": 0,
+    "textAlign": "LEFT"
+   },
+   "textColor": "#000000"
+  },
+  {
+   "id": "113:197",
+   "name": "Use the intelligence during normal business operations while our team supports you.",
+   "type": "TEXT",
+   "box": {
+    "x": 8631,
+    "y": 41374,
+    "width": 342,
+    "height": 52
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#000000",
+     "opacity": 0.6000000238418579
+    }
+   ],
+   "strokeWeight": 1,
+   "characters": "Use the intelligence during normal business operations while our team supports you.",
+   "textStyle": {
+    "fontFamily": "Inter",
+    "fontWeight": 400,
+    "fontSize": 14,
+    "lineHeightPx": 26,
+    "letterSpacing": 0,
+    "textAlign": "LEFT"
+   },
+   "textColor": "#000000"
+  },
+  {
+   "id": "113:198",
+   "name": "Review findings, identify opportunities, and determine whether ongoing visibility would benefit your business.",
+   "type": "TEXT",
+   "box": {
+    "x": 8631,
+    "y": 41521,
+    "width": 342,
+    "height": 78
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#000000",
+     "opacity": 0.6000000238418579
+    }
+   ],
+   "strokeWeight": 1,
+   "characters": "Review findings, identify opportunities, and determine whether ongoing visibility would benefit your business.",
+   "textStyle": {
+    "fontFamily": "Inter",
+    "fontWeight": 400,
+    "fontSize": 14,
+    "lineHeightPx": 26,
+    "letterSpacing": 0,
+    "textAlign": "LEFT"
+   },
+   "textColor": "#000000"
+  },
+  {
+   "id": "113:199",
+   "name": "Apply",
+   "type": "TEXT",
+   "box": {
+    "x": 8631,
+    "y": 40682,
+    "width": 342,
+    "height": 33
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#191a15"
+    }
+   ],
+   "strokeWeight": 1,
+   "characters": "Apply",
+   "textStyle": {
+    "fontFamily": "Inter",
+    "fontWeight": 600,
+    "fontSize": 16,
+    "lineHeightPx": 33,
+    "letterSpacing": 0,
+    "textAlign": "LEFT"
+   },
+   "textColor": "#191a15"
+  },
+  {
+   "id": "113:200",
+   "name": "Qualification Call",
+   "type": "TEXT",
+   "box": {
+    "x": 8631,
+    "y": 40828,
+    "width": 342,
+    "height": 33
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#191a15"
+    }
+   ],
+   "strokeWeight": 1,
+   "characters": "Qualification Call",
+   "textStyle": {
+    "fontFamily": "Inter",
+    "fontWeight": 600,
+    "fontSize": 16,
+    "lineHeightPx": 33,
+    "letterSpacing": 0,
+    "textAlign": "LEFT"
+   },
+   "textColor": "#191a15"
+  },
+  {
+   "id": "113:201",
+   "name": "Data Preparation",
+   "type": "TEXT",
+   "box": {
+    "x": 8631,
+    "y": 40992,
+    "width": 342,
+    "height": 33
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#191a15"
+    }
+   ],
+   "strokeWeight": 1,
+   "characters": "Data Preparation",
+   "textStyle": {
+    "fontFamily": "Inter",
+    "fontWeight": 600,
+    "fontSize": 16,
+    "lineHeightPx": 33,
+    "letterSpacing": 0,
+    "textAlign": "LEFT"
+   },
+   "textColor": "#191a15"
+  },
+  {
+   "id": "113:202",
+   "name": "Day 1 Executive Reveal",
+   "type": "TEXT",
+   "box": {
+    "x": 8631,
+    "y": 41147,
+    "width": 342,
+    "height": 33
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#191a15"
+    }
+   ],
+   "strokeWeight": 1,
+   "characters": "Day 1 Executive Reveal",
+   "textStyle": {
+    "fontFamily": "Inter",
+    "fontWeight": 600,
+    "fontSize": 16,
+    "lineHeightPx": 33,
+    "letterSpacing": 0,
+    "textAlign": "LEFT"
+   },
+   "textColor": "#191a15"
+  },
+  {
+   "id": "113:203",
+   "name": "7-Day Assessment",
+   "type": "TEXT",
+   "box": {
+    "x": 8631,
+    "y": 41319,
+    "width": 342,
+    "height": 33
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#191a15"
+    }
+   ],
+   "strokeWeight": 1,
+   "characters": "7-Day Assessment",
+   "textStyle": {
+    "fontFamily": "Inter",
+    "fontWeight": 600,
+    "fontSize": 16,
+    "lineHeightPx": 33,
+    "letterSpacing": 0,
+    "textAlign": "LEFT"
+   },
+   "textColor": "#191a15"
+  },
+  {
+   "id": "113:204",
+   "name": "Executive Intelligence Review",
+   "type": "TEXT",
+   "box": {
+    "x": 8631,
+    "y": 41479,
+    "width": 342,
+    "height": 33
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#191a15"
+    }
+   ],
+   "strokeWeight": 1,
+   "characters": "Executive Intelligence Review",
+   "textStyle": {
+    "fontFamily": "Inter",
+    "fontWeight": 600,
+    "fontSize": 16,
+    "lineHeightPx": 33,
+    "letterSpacing": 0,
+    "textAlign": "LEFT"
+   },
+   "textColor": "#191a15"
+  },
+  {
+   "id": "113:205",
+   "name": "Frame 382",
+   "type": "FRAME",
+   "box": {
+    "x": 8549,
+    "y": 40680,
+    "width": 36,
+    "height": 36
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#0053d0",
+     "opacity": 0.10000000149011612
+    }
+   ],
+   "strokeWeight": 1,
+   "cornerRadius": 50,
+   "children": [
+    {
+     "id": "113:206",
+     "name": "01",
+     "type": "TEXT",
+     "box": {
+      "x": 8557,
+      "y": 40688,
+      "width": 19,
+      "height": 19
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#202020"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "01",
+     "textStyle": {
+      "fontFamily": "Times New Roman",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeightPx": 19,
+      "letterSpacing": 0,
+      "textAlign": "CENTER"
+     },
+     "textColor": "#202020"
+    }
+   ]
+  },
+  {
+   "id": "113:207",
+   "name": "Frame 383",
+   "type": "FRAME",
+   "box": {
+    "x": 8549,
+    "y": 40826,
+    "width": 36,
+    "height": 36
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#0053d0",
+     "opacity": 0.10000000149011612
+    }
+   ],
+   "strokeWeight": 1,
+   "cornerRadius": 50,
+   "children": [
+    {
+     "id": "113:208",
+     "name": "02",
+     "type": "TEXT",
+     "box": {
+      "x": 8557,
+      "y": 40834,
+      "width": 19,
+      "height": 19
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#202020"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "02",
+     "textStyle": {
+      "fontFamily": "Times New Roman",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeightPx": 19,
+      "letterSpacing": 0,
+      "textAlign": "CENTER"
+     },
+     "textColor": "#202020"
+    }
+   ]
+  },
+  {
+   "id": "113:209",
+   "name": "Frame 384",
+   "type": "FRAME",
+   "box": {
+    "x": 8549,
+    "y": 40990,
+    "width": 36,
+    "height": 36
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#0053d0",
+     "opacity": 0.10000000149011612
+    }
+   ],
+   "strokeWeight": 1,
+   "cornerRadius": 50,
+   "children": [
+    {
+     "id": "113:210",
+     "name": "03",
+     "type": "TEXT",
+     "box": {
+      "x": 8557,
+      "y": 40998,
+      "width": 19,
+      "height": 19
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#202020"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "03",
+     "textStyle": {
+      "fontFamily": "Times New Roman",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeightPx": 19,
+      "letterSpacing": 0,
+      "textAlign": "CENTER"
+     },
+     "textColor": "#202020"
+    }
+   ]
+  },
+  {
+   "id": "113:211",
+   "name": "Frame 385",
+   "type": "FRAME",
+   "box": {
+    "x": 8549,
+    "y": 41145,
+    "width": 36,
+    "height": 36
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#0053d0",
+     "opacity": 0.10000000149011612
+    }
+   ],
+   "strokeWeight": 1,
+   "cornerRadius": 50,
+   "children": [
+    {
+     "id": "113:212",
+     "name": "04",
+     "type": "TEXT",
+     "box": {
+      "x": 8557,
+      "y": 41153,
+      "width": 19,
+      "height": 19
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#202020"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "04",
+     "textStyle": {
+      "fontFamily": "Times New Roman",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeightPx": 19,
+      "letterSpacing": 0,
+      "textAlign": "CENTER"
+     },
+     "textColor": "#202020"
+    }
+   ]
+  },
+  {
+   "id": "113:213",
+   "name": "Frame 386",
+   "type": "FRAME",
+   "box": {
+    "x": 8549,
+    "y": 41317,
+    "width": 36,
+    "height": 36
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#0053d0",
+     "opacity": 0.10000000149011612
+    }
+   ],
+   "strokeWeight": 1,
+   "cornerRadius": 50,
+   "children": [
+    {
+     "id": "113:214",
+     "name": "05",
+     "type": "TEXT",
+     "box": {
+      "x": 8557,
+      "y": 41325,
+      "width": 19,
+      "height": 19
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#202020"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "05",
+     "textStyle": {
+      "fontFamily": "Times New Roman",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeightPx": 19,
+      "letterSpacing": 0,
+      "textAlign": "CENTER"
+     },
+     "textColor": "#202020"
+    }
+   ]
+  },
+  {
+   "id": "113:215",
+   "name": "Frame 387",
+   "type": "FRAME",
+   "box": {
+    "x": 8549,
+    "y": 41477,
+    "width": 36,
+    "height": 36
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#0053d0",
+     "opacity": 0.10000000149011612
+    }
+   ],
+   "strokeWeight": 1,
+   "cornerRadius": 50,
+   "children": [
+    {
+     "id": "113:216",
+     "name": "06",
+     "type": "TEXT",
+     "box": {
+      "x": 8557,
+      "y": 41485,
+      "width": 19,
+      "height": 19
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#202020"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "06",
+     "textStyle": {
+      "fontFamily": "Times New Roman",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeightPx": 19,
+      "letterSpacing": 0,
+      "textAlign": "CENTER"
+     },
+     "textColor": "#202020"
+    }
+   ]
+  }
+ ]
+}

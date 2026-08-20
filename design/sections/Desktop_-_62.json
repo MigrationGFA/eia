@@ -1,0 +1,642 @@
+{
+ "id": "113:155",
+ "name": "Desktop - 62",
+ "type": "FRAME",
+ "box": {
+  "x": 7732,
+  "y": 39554,
+  "width": 1440,
+  "height": 974
+ },
+ "fills": [
+  {
+   "type": "SOLID",
+   "color": "#1b2027"
+  }
+ ],
+ "strokeWeight": 1,
+ "children": [
+  {
+   "id": "113:156",
+   "name": "Rectangle 158",
+   "type": "RECTANGLE",
+   "box": {
+    "x": 7732,
+    "y": 39619,
+    "width": 1440,
+    "height": 959
+   },
+   "fills": [
+    {
+     "type": "GRADIENT_LINEAR",
+     "stops": [
+      {
+       "color": "#ffffff00",
+       "pos": 0
+      },
+      {
+       "color": "#f1f1f1",
+       "pos": 1
+      }
+     ]
+    }
+   ],
+   "strokeWeight": 1
+  },
+  {
+   "id": "113:157",
+   "name": "What business question are you trying to answer?",
+   "type": "TEXT",
+   "box": {
+    "x": 7795,
+    "y": 39731,
+    "width": 671,
+    "height": 142
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#ffffff"
+    }
+   ],
+   "strokeWeight": 1,
+   "characters": "What business question are you trying to answer?",
+   "textStyle": {
+    "fontFamily": "Times New Roman",
+    "fontWeight": 400,
+    "fontSize": 64,
+    "lineHeightPx": 71,
+    "letterSpacing": 0,
+    "textAlign": "LEFT"
+   },
+   "textColor": "#ffffff"
+  },
+  {
+   "id": "113:158",
+   "name": "Every assessment is customized around your business and your specific executive question.",
+   "type": "TEXT",
+   "box": {
+    "x": 7795,
+    "y": 39906,
+    "width": 731,
+    "height": 33
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#ffffff",
+     "opacity": 0.6000000238418579
+    }
+   ],
+   "strokeWeight": 1,
+   "characters": "Every assessment is customized around your business and your specific executive question.",
+   "textStyle": {
+    "fontFamily": "Inter",
+    "fontWeight": 400,
+    "fontSize": 16,
+    "lineHeightPx": 33,
+    "letterSpacing": 0,
+    "textAlign": "LEFT"
+   },
+   "textColor": "#ffffff"
+  },
+  {
+   "id": "113:159",
+   "name": "The questions",
+   "type": "TEXT",
+   "box": {
+    "x": 7795,
+    "y": 39672,
+    "width": 285,
+    "height": 27
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#ffffff"
+    }
+   ],
+   "strokeWeight": 1,
+   "characters": "The questions",
+   "textStyle": {
+    "fontFamily": "Inter",
+    "fontWeight": 400,
+    "fontSize": 16,
+    "lineHeightPx": 27,
+    "letterSpacing": 0,
+    "textAlign": "LEFT"
+   },
+   "textColor": "#ffffff"
+  },
+  {
+   "id": "113:160",
+   "name": "Frame 381",
+   "type": "FRAME",
+   "box": {
+    "x": 7795,
+    "y": 39997,
+    "width": 421,
+    "height": 193
+   },
+   "strokes": [
+    "#ffffff"
+   ],
+   "strokeWeight": 1,
+   "cornerRadius": 10,
+   "children": [
+    {
+     "id": "113:161",
+     "name": "Understand cash inflows, expenses, receivables, obligations, and financial pressure points.",
+     "type": "TEXT",
+     "box": {
+      "x": 7811,
+      "y": 40079,
+      "width": 309,
+      "height": 60
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#ffffff"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "Understand cash inflows, expenses, receivables, obligations, and financial pressure points.",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 400,
+      "fontSize": 14,
+      "lineHeightPx": 20,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#ffffff"
+    },
+    {
+     "id": "113:162",
+     "name": "Why Is Cash Always Tight?",
+     "type": "TEXT",
+     "box": {
+      "x": 7853,
+      "y": 40019,
+      "width": 309,
+      "height": 20
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#ffffff"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "Why Is Cash Always Tight?",
+     "textStyle": {
+      "fontFamily": "Times New Roman",
+      "fontWeight": 400,
+      "fontSize": 20,
+      "lineHeightPx": 20,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#ffffff"
+    },
+    {
+     "id": "113:163",
+     "name": "05",
+     "type": "TEXT",
+     "box": {
+      "x": 7811,
+      "y": 40010,
+      "width": 26,
+      "height": 36
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#0053d0"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "05",
+     "textStyle": {
+      "fontFamily": "Times New Roman",
+      "fontWeight": 400,
+      "fontSize": 24,
+      "lineHeightPx": 71,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#0053d0"
+    }
+   ]
+  },
+  {
+   "id": "113:164",
+   "name": "Frame 384",
+   "type": "FRAME",
+   "box": {
+    "x": 7795,
+    "y": 40222,
+    "width": 421,
+    "height": 193
+   },
+   "strokes": [
+    "#ffffff"
+   ],
+   "strokeWeight": 1,
+   "cornerRadius": 10,
+   "children": [
+    {
+     "id": "113:165",
+     "name": "Discover cost concentration, margin patterns, and unusual spending trends.",
+     "type": "TEXT",
+     "box": {
+      "x": 7811,
+      "y": 40314,
+      "width": 309,
+      "height": 40
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#ffffff"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "Discover cost concentration, margin patterns, and unusual spending trends.",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 400,
+      "fontSize": 14,
+      "lineHeightPx": 20,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#ffffff"
+    },
+    {
+     "id": "113:166",
+     "name": "Where Are We Losing Money?",
+     "type": "TEXT",
+     "box": {
+      "x": 7853,
+      "y": 40244,
+      "width": 309,
+      "height": 20
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#ffffff"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "Where Are We Losing Money?",
+     "textStyle": {
+      "fontFamily": "Times New Roman",
+      "fontWeight": 400,
+      "fontSize": 20,
+      "lineHeightPx": 20,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#ffffff"
+    },
+    {
+     "id": "113:167",
+     "name": "05",
+     "type": "TEXT",
+     "box": {
+      "x": 7811,
+      "y": 40235,
+      "width": 26,
+      "height": 36
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#0053d0"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "05",
+     "textStyle": {
+      "fontFamily": "Times New Roman",
+      "fontWeight": 400,
+      "fontSize": 24,
+      "lineHeightPx": 71,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#0053d0"
+    }
+   ]
+  },
+  {
+   "id": "113:168",
+   "name": "Frame 382",
+   "type": "FRAME",
+   "box": {
+    "x": 8244,
+    "y": 39997,
+    "width": 422,
+    "height": 193
+   },
+   "strokes": [
+    "#ffffff"
+   ],
+   "strokeWeight": 1,
+   "cornerRadius": 10,
+   "children": [
+    {
+     "id": "113:169",
+     "name": "Identify revenue concentration, customer value, and performance drivers.",
+     "type": "TEXT",
+     "box": {
+      "x": 8260,
+      "y": 40096,
+      "width": 309,
+      "height": 40
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#ffffff"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "Identify revenue concentration, customer value, and performance drivers.",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 400,
+      "fontSize": 14,
+      "lineHeightPx": 20,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#ffffff"
+    },
+    {
+     "id": "113:170",
+     "name": "Which Customers Or Products Drive The Business?",
+     "type": "TEXT",
+     "box": {
+      "x": 8301,
+      "y": 40019,
+      "width": 247,
+      "height": 40
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#ffffff"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "Which Customers Or Products Drive The Business?",
+     "textStyle": {
+      "fontFamily": "Times New Roman",
+      "fontWeight": 400,
+      "fontSize": 20,
+      "lineHeightPx": 20,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#ffffff"
+    },
+    {
+     "id": "113:171",
+     "name": "05",
+     "type": "TEXT",
+     "box": {
+      "x": 8260,
+      "y": 40010,
+      "width": 26,
+      "height": 36
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#0053d0"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "05",
+     "textStyle": {
+      "fontFamily": "Times New Roman",
+      "fontWeight": 400,
+      "fontSize": 24,
+      "lineHeightPx": 71,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#0053d0"
+    }
+   ]
+  },
+  {
+   "id": "113:172",
+   "name": "Frame 385",
+   "type": "FRAME",
+   "box": {
+    "x": 8244,
+    "y": 40222,
+    "width": 422,
+    "height": 193
+   },
+   "strokes": [
+    "#ffffff"
+   ],
+   "strokeWeight": 1,
+   "cornerRadius": 10,
+   "children": [
+    {
+     "id": "113:173",
+     "name": "Identify bottlenecks, missed targets, exceptions, and operational risks.",
+     "type": "TEXT",
+     "box": {
+      "x": 8260,
+      "y": 40321,
+      "width": 309,
+      "height": 40
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#ffffff"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "Identify bottlenecks, missed targets, exceptions, and operational risks.",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 400,
+      "fontSize": 14,
+      "lineHeightPx": 20,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#ffffff"
+    },
+    {
+     "id": "113:174",
+     "name": "Which Operations Need Attention?",
+     "type": "TEXT",
+     "box": {
+      "x": 8301,
+      "y": 40244,
+      "width": 303,
+      "height": 20
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#ffffff"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "Which Operations Need Attention?",
+     "textStyle": {
+      "fontFamily": "Times New Roman",
+      "fontWeight": 400,
+      "fontSize": 20,
+      "lineHeightPx": 20,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#ffffff"
+    },
+    {
+     "id": "113:175",
+     "name": "05",
+     "type": "TEXT",
+     "box": {
+      "x": 8260,
+      "y": 40235,
+      "width": 26,
+      "height": 36
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#0053d0"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "05",
+     "textStyle": {
+      "fontFamily": "Times New Roman",
+      "fontWeight": 400,
+      "fontSize": 24,
+      "lineHeightPx": 71,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#0053d0"
+    }
+   ]
+  },
+  {
+   "id": "113:176",
+   "name": "Frame 383",
+   "type": "FRAME",
+   "box": {
+    "x": 8687,
+    "y": 39997,
+    "width": 421,
+    "height": 193
+   },
+   "strokes": [
+    "#ffffff"
+   ],
+   "strokeWeight": 1,
+   "cornerRadius": 10,
+   "children": [
+    {
+     "id": "113:177",
+     "name": "Analyze pipeline movement, conversions, lead sources, and sales performance.",
+     "type": "TEXT",
+     "box": {
+      "x": 8703,
+      "y": 40094,
+      "width": 309,
+      "height": 40
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#ffffff"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "Analyze pipeline movement, conversions, lead sources, and sales performance.",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 400,
+      "fontSize": 14,
+      "lineHeightPx": 20,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#ffffff"
+    },
+    {
+     "id": "113:178",
+     "name": "Why Are Sales Inconsistent?",
+     "type": "TEXT",
+     "box": {
+      "x": 8745,
+      "y": 40019,
+      "width": 241,
+      "height": 20
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#ffffff"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "Why Are Sales Inconsistent?",
+     "textStyle": {
+      "fontFamily": "Times New Roman",
+      "fontWeight": 400,
+      "fontSize": 20,
+      "lineHeightPx": 20,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#ffffff"
+    },
+    {
+     "id": "113:179",
+     "name": "05",
+     "type": "TEXT",
+     "box": {
+      "x": 8703,
+      "y": 40010,
+      "width": 26,
+      "height": 36
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#0053d0"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "05",
+     "textStyle": {
+      "fontFamily": "Times New Roman",
+      "fontWeight": 400,
+      "fontSize": 24,
+      "lineHeightPx": 71,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#0053d0"
+    }
+   ]
+  }
+ ]
+}

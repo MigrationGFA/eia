@@ -1,0 +1,615 @@
+{
+ "id": "113:48",
+ "name": "Desktop - 54",
+ "type": "FRAME",
+ "box": {
+  "x": 7732,
+  "y": 36484,
+  "width": 1440,
+  "height": 892
+ },
+ "fills": [
+  {
+   "type": "SOLID",
+   "color": "#ebebeb"
+  }
+ ],
+ "strokes": [
+  "#000000"
+ ],
+ "strokeWeight": 1,
+ "children": [
+  {
+   "id": "113:49",
+   "name": "Rectangle 158",
+   "type": "RECTANGLE",
+   "box": {
+    "x": 7732,
+    "y": 36549,
+    "width": 1440,
+    "height": 959
+   },
+   "fills": [
+    {
+     "type": "GRADIENT_LINEAR",
+     "stops": [
+      {
+       "color": "#ffffff00",
+       "pos": 0
+      },
+      {
+       "color": "#f1f1f1",
+       "pos": 1
+      }
+     ]
+    }
+   ],
+   "strokeWeight": 1
+  },
+  {
+   "id": "113:50",
+   "name": "You do not need another dashboard. You need a faster path to the answer.",
+   "type": "TEXT",
+   "box": {
+    "x": 8371,
+    "y": 36661,
+    "width": 687,
+    "height": 213
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#202020"
+    }
+   ],
+   "strokeWeight": 1,
+   "characters": "You do not need another dashboard. You need a faster path to the answer.",
+   "textStyle": {
+    "fontFamily": "Times New Roman",
+    "fontWeight": 400,
+    "fontSize": 64,
+    "lineHeightPx": 71,
+    "letterSpacing": 0,
+    "textAlign": "LEFT"
+   },
+   "textColor": "#202020"
+  },
+  {
+   "id": "113:51",
+   "name": "Remsana is designed for CEOs and Managing Directors who are accountable for what happens next and tired of waiting for the full story to be assembled.",
+   "type": "TEXT",
+   "box": {
+    "x": 8371,
+    "y": 36895,
+    "width": 625,
+    "height": 66
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#000000",
+     "opacity": 0.6000000238418579
+    }
+   ],
+   "strokeWeight": 1,
+   "characters": "Remsana is designed for CEOs and Managing Directors who are accountable for what happens next and tired of waiting for the full story to be assembled.",
+   "textStyle": {
+    "fontFamily": "Inter",
+    "fontWeight": 400,
+    "fontSize": 16,
+    "lineHeightPx": 33,
+    "letterSpacing": 0,
+    "textAlign": "LEFT"
+   },
+   "textColor": "#000000"
+  },
+  {
+   "id": "113:52",
+   "name": "A clearer brief for the corner office",
+   "type": "TEXT",
+   "box": {
+    "x": 8371,
+    "y": 36602,
+    "width": 285,
+    "height": 27
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#0053d0"
+    }
+   ],
+   "strokeWeight": 1,
+   "characters": "A clearer brief for the corner office",
+   "textStyle": {
+    "fontFamily": "Inter",
+    "fontWeight": 400,
+    "fontSize": 16,
+    "lineHeightPx": 27,
+    "letterSpacing": 0,
+    "textAlign": "LEFT"
+   },
+   "textColor": "#0053d0"
+  },
+  {
+   "id": "113:53",
+   "name": "Frame 368",
+   "type": "FRAME",
+   "box": {
+    "x": 7792.4921875,
+    "y": 36591.53981962771,
+    "width": 480.7994280398416,
+    "height": 635.4514592704945
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#ffffff"
+    }
+   ],
+   "strokeWeight": 1,
+   "cornerRadius": 20,
+   "children": [
+    {
+     "id": "113:54",
+     "name": "remsana-hero 1",
+     "type": "RECTANGLE",
+     "box": {
+      "x": 7715.1875,
+      "y": 36570.537289891276,
+      "width": 804.8193674917566,
+      "height": 804.8193674917566
+     },
+     "strokeWeight": 1
+    },
+    {
+     "id": "113:55",
+     "name": "remsana-ceo-finance 1",
+     "type": "RECTANGLE",
+     "box": {
+      "x": 7698.4951171875,
+      "y": 36566.55068668558,
+      "width": 701.795501129458,
+      "height": 701.7955011294616
+     },
+     "fills": [
+      {
+       "type": "IMAGE",
+       "imageRef": "e8e3e7af134e106878483555a05d937aa53cc661"
+      }
+     ],
+     "strokeWeight": 1
+    }
+   ]
+  },
+  {
+   "id": "113:56",
+   "name": "Frame 375",
+   "type": "FRAME",
+   "box": {
+    "x": 8869,
+    "y": 36993,
+    "width": 236,
+    "height": 112
+   },
+   "strokes": [
+    "#191a15"
+   ],
+   "strokeWeight": 1,
+   "cornerRadius": 10,
+   "children": [
+    {
+     "id": "113:57",
+     "name": "Less assembly",
+     "type": "TEXT",
+     "box": {
+      "x": 8883,
+      "y": 37003,
+      "width": 130,
+      "height": 33
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#000000"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "Less assembly",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 600,
+      "fontSize": 16,
+      "lineHeightPx": 33,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#000000"
+    },
+    {
+     "id": "113:58",
+     "name": "Spend less time chasing updates and reports.",
+     "type": "TEXT",
+     "box": {
+      "x": 8883,
+      "y": 37049,
+      "width": 208,
+      "height": 40
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#000000",
+       "opacity": 0.6000000238418579
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "Spend less time chasing updates and reports.",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 400,
+      "fontSize": 14,
+      "lineHeightPx": 20,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#000000"
+    },
+    {
+     "id": "113:59",
+     "name": "03",
+     "type": "TEXT",
+     "box": {
+      "x": 9059,
+      "y": 36997,
+      "width": 26,
+      "height": 36
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#0053d0"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "03",
+     "textStyle": {
+      "fontFamily": "Times New Roman",
+      "fontWeight": 400,
+      "fontSize": 24,
+      "lineHeightPx": 71,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#0053d0"
+    }
+   ]
+  },
+  {
+   "id": "113:60",
+   "name": "Frame 376",
+   "type": "FRAME",
+   "box": {
+    "x": 8622,
+    "y": 36993,
+    "width": 236,
+    "height": 112
+   },
+   "strokes": [
+    "#191a15"
+   ],
+   "strokeWeight": 1,
+   "cornerRadius": 10,
+   "children": [
+    {
+     "id": "113:61",
+     "name": "Seven days",
+     "type": "TEXT",
+     "box": {
+      "x": 8636,
+      "y": 37003,
+      "width": 130,
+      "height": 33
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#000000"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "Seven days",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 600,
+      "fontSize": 16,
+      "lineHeightPx": 33,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#000000"
+    },
+    {
+     "id": "113:62",
+     "name": "See the signal without a long implementation.",
+     "type": "TEXT",
+     "box": {
+      "x": 8636,
+      "y": 37049,
+      "width": 208,
+      "height": 40
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#000000",
+       "opacity": 0.6000000238418579
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "See the signal without a long implementation.",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 400,
+      "fontSize": 14,
+      "lineHeightPx": 20,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#000000"
+    },
+    {
+     "id": "113:63",
+     "name": "02",
+     "type": "TEXT",
+     "box": {
+      "x": 8812,
+      "y": 36997,
+      "width": 26,
+      "height": 36
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#0053d0"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "02",
+     "textStyle": {
+      "fontFamily": "Times New Roman",
+      "fontWeight": 400,
+      "fontSize": 24,
+      "lineHeightPx": 71,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#0053d0"
+    }
+   ]
+  },
+  {
+   "id": "113:64",
+   "name": "Frame 377",
+   "type": "FRAME",
+   "box": {
+    "x": 8373,
+    "y": 36993,
+    "width": 236,
+    "height": 112
+   },
+   "strokes": [
+    "#191a15"
+   ],
+   "strokeWeight": 1,
+   "cornerRadius": 10,
+   "children": [
+    {
+     "id": "113:65",
+     "name": "One decision",
+     "type": "TEXT",
+     "box": {
+      "x": 8387,
+      "y": 37003,
+      "width": 130,
+      "height": 33
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#000000"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "One decision",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 600,
+      "fontSize": 16,
+      "lineHeightPx": 33,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#000000"
+    },
+    {
+     "id": "113:66",
+     "name": "Start with the call in front of you.",
+     "type": "TEXT",
+     "box": {
+      "x": 8387,
+      "y": 37049,
+      "width": 208,
+      "height": 40
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#000000",
+       "opacity": 0.6000000238418579
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "Start with the call in front of you.",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 400,
+      "fontSize": 14,
+      "lineHeightPx": 20,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#000000"
+    },
+    {
+     "id": "113:67",
+     "name": "01",
+     "type": "TEXT",
+     "box": {
+      "x": 8563,
+      "y": 36997,
+      "width": 26,
+      "height": 36
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#0053d0"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "01",
+     "textStyle": {
+      "fontFamily": "Times New Roman",
+      "fontWeight": 400,
+      "fontSize": 24,
+      "lineHeightPx": 71,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#0053d0"
+    }
+   ]
+  },
+  {
+   "id": "113:68",
+   "name": "Frame 249",
+   "type": "FRAME",
+   "box": {
+    "x": 8373,
+    "y": 37145,
+    "width": 313,
+    "height": 58
+   },
+   "fills": [],
+   "strokes": [
+    "#000000"
+   ],
+   "strokeWeight": 1,
+   "cornerRadius": 10,
+   "autoLayout": {
+    "mode": "HORIZONTAL",
+    "paddingTop": 10,
+    "paddingBottom": 10,
+    "paddingLeft": 20,
+    "paddingRight": 20,
+    "itemSpacing": 10,
+    "counterAxisAlignItems": "CENTER"
+   },
+   "children": [
+    {
+     "id": "113:69",
+     "name": "Frame 250",
+     "type": "FRAME",
+     "box": {
+      "x": 8393,
+      "y": 37162.5,
+      "width": 273,
+      "height": 23
+     },
+     "strokeWeight": 1,
+     "autoLayout": {
+      "mode": "HORIZONTAL",
+      "itemSpacing": 5,
+      "primaryAxisAlignItems": "CENTER",
+      "counterAxisAlignItems": "CENTER"
+     },
+     "children": [
+      {
+       "id": "113:70",
+       "name": "Apply for your 7-day assessment",
+       "type": "TEXT",
+       "box": {
+        "x": 8393,
+        "y": 37162.5,
+        "width": 253,
+        "height": 23
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#191a15"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "Apply for your 7-day assessment",
+       "textStyle": {
+        "fontFamily": "Inter",
+        "fontWeight": 500,
+        "fontSize": 16,
+        "lineHeightPx": 23,
+        "letterSpacing": 0,
+        "textAlign": "CENTER"
+       },
+       "textColor": "#191a15"
+      },
+      {
+       "id": "113:71",
+       "name": "arrow-left-02",
+       "type": "FRAME",
+       "box": {
+        "x": 8650.999999046326,
+        "y": 37166.499999642336,
+        "width": 15.00000226501652,
+        "height": 15.000000357664248
+       },
+       "strokeWeight": 1,
+       "children": [
+        {
+         "id": "113:72",
+         "name": "Vector",
+         "type": "VECTOR",
+         "box": {
+          "x": 8654.124999046326,
+          "y": 37173.99999926237,
+          "width": 8.437500953674316,
+          "height": 7.376293069683015e-7
+         },
+         "strokes": [
+          "#191a15"
+         ],
+         "strokeWeight": 1.5
+        },
+        {
+         "id": "113:73",
+         "name": "Vector",
+         "type": "VECTOR",
+         "box": {
+          "x": 8659.124980926514,
+          "y": 37170.24996820091,
+          "width": 3.7500197291592485,
+          "height": 7.50003179909254
+         },
+         "strokes": [
+          "#191a15"
+         ],
+         "strokeWeight": 1.5
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

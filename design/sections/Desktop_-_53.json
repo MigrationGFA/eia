@@ -1,0 +1,750 @@
+{
+ "id": "113:16",
+ "name": "Desktop - 53",
+ "type": "FRAME",
+ "box": {
+  "x": 7732,
+  "y": 35536,
+  "width": 1440,
+  "height": 948
+ },
+ "fills": [
+  {
+   "type": "SOLID",
+   "color": "#ebebeb"
+  }
+ ],
+ "strokeWeight": 1,
+ "children": [
+  {
+   "id": "113:17",
+   "name": "Frame 248",
+   "type": "FRAME",
+   "box": {
+    "x": 7732,
+    "y": 35536,
+    "width": 1440,
+    "height": 65
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#ebebeb"
+    }
+   ],
+   "strokeWeight": 1,
+   "effects": [
+    {
+     "type": "DROP_SHADOW",
+     "radius": 4,
+     "color": "#00000040",
+     "offset": {
+      "x": 0,
+      "y": 4
+     }
+    }
+   ],
+   "children": [
+    {
+     "id": "113:18",
+     "name": "Remsana",
+     "type": "TEXT",
+     "box": {
+      "x": 7796,
+      "y": 35558.5,
+      "width": 88,
+      "height": 20
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#0053d0"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "Remsana",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 500,
+      "fontSize": 20,
+      "lineHeightPx": 20,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#0053d0"
+    },
+    {
+     "id": "113:19",
+     "name": "Frame 249",
+     "type": "FRAME",
+     "box": {
+      "x": 8900,
+      "y": 35547,
+      "width": 208,
+      "height": 43
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#0053d0"
+      }
+     ],
+     "strokeWeight": 1,
+     "cornerRadius": 10,
+     "autoLayout": {
+      "mode": "HORIZONTAL",
+      "paddingTop": 10,
+      "paddingBottom": 10,
+      "paddingLeft": 20,
+      "paddingRight": 20,
+      "itemSpacing": 10,
+      "primaryAxisAlignItems": "CENTER",
+      "counterAxisAlignItems": "CENTER"
+     },
+     "children": [
+      {
+       "id": "113:20",
+       "name": "Frame 250",
+       "type": "FRAME",
+       "box": {
+        "x": 8920,
+        "y": 35557,
+        "width": 168,
+        "height": 23
+       },
+       "strokeWeight": 1,
+       "autoLayout": {
+        "mode": "HORIZONTAL",
+        "itemSpacing": 5,
+        "primaryAxisAlignItems": "CENTER",
+        "counterAxisAlignItems": "CENTER"
+       },
+       "children": [
+        {
+         "id": "113:21",
+         "name": "Apply for Assessment",
+         "type": "TEXT",
+         "box": {
+          "x": 8920,
+          "y": 35557,
+          "width": 168,
+          "height": 23
+         },
+         "fills": [
+          {
+           "type": "SOLID",
+           "color": "#ffffff"
+          }
+         ],
+         "strokeWeight": 1,
+         "characters": "Apply for Assessment ",
+         "textStyle": {
+          "fontFamily": "Inter",
+          "fontWeight": 500,
+          "fontSize": 16,
+          "lineHeightPx": 23,
+          "letterSpacing": 0,
+          "textAlign": "CENTER"
+         },
+         "textColor": "#ffffff"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "113:22",
+   "name": "Frame 253",
+   "type": "FRAME",
+   "box": {
+    "x": 8452,
+    "y": 35559,
+    "width": 342,
+    "height": 20
+   },
+   "strokeWeight": 1,
+   "autoLayout": {
+    "mode": "HORIZONTAL",
+    "itemSpacing": 36,
+    "primaryAxisAlignItems": "SPACE_BETWEEN",
+    "counterAxisAlignItems": "CENTER"
+   },
+   "children": [
+    {
+     "id": "113:23",
+     "name": "How it work",
+     "type": "TEXT",
+     "box": {
+      "x": 8452,
+      "y": 35559,
+      "width": 91,
+      "height": 20
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#000000"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "How it work",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 500,
+      "fontSize": 16,
+      "lineHeightPx": 20,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#000000"
+    },
+    {
+     "id": "113:24",
+     "name": "Questions",
+     "type": "TEXT",
+     "box": {
+      "x": 8614,
+      "y": 35559,
+      "width": 78,
+      "height": 20
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#000000"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "Questions",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 500,
+      "fontSize": 16,
+      "lineHeightPx": 20,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#000000"
+    },
+    {
+     "id": "113:25",
+     "name": "FAQ",
+     "type": "TEXT",
+     "box": {
+      "x": 8763,
+      "y": 35559,
+      "width": 31,
+      "height": 20
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#000000"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "FAQ",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 500,
+      "fontSize": 16,
+      "lineHeightPx": 20,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#000000"
+    }
+   ]
+  },
+  {
+   "id": "113:26",
+   "name": "Rectangle 158",
+   "type": "RECTANGLE",
+   "box": {
+    "x": 7732,
+    "y": 35601,
+    "width": 1440,
+    "height": 959
+   },
+   "fills": [
+    {
+     "type": "GRADIENT_LINEAR",
+     "stops": [
+      {
+       "color": "#ffffff00",
+       "pos": 0
+      },
+      {
+       "color": "#f1f1f1",
+       "pos": 1
+      }
+     ]
+    }
+   ],
+   "strokeWeight": 1
+  },
+  {
+   "id": "113:27",
+   "name": "What You Don't Know About Your Business Could Be Costing You Money",
+   "type": "TEXT",
+   "box": {
+    "x": 7799,
+    "y": 35824,
+    "width": 781,
+    "height": 213
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#202020"
+    }
+   ],
+   "strokeWeight": 1,
+   "characters": "What You Don't Know About Your Business Could Be Costing You Money",
+   "textStyle": {
+    "fontFamily": "Times New Roman",
+    "fontWeight": 400,
+    "fontSize": 64,
+    "lineHeightPx": 71,
+    "letterSpacing": 0,
+    "textAlign": "LEFT"
+   },
+   "textColor": "#202020"
+  },
+  {
+   "id": "113:28",
+   "name": "For CEOs and Managing Directors making high-stakes calls with fragmented information. The Remsana Executive Intelligence Assessment gives you a clearer answer from your own business data in 7 days, without spending another week assembling reports.",
+   "type": "TEXT",
+   "box": {
+    "x": 7799,
+    "y": 36068,
+    "width": 749,
+    "height": 108
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#000000"
+    }
+   ],
+   "strokeWeight": 1,
+   "characters": "For CEOs and Managing Directors making high-stakes calls with fragmented information.\n\nThe Remsana Executive Intelligence Assessment gives you a clearer answer from your own business data in 7 days, without spending another week assembling reports.",
+   "textStyle": {
+    "fontFamily": "Inter",
+    "fontWeight": 400,
+    "fontSize": 16,
+    "lineHeightPx": 27,
+    "letterSpacing": 0,
+    "textAlign": "LEFT"
+   },
+   "textColor": "#000000"
+  },
+  {
+   "id": "113:29",
+   "name": "button",
+   "type": "FRAME",
+   "box": {
+    "x": 7799,
+    "y": 36214,
+    "width": 530,
+    "height": 58
+   },
+   "strokeWeight": 1,
+   "autoLayout": {
+    "mode": "HORIZONTAL",
+    "itemSpacing": 8,
+    "counterAxisAlignItems": "CENTER"
+   },
+   "children": [
+    {
+     "id": "113:30",
+     "name": "Frame 249",
+     "type": "FRAME",
+     "box": {
+      "x": 7799,
+      "y": 36214,
+      "width": 313,
+      "height": 58
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#0053d0"
+      }
+     ],
+     "strokeWeight": 1,
+     "cornerRadius": 10,
+     "autoLayout": {
+      "mode": "HORIZONTAL",
+      "paddingTop": 10,
+      "paddingBottom": 10,
+      "paddingLeft": 20,
+      "paddingRight": 20,
+      "itemSpacing": 10,
+      "counterAxisAlignItems": "CENTER"
+     },
+     "children": [
+      {
+       "id": "113:31",
+       "name": "Frame 250",
+       "type": "FRAME",
+       "box": {
+        "x": 7819,
+        "y": 36231.5,
+        "width": 273,
+        "height": 23
+       },
+       "strokeWeight": 1,
+       "autoLayout": {
+        "mode": "HORIZONTAL",
+        "itemSpacing": 5,
+        "primaryAxisAlignItems": "CENTER",
+        "counterAxisAlignItems": "CENTER"
+       },
+       "children": [
+        {
+         "id": "113:32",
+         "name": "Apply for your 7-day assessment",
+         "type": "TEXT",
+         "box": {
+          "x": 7819,
+          "y": 36231.5,
+          "width": 253,
+          "height": 23
+         },
+         "fills": [
+          {
+           "type": "SOLID",
+           "color": "#ffffff"
+          }
+         ],
+         "strokeWeight": 1,
+         "characters": "Apply for your 7-day assessment",
+         "textStyle": {
+          "fontFamily": "Inter",
+          "fontWeight": 500,
+          "fontSize": 16,
+          "lineHeightPx": 23,
+          "letterSpacing": 0,
+          "textAlign": "CENTER"
+         },
+         "textColor": "#ffffff"
+        },
+        {
+         "id": "113:33",
+         "name": "arrow-left-02",
+         "type": "FRAME",
+         "box": {
+          "x": 8076.999999046326,
+          "y": 36235.499999642336,
+          "width": 15.00000226501561,
+          "height": 15.000000357664248
+         },
+         "strokeWeight": 1,
+         "children": [
+          {
+           "id": "113:34",
+           "name": "Vector",
+           "type": "VECTOR",
+           "box": {
+            "x": 8080.124999046326,
+            "y": 36242.99999926237,
+            "width": 8.437500953674316,
+            "height": 7.376293069683015e-7
+           },
+           "strokes": [
+            "#ffffff"
+           ],
+           "strokeWeight": 1.5
+          },
+          {
+           "id": "113:35",
+           "name": "Vector",
+           "type": "VECTOR",
+           "box": {
+            "x": 8085.124980926514,
+            "y": 36239.24996820091,
+            "width": 3.750019729160158,
+            "height": 7.50003179909254
+           },
+           "strokes": [
+            "#ffffff"
+           ],
+           "strokeWeight": 1.5
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "113:36",
+     "name": "Frame 252",
+     "type": "FRAME",
+     "box": {
+      "x": 8120,
+      "y": 36214,
+      "width": 209,
+      "height": 58
+     },
+     "fills": [],
+     "strokes": [
+      "GRADIENT_LINEAR",
+      "#0053d0"
+     ],
+     "strokeWeight": 1,
+     "cornerRadius": 10,
+     "autoLayout": {
+      "mode": "HORIZONTAL",
+      "primaryAxisAlignItems": "CENTER",
+      "counterAxisAlignItems": "CENTER"
+     },
+     "children": [
+      {
+       "id": "113:37",
+       "name": "Frame 250",
+       "type": "FRAME",
+       "box": {
+        "x": 8155.5,
+        "y": 36231.5,
+        "width": 138,
+        "height": 23
+       },
+       "strokeWeight": 1,
+       "autoLayout": {
+        "mode": "HORIZONTAL",
+        "itemSpacing": 5,
+        "primaryAxisAlignItems": "CENTER",
+        "counterAxisAlignItems": "CENTER"
+       },
+       "children": [
+        {
+         "id": "113:38",
+         "name": "Request for Demo",
+         "type": "TEXT",
+         "box": {
+          "x": 8155.5,
+          "y": 36231.5,
+          "width": 138,
+          "height": 23
+         },
+         "fills": [
+          {
+           "type": "SOLID",
+           "color": "#0053d0"
+          }
+         ],
+         "strokeWeight": 1,
+         "characters": "Request for Demo",
+         "textStyle": {
+          "fontFamily": "Inter",
+          "fontWeight": 500,
+          "fontSize": 16,
+          "lineHeightPx": 23,
+          "letterSpacing": 0,
+          "textAlign": "CENTER"
+         },
+         "textColor": "#0053d0"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "113:39",
+   "name": "Frame 367",
+   "type": "FRAME",
+   "box": {
+    "x": 7795,
+    "y": 35770,
+    "width": 207,
+    "height": 40
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#0053d0",
+     "opacity": 0.10000000149011612
+    }
+   ],
+   "strokeWeight": 1,
+   "cornerRadius": 50,
+   "autoLayout": {
+    "mode": "HORIZONTAL",
+    "paddingTop": 20,
+    "paddingBottom": 20,
+    "paddingLeft": 20,
+    "paddingRight": 20,
+    "itemSpacing": 10,
+    "primaryAxisAlignItems": "CENTER",
+    "counterAxisAlignItems": "CENTER"
+   },
+   "children": [
+    {
+     "id": "113:40",
+     "name": "Executive intelligence",
+     "type": "TEXT",
+     "box": {
+      "x": 7815,
+      "y": 35784,
+      "width": 167,
+      "height": 12
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#191a15"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "Executive intelligence",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 500,
+      "fontSize": 16,
+      "lineHeightPx": 22,
+      "letterSpacing": 0,
+      "textAlign": "CENTER"
+     },
+     "textColor": "#191a15"
+    }
+   ]
+  },
+  {
+   "id": "113:41",
+   "name": "Frame 368",
+   "type": "FRAME",
+   "box": {
+    "x": 8576.664001193416,
+    "y": 35751.19921875,
+    "width": 538.8341486240333,
+    "height": 647.8553805295815
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#ffffff"
+    }
+   ],
+   "strokeWeight": 1,
+   "cornerRadius": 20,
+   "children": [
+    {
+     "id": "113:42",
+     "name": "remsana-hero 1",
+     "type": "RECTANGLE",
+     "box": {
+      "x": 8487.660336766276,
+      "y": 35743.9375,
+      "width": 804.8193674917566,
+      "height": 804.8193674917566
+     },
+     "fills": [
+      {
+       "type": "IMAGE",
+       "imageRef": "cd349cfbaa72933116d86c4b986340ab4d550a68"
+      }
+     ],
+     "strokeWeight": 1
+    }
+   ]
+  },
+  {
+   "id": "113:43",
+   "name": "Frame 369",
+   "type": "FRAME",
+   "box": {
+    "x": 7801,
+    "y": 36325,
+    "width": 455,
+    "height": 37
+   },
+   "strokeWeight": 1,
+   "autoLayout": {
+    "mode": "HORIZONTAL",
+    "itemSpacing": 8,
+    "primaryAxisAlignItems": "CENTER",
+    "counterAxisAlignItems": "CENTER"
+   },
+   "children": [
+    {
+     "id": "113:44",
+     "name": "security-check",
+     "type": "FRAME",
+     "box": {
+      "x": 7801,
+      "y": 36331.5,
+      "width": 24,
+      "height": 24
+     },
+     "strokeWeight": 1,
+     "children": [
+      {
+       "id": "113:45",
+       "name": "Vector",
+       "type": "VECTOR",
+       "box": {
+        "x": 7804,
+        "y": 36333.5,
+        "width": 18,
+        "height": 20
+       },
+       "strokes": [
+        "#0053d0"
+       ],
+       "strokeWeight": 1.5
+      },
+      {
+       "id": "113:46",
+       "name": "Vector",
+       "type": "VECTOR",
+       "box": {
+        "x": 7810,
+        "y": 36341,
+        "width": 6,
+        "height": 4
+       },
+       "strokes": [
+        "#0053d0"
+       ],
+       "strokeWeight": 1.5
+      }
+     ]
+    },
+    {
+     "id": "113:47",
+     "name": "Limited to 8 assessments per month for quality delivery.",
+     "type": "TEXT",
+     "box": {
+      "x": 7833,
+      "y": 36325,
+      "width": 423,
+      "height": 37
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#000000"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "Limited to 8 assessments per month for quality delivery.",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 300,
+      "fontSize": 16,
+      "lineHeightPx": 37,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#000000"
+    }
+   ]
+  }
+ ]
+}

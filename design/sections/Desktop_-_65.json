@@ -1,0 +1,252 @@
+{
+ "id": "113:358",
+ "name": "Desktop - 65",
+ "type": "FRAME",
+ "box": {
+  "x": 7732,
+  "y": 46659,
+  "width": 1440,
+  "height": 915
+ },
+ "fills": [
+  {
+   "type": "SOLID",
+   "color": "#1b2027"
+  }
+ ],
+ "strokeWeight": 1,
+ "children": [
+  {
+   "id": "113:359",
+   "name": "Rectangle 158",
+   "type": "RECTANGLE",
+   "box": {
+    "x": 7732,
+    "y": 46724,
+    "width": 1440,
+    "height": 959
+   },
+   "fills": [
+    {
+     "type": "GRADIENT_LINEAR",
+     "stops": [
+      {
+       "color": "#ffffff00",
+       "pos": 0
+      },
+      {
+       "color": "#f1f1f1",
+       "pos": 1
+      }
+     ]
+    }
+   ],
+   "strokeWeight": 1
+  },
+  {
+   "id": "113:360",
+   "name": "The decisions you make are only as good as the information behind them.",
+   "type": "TEXT",
+   "box": {
+    "x": 7900,
+    "y": 46935,
+    "width": 1045,
+    "height": 300
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#ffffff"
+    }
+   ],
+   "strokeWeight": 1,
+   "characters": "The decisions you make are only as good as the information behind them.",
+   "textStyle": {
+    "fontFamily": "Times New Roman",
+    "fontWeight": 400,
+    "fontSize": 96,
+    "lineHeightPx": 100,
+    "letterSpacing": 0,
+    "textAlign": "CENTER"
+   },
+   "textColor": "#ffffff"
+  },
+  {
+   "id": "113:361",
+   "name": "Tell us the decision you are weighing. We’ll help you see what your business may be trying to tell you.",
+   "type": "TEXT",
+   "box": {
+    "x": 8024,
+    "y": 47281,
+    "width": 798,
+    "height": 33
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#ffffff",
+     "opacity": 0.6000000238418579
+    }
+   ],
+   "strokeWeight": 1,
+   "characters": "Tell us the decision you are weighing. We’ll help you see what your business may be trying to tell you.",
+   "textStyle": {
+    "fontFamily": "Inter",
+    "fontWeight": 400,
+    "fontSize": 16,
+    "lineHeightPx": 33,
+    "letterSpacing": 0,
+    "textAlign": "CENTER"
+   },
+   "textColor": "#ffffff"
+  },
+  {
+   "id": "113:362",
+   "name": "Frame 366",
+   "type": "FRAME",
+   "box": {
+    "x": 8286,
+    "y": 47378,
+    "width": 273,
+    "height": 58
+   },
+   "fills": [],
+   "strokes": [
+    "#ffffff"
+   ],
+   "strokeWeight": 1,
+   "cornerRadius": 10,
+   "autoLayout": {
+    "mode": "HORIZONTAL",
+    "paddingTop": 10,
+    "paddingBottom": 10,
+    "paddingLeft": 20,
+    "paddingRight": 20,
+    "itemSpacing": 10,
+    "counterAxisAlignItems": "CENTER"
+   },
+   "children": [
+    {
+     "id": "113:363",
+     "name": "Frame 250",
+     "type": "FRAME",
+     "box": {
+      "x": 8306,
+      "y": 47395.5,
+      "width": 233,
+      "height": 23
+     },
+     "strokeWeight": 1,
+     "autoLayout": {
+      "mode": "HORIZONTAL",
+      "itemSpacing": 5,
+      "primaryAxisAlignItems": "CENTER",
+      "counterAxisAlignItems": "CENTER"
+     },
+     "children": [
+      {
+       "id": "113:364",
+       "name": "Start your CEO Assessment",
+       "type": "TEXT",
+       "box": {
+        "x": 8306,
+        "y": 47395.5,
+        "width": 213,
+        "height": 23
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#ffffff"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "Start your CEO Assessment",
+       "textStyle": {
+        "fontFamily": "Inter",
+        "fontWeight": 500,
+        "fontSize": 16,
+        "lineHeightPx": 23,
+        "letterSpacing": 0,
+        "textAlign": "CENTER"
+       },
+       "textColor": "#ffffff"
+      },
+      {
+       "id": "113:365",
+       "name": "arrow-left-02",
+       "type": "FRAME",
+       "box": {
+        "x": 8523.999999046326,
+        "y": 47399.499999642336,
+        "width": 15.00000226501652,
+        "height": 15.000000357664248
+       },
+       "strokeWeight": 1,
+       "children": [
+        {
+         "id": "113:366",
+         "name": "Vector",
+         "type": "VECTOR",
+         "box": {
+          "x": 8527.124999046326,
+          "y": 47406.99999926237,
+          "width": 8.437500953674316,
+          "height": 7.376293069683015e-7
+         },
+         "strokes": [
+          "#ffffff"
+         ],
+         "strokeWeight": 1.5
+        },
+        {
+         "id": "113:367",
+         "name": "Vector",
+         "type": "VECTOR",
+         "box": {
+          "x": 8532.124980926514,
+          "y": 47403.24996820091,
+          "width": 3.7500197291592485,
+          "height": 7.50003179909254
+         },
+         "strokes": [
+          "#ffffff"
+         ],
+         "strokeWeight": 1.5
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "113:368",
+   "name": "Your next decision deserves a clearer brief",
+   "type": "TEXT",
+   "box": {
+    "x": 8241,
+    "y": 46811,
+    "width": 364,
+    "height": 27
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#ffffff"
+    }
+   ],
+   "strokeWeight": 1,
+   "characters": "Your next decision deserves a clearer brief",
+   "textStyle": {
+    "fontFamily": "Inter",
+    "fontWeight": 400,
+    "fontSize": 16,
+    "lineHeightPx": 27,
+    "letterSpacing": 0,
+    "textAlign": "CENTER"
+   },
+   "textColor": "#ffffff"
+  }
+ ]
+}

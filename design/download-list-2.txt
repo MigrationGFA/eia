@@ -1,0 +1,12 @@
+https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/1797fccb-f6dc-4984-9983-3f3dc8a408da
+  -o assets/chat-question.svg
+https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/5723c4b5-39f3-4527-9a1b-f23c1a6ab3be
+  -o assets/analytics-02.svg
+https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/c691bd38-565a-427a-9d0d-f1f92772cf81
+  -o assets/idea-01.svg
+https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/73659c69-e6d7-4aec-94e7-25ab319b1721
+  -o assets/database.svg
+https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/20ce6f0a-6421-4f89-96cb-3055e17aa8be
+  -o assets/validation-approval.svg
+https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/210d215b-c321-4456-b1a6-dda092aaca15
+  -o assets/gift-card-02.svg

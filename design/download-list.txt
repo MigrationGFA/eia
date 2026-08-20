@@ -1,0 +1,22 @@
+https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/b528e0bd-c218-46dd-882d-df4c3607d944
+  -o assets/arrow-left-02.svg
+https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/3598ba1e-436b-4d69-8576-60b03d8c33ef
+  -o assets/security-check.svg
+https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/5d1a530e-ac99-486e-955b-f3a4e3344edc
+  -o assets/icon-x.svg
+https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/913e622f-b8c2-4a59-a0d1-700f33321480
+  -o assets/icon-check.svg
+https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/0246c945-b356-40f3-8c7b-3ab913727fa9
+  -o assets/arrow-down-01.svg
+https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/59a0a629-ad9c-42d2-bcd9-ae85500f2bef
+  -o assets/check-badge.svg
+https://s3-alpha-sig.figma.com/img/0df4/6958/f6582c8c24e80e525fc90a54b76b6ebb?Expires=1788134400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=beaeFFjF5MiIA27Xs4vbwkVcgfsRQfJyeCelh6k-jrTQXy8-E0MXYNAyzCu2-Dvhn1bypQZAdlq-CbUVxqZmx58yEKMR~RbZrqX~PiPXt738Zq2~e2pnL8DeBuYuVX1mqUB~oRFh7fZfrIEENd868M0jLQjEAuAHJ2~z6G5WkEktzSqgkW-Rv-hxoGiDALTAHmxODn1pz~j3x19S1l0sL8~8bNa0-wfuUURcnNslRgyDn8SXiWk--mSACWVozD3xTBPazegDaKuR-h-xtsWXu4RPwkkKC0UBK4Itq7eeHc2HG2wxXmoMHF3BaKkX0qVkkzBcVNMzUfF-faxhKZdPlw__
+  -o assets/remsana-ceo-finance-3.png
+https://s3-alpha-sig.figma.com/img/cd34/9cfb/aa72933116d86c4b986340ab4d550a68?Expires=1788134400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=IF0CQ31Ns4bHkiokd5dOhLqbohcuW3zHewQx54sfD380o~8u5Mx8kXhlbLKNuKIw9dS5qWbk68kwTye-B1Gu8iIXdD35vplelV~t4Lbhrtd6u~bl3hAi3qwI23JmJ~FqS6ZtlaEdkFQNbtA7jg8RBw-m-K3NzIdu9vWyrhdzpqJtmPazLcXLyKlas3x8VrW8u8zEjN6Gx5-V0X-8yYKKv~Cs9KYZAU91OARm38Qw63Sh2yooEC2skPzleqIQpcs~917w6-PWBvI3t6zfcwEOzFpbEBwDh5txDD-sAsndSFy6cUR3qBN-R9lcVIau9QSwOD9zPrLcnJr0KZttwpd8SA__
+  -o assets/remsana-hero.png
+https://s3-alpha-sig.figma.com/img/d688/b9a3/9786f096f9e73a892d61b0d6c4e977d8?Expires=1788134400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=sks-mdIiX9s-SEPJC0pZNKXBlJSJYmDehsBtrFKfpbckKZ4OabdjKpnrIuIp3-SJKUAsZX0xslcKUexfsCddUG64Xt40r1374wkkKkxiWaioUy2n0~uY9dJCEAFowChfZnjDx729fZ9MmSvrxpjMn5CBXo1A3MOfG1Qwf9fI4l4Ht7CWUVgME3O4MGU1v4VEAHtaabAIO3YZedY672RS0Zs3U~JM-Xw7vj6-xuiAXnRSzbNkoTpZrqmO6yRwMKydBskwj9Uq0nKE-7dG~l6FKwwH99H~hEAugUyYDhVTQM~NjeFYnnxbI0YKXdezYdlh15SKegijyQRldAwYDLBzQA__
+  -o assets/remsana-ceo-finance-2.png
+https://s3-alpha-sig.figma.com/img/e8e3/e7af/134e106878483555a05d937aa53cc661?Expires=1788134400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=Mh~WsKdBCvfOBN9ytIrCD-2bFNB7NXbUjUj9ukEDyKyEJmBzZgrMWNSiskdeQGntZN4Zl2tfM84gcdNl26E1pwfDADllFQjfsrooIVoVTkpLMU3AlTxA7nv8kGBe3EQNhM7ph~67deg8JqAVOSDesX3DUCqt8PUz7enc0qBkC07qiVhGnT4exrTAjO1Y4i6co1jF9Uf0B-StQSXbi92Zglx~eihbL59uqkF9j2UzRWFdewzZDyrrWOxAp6DcvSG6pX5gCVFbbxhqaEhAKsE-Pm5UkNKiF1np29xJZ8iOLuOoqxZ4PwoFcUmJVU-HdeOpx8h9Rz4V-MXqDM3ZWDb-bg__
+  -o assets/remsana-ceo-finance-1.png
+https://s3-alpha-sig.figma.com/img/f81e/65e8/da096e08456a02d05ae829f42ad1bad2?Expires=1788134400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=HjZpddNo1iA9W~xTaQjPKqLvBdRQJE-RZ4OHgKqWf0RJPVZkcynT3Ig4LdcifgcEac-~FnRAMd4TflnKwfh8Lml4RvTZFTVxBh~0woZoqpb1tvRlI0CRklxwHZdAbLfVCVmGplddjiOgaI1ItOIycJ1PxqgtGwRFcls4C48jaCp4ipvsLWFa4wz9H5WPwqQ3~q356Bhd~BeKylXNcjxzJ2S1j2gYpggKoW~jTVaqPYb6ha2~ygEp33IE97Q3heFRIbvNNFn22NesOxQcRM1YABSp239MxyqSQcirZFRkl7WbOxN8UrSedQUTHfaB-wkMedcc8saI2niSPUAS58YnJw__
+  -o assets/remsana-ceo-finance-4.png

@@ -1,0 +1,554 @@
+{
+ "id": "113:74",
+ "name": "Desktop - 61",
+ "type": "FRAME",
+ "box": {
+  "x": 7732,
+  "y": 37376,
+  "width": 1440,
+  "height": 974
+ },
+ "fills": [
+  {
+   "type": "SOLID",
+   "color": "#1b2027"
+  }
+ ],
+ "strokeWeight": 1,
+ "children": [
+  {
+   "id": "113:75",
+   "name": "Rectangle 158",
+   "type": "RECTANGLE",
+   "box": {
+    "x": 7732,
+    "y": 37441,
+    "width": 1440,
+    "height": 959
+   },
+   "fills": [
+    {
+     "type": "GRADIENT_LINEAR",
+     "stops": [
+      {
+       "color": "#ffffff00",
+       "pos": 0
+      },
+      {
+       "color": "#f1f1f1",
+       "pos": 1
+      }
+     ]
+    }
+   ],
+   "strokeWeight": 1
+  },
+  {
+   "id": "113:76",
+   "name": "Most CEOs are making high-stakes decisions without the full picture.",
+   "type": "TEXT",
+   "box": {
+    "x": 7858,
+    "y": 37532,
+    "width": 937,
+    "height": 142
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#ffffff"
+    }
+   ],
+   "strokeWeight": 1,
+   "characters": "Most CEOs are making high-stakes decisions without the full picture.",
+   "textStyle": {
+    "fontFamily": "Times New Roman",
+    "fontWeight": 400,
+    "fontSize": 64,
+    "lineHeightPx": 71,
+    "letterSpacing": 0,
+    "textAlign": "LEFT"
+   },
+   "textColor": "#ffffff"
+  },
+  {
+   "id": "113:77",
+   "name": "You still have to decide every day.",
+   "type": "TEXT",
+   "box": {
+    "x": 7858,
+    "y": 37734,
+    "width": 625,
+    "height": 33
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#ffffff",
+     "opacity": 0.6000000238418579
+    }
+   ],
+   "strokeWeight": 1,
+   "characters": "You still have to decide every day.",
+   "textStyle": {
+    "fontFamily": "Inter",
+    "fontWeight": 400,
+    "fontSize": 16,
+    "lineHeightPx": 33,
+    "letterSpacing": 0,
+    "textAlign": "LEFT"
+   },
+   "textColor": "#ffffff"
+  },
+  {
+   "id": "113:78",
+   "name": "The problem isn’t a lack of effort.",
+   "type": "TEXT",
+   "box": {
+    "x": 7858,
+    "y": 38121,
+    "width": 625,
+    "height": 33
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#0053d0"
+    }
+   ],
+   "strokeWeight": 1,
+   "characters": "The problem isn’t a lack of effort.",
+   "textStyle": {
+    "fontFamily": "Inter",
+    "fontWeight": 600,
+    "fontSize": 16,
+    "lineHeightPx": 33,
+    "letterSpacing": 0,
+    "textAlign": "LEFT"
+   },
+   "textColor": "#0053d0"
+  },
+  {
+   "id": "113:79",
+   "name": "The problem is that critical business information is often scattered across spreadsheets, reports, systems, and people. By the time the information is assembled, the opportunity or problem has already passed. You lose time getting to the answer you are already responsible for.",
+   "type": "TEXT",
+   "box": {
+    "x": 7858,
+    "y": 38154,
+    "width": 912,
+    "height": 99
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#ffffff",
+     "opacity": 0.6000000238418579
+    }
+   ],
+   "strokeWeight": 1,
+   "characters": "The problem is that critical business information is often scattered across spreadsheets, reports, systems, and people. By the time the information is assembled, the opportunity or problem has already passed. You lose time getting to the answer you are already responsible for.",
+   "textStyle": {
+    "fontFamily": "Inter",
+    "fontWeight": 400,
+    "fontSize": 16,
+    "lineHeightPx": 33,
+    "letterSpacing": 0,
+    "textAlign": "LEFT"
+   },
+   "textColor": "#ffffff"
+  },
+  {
+   "id": "113:80",
+   "name": "The visibility problem",
+   "type": "TEXT",
+   "box": {
+    "x": 7858,
+    "y": 37473,
+    "width": 285,
+    "height": 27
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#ffffff"
+    }
+   ],
+   "strokeWeight": 1,
+   "characters": "The visibility problem",
+   "textStyle": {
+    "fontFamily": "Inter",
+    "fontWeight": 400,
+    "fontSize": 16,
+    "lineHeightPx": 27,
+    "letterSpacing": 0,
+    "textAlign": "LEFT"
+   },
+   "textColor": "#ffffff"
+  },
+  {
+   "id": "113:81",
+   "name": "Frame 377",
+   "type": "FRAME",
+   "box": {
+    "x": 7858,
+    "y": 37801,
+    "width": 362,
+    "height": 75
+   },
+   "strokes": [
+    "#ffffff"
+   ],
+   "strokeWeight": 1,
+   "children": [
+    {
+     "id": "113:82",
+     "name": "Should we hire more staff?",
+     "type": "TEXT",
+     "box": {
+      "x": 7911,
+      "y": 37825,
+      "width": 184,
+      "height": 20
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#ffffff"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "Should we hire more staff?",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 400,
+      "fontSize": 14,
+      "lineHeightPx": 20,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#ffffff"
+    },
+    {
+     "id": "113:83",
+     "name": "01",
+     "type": "TEXT",
+     "box": {
+      "x": 7874,
+      "y": 37814,
+      "width": 26,
+      "height": 36
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#0053d0"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "01",
+     "textStyle": {
+      "fontFamily": "Times New Roman",
+      "fontWeight": 400,
+      "fontSize": 24,
+      "lineHeightPx": 71,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#0053d0"
+    }
+   ]
+  },
+  {
+   "id": "113:84",
+   "name": "Frame 379",
+   "type": "FRAME",
+   "box": {
+    "x": 7858,
+    "y": 37885,
+    "width": 362,
+    "height": 75
+   },
+   "strokes": [
+    "#ffffff"
+   ],
+   "strokeWeight": 1,
+   "children": [
+    {
+     "id": "113:85",
+     "name": "Which customers generate the most profit?",
+     "type": "TEXT",
+     "box": {
+      "x": 7911,
+      "y": 37909,
+      "width": 295,
+      "height": 20
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#ffffff"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "Which customers generate the most profit?",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 400,
+      "fontSize": 14,
+      "lineHeightPx": 20,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#ffffff"
+    },
+    {
+     "id": "113:86",
+     "name": "03",
+     "type": "TEXT",
+     "box": {
+      "x": 7874,
+      "y": 37898,
+      "width": 26,
+      "height": 36
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#0053d0"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "03",
+     "textStyle": {
+      "fontFamily": "Times New Roman",
+      "fontWeight": 400,
+      "fontSize": 24,
+      "lineHeightPx": 71,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#0053d0"
+    }
+   ]
+  },
+  {
+   "id": "113:87",
+   "name": "Frame 381",
+   "type": "FRAME",
+   "box": {
+    "x": 7858,
+    "y": 37972,
+    "width": 362,
+    "height": 75
+   },
+   "strokes": [
+    "#ffffff"
+   ],
+   "strokeWeight": 1,
+   "children": [
+    {
+     "id": "113:88",
+     "name": "Which areas of the business need immediate attention?",
+     "type": "TEXT",
+     "box": {
+      "x": 7911,
+      "y": 37986,
+      "width": 309,
+      "height": 40
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#ffffff"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "Which areas of the business need immediate attention?",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 400,
+      "fontSize": 14,
+      "lineHeightPx": 20,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#ffffff"
+    },
+    {
+     "id": "113:89",
+     "name": "05",
+     "type": "TEXT",
+     "box": {
+      "x": 7874,
+      "y": 37985,
+      "width": 26,
+      "height": 36
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#0053d0"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "05",
+     "textStyle": {
+      "fontFamily": "Times New Roman",
+      "fontWeight": 400,
+      "fontSize": 24,
+      "lineHeightPx": 71,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#0053d0"
+    }
+   ]
+  },
+  {
+   "id": "113:90",
+   "name": "Frame 378",
+   "type": "FRAME",
+   "box": {
+    "x": 8279,
+    "y": 37801,
+    "width": 348,
+    "height": 75
+   },
+   "strokes": [
+    "#ffffff"
+   ],
+   "strokeWeight": 1,
+   "children": [
+    {
+     "id": "113:91",
+     "name": "Why is cash flow always under pressure?",
+     "type": "TEXT",
+     "box": {
+      "x": 8333,
+      "y": 37822,
+      "width": 306,
+      "height": 20
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#ffffff"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "Why is cash flow always under pressure?",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 400,
+      "fontSize": 14,
+      "lineHeightPx": 20,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#ffffff"
+    },
+    {
+     "id": "113:92",
+     "name": "02",
+     "type": "TEXT",
+     "box": {
+      "x": 8295,
+      "y": 37814,
+      "width": 26,
+      "height": 36
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#0053d0"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "02",
+     "textStyle": {
+      "fontFamily": "Times New Roman",
+      "fontWeight": 400,
+      "fontSize": 24,
+      "lineHeightPx": 71,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#0053d0"
+    }
+   ]
+  },
+  {
+   "id": "113:93",
+   "name": "Frame 380",
+   "type": "FRAME",
+   "box": {
+    "x": 8279,
+    "y": 37885,
+    "width": 348,
+    "height": 75
+   },
+   "strokes": [
+    "#ffffff"
+   ],
+   "strokeWeight": 1,
+   "children": [
+    {
+     "id": "113:94",
+     "name": "Why are sales inconsistent?",
+     "type": "TEXT",
+     "box": {
+      "x": 8333,
+      "y": 37906,
+      "width": 306,
+      "height": 20
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#ffffff"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "Why are sales inconsistent?",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 400,
+      "fontSize": 14,
+      "lineHeightPx": 20,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#ffffff"
+    },
+    {
+     "id": "113:95",
+     "name": "04",
+     "type": "TEXT",
+     "box": {
+      "x": 8295,
+      "y": 37898,
+      "width": 26,
+      "height": 36
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#0053d0"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "04",
+     "textStyle": {
+      "fontFamily": "Times New Roman",
+      "fontWeight": 400,
+      "fontSize": 24,
+      "lineHeightPx": 71,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#0053d0"
+    }
+   ]
+  }
+ ]
+}

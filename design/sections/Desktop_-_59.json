@@ -1,0 +1,300 @@
+{
+ "id": "113:310",
+ "name": "Desktop - 59",
+ "type": "FRAME",
+ "box": {
+  "x": 7732,
+  "y": 45258,
+  "width": 1440,
+  "height": 598
+ },
+ "fills": [
+  {
+   "type": "SOLID",
+   "color": "#ffc74e"
+  }
+ ],
+ "strokeWeight": 1,
+ "children": [
+  {
+   "id": "113:311",
+   "name": "Rectangle 158",
+   "type": "RECTANGLE",
+   "box": {
+    "x": 7732,
+    "y": 45323,
+    "width": 1440,
+    "height": 959
+   },
+   "fills": [
+    {
+     "type": "GRADIENT_LINEAR",
+     "stops": [
+      {
+       "color": "#ffffff00",
+       "pos": 0
+      },
+      {
+       "color": "#f1f1f1",
+       "pos": 1
+      }
+     ]
+    }
+   ],
+   "strokeWeight": 1
+  },
+  {
+   "id": "113:312",
+   "name": "Only 8 businesses per month.",
+   "type": "TEXT",
+   "box": {
+    "x": 7858,
+    "y": 45355,
+    "width": 703,
+    "height": 186
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#202020"
+    }
+   ],
+   "strokeWeight": 1,
+   "characters": "Only 8 businesses per month.",
+   "textStyle": {
+    "fontFamily": "Times New Roman",
+    "fontWeight": 400,
+    "fontSize": 96,
+    "lineHeightPx": 93,
+    "letterSpacing": 0,
+    "textAlign": "LEFT"
+   },
+   "textColor": "#202020"
+  },
+  {
+   "id": "113:313",
+   "name": "To maintain delivery quality and personalized attention, Remsana currently accepts only 8 Executive Intelligence Assessments per month. Applications are reviewed before invitations are issued.",
+   "type": "TEXT",
+   "box": {
+    "x": 7857,
+    "y": 45582,
+    "width": 584,
+    "height": 99
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#000000"
+    }
+   ],
+   "strokeWeight": 1,
+   "characters": "To maintain delivery quality and personalized attention, Remsana currently accepts only 8 Executive Intelligence Assessments per month. Applications are reviewed before invitations are issued.",
+   "textStyle": {
+    "fontFamily": "Inter",
+    "fontWeight": 400,
+    "fontSize": 16,
+    "lineHeightPx": 33,
+    "letterSpacing": 0,
+    "textAlign": "LEFT"
+   },
+   "textColor": "#000000"
+  },
+  {
+   "id": "113:314",
+   "name": "Frame 366",
+   "type": "FRAME",
+   "box": {
+    "x": 7858,
+    "y": 45718,
+    "width": 319,
+    "height": 58
+   },
+   "fills": [],
+   "strokes": [
+    "#000000"
+   ],
+   "strokeWeight": 1,
+   "cornerRadius": 10,
+   "autoLayout": {
+    "mode": "HORIZONTAL",
+    "paddingTop": 10,
+    "paddingBottom": 10,
+    "paddingLeft": 20,
+    "paddingRight": 20,
+    "itemSpacing": 10,
+    "counterAxisAlignItems": "CENTER"
+   },
+   "children": [
+    {
+     "id": "113:315",
+     "name": "Frame 250",
+     "type": "FRAME",
+     "box": {
+      "x": 7878,
+      "y": 45735.5,
+      "width": 279,
+      "height": 23
+     },
+     "strokeWeight": 1,
+     "autoLayout": {
+      "mode": "HORIZONTAL",
+      "itemSpacing": 5,
+      "primaryAxisAlignItems": "CENTER",
+      "counterAxisAlignItems": "CENTER"
+     },
+     "children": [
+      {
+       "id": "113:316",
+       "name": "Ask about this month’s availability",
+       "type": "TEXT",
+       "box": {
+        "x": 7878,
+        "y": 45735.5,
+        "width": 259,
+        "height": 23
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#191a15"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "Ask about this month’s availability",
+       "textStyle": {
+        "fontFamily": "Inter",
+        "fontWeight": 500,
+        "fontSize": 16,
+        "lineHeightPx": 23,
+        "letterSpacing": 0,
+        "textAlign": "CENTER"
+       },
+       "textColor": "#191a15"
+      },
+      {
+       "id": "113:317",
+       "name": "arrow-left-02",
+       "type": "FRAME",
+       "box": {
+        "x": 8141.999999046326,
+        "y": 45739.499999642336,
+        "width": 15.00000226501561,
+        "height": 15.000000357664248
+       },
+       "strokeWeight": 1,
+       "children": [
+        {
+         "id": "113:318",
+         "name": "Vector",
+         "type": "VECTOR",
+         "box": {
+          "x": 8145.124999046326,
+          "y": 45746.99999926237,
+          "width": 8.437500953674316,
+          "height": 7.376293069683015e-7
+         },
+         "strokes": [
+          "#191a15"
+         ],
+         "strokeWeight": 1.5
+        },
+        {
+         "id": "113:319",
+         "name": "Vector",
+         "type": "VECTOR",
+         "box": {
+          "x": 8150.124980926514,
+          "y": 45743.24996820091,
+          "width": 3.750019729160158,
+          "height": 7.50003179909254
+         },
+         "strokes": [
+          "#191a15"
+         ],
+         "strokeWeight": 1.5
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "113:320",
+   "name": "Frame 394",
+   "type": "FRAME",
+   "box": {
+    "x": 8689,
+    "y": 45399.998418569565,
+    "width": 301.7264473438263,
+    "height": 301.7264473438263
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#ffffff"
+    }
+   ],
+   "strokeWeight": 1,
+   "cornerRadius": 218,
+   "children": [
+    {
+     "id": "113:321",
+     "name": "08",
+     "type": "TEXT",
+     "box": {
+      "x": 8761.7998046875,
+      "y": 45476.55217786133,
+      "width": 165.09308284521103,
+      "height": 113.33830790221691
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#202020"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "08",
+     "textStyle": {
+      "fontFamily": "Times New Roman",
+      "fontWeight": 400,
+      "fontSize": 128,
+      "lineHeightPx": 71,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#202020"
+    },
+    {
+     "id": "113:322",
+     "name": "Monthly slots",
+     "type": "TEXT",
+     "box": {
+      "x": 8787.2451171875,
+      "y": 45586.95567329228,
+      "width": 118.05252487957478,
+      "height": 46.122159704566
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#000000"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "Monthly slots",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeightPx": 33,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#000000"
+    }
+   ]
+  }
+ ]
+}

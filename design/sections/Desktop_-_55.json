@@ -1,0 +1,1101 @@
+{
+ "id": "113:96",
+ "name": "Desktop - 55",
+ "type": "FRAME",
+ "box": {
+  "x": 7732,
+  "y": 38350,
+  "width": 1440,
+  "height": 1204
+ },
+ "fills": [
+  {
+   "type": "SOLID",
+   "color": "#ebebeb"
+  }
+ ],
+ "strokeWeight": 1,
+ "children": [
+  {
+   "id": "113:97",
+   "name": "Rectangle 158",
+   "type": "RECTANGLE",
+   "box": {
+    "x": 7732,
+    "y": 38415,
+    "width": 1440,
+    "height": 959
+   },
+   "fills": [
+    {
+     "type": "GRADIENT_LINEAR",
+     "stops": [
+      {
+       "color": "#ffffff00",
+       "pos": 0
+      },
+      {
+       "color": "#f1f1f1",
+       "pos": 1
+      }
+     ]
+    }
+   ],
+   "strokeWeight": 1
+  },
+  {
+   "id": "113:98",
+   "name": "Frame 368",
+   "type": "FRAME",
+   "box": {
+    "x": 8465.999959676563,
+    "y": 38468,
+    "width": 641.6426044333348,
+    "height": 482.2694961486195
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#ffffff"
+    }
+   ],
+   "strokeWeight": 1,
+   "cornerRadius": 20,
+   "children": [
+    {
+     "id": "113:99",
+     "name": "remsana-hero 1",
+     "type": "RECTANGLE",
+     "box": {
+      "x": 8361.604672703776,
+      "y": 38460.73828125,
+      "width": 804.8193674917566,
+      "height": 804.8193674917566
+     },
+     "strokeWeight": 1
+    },
+    {
+     "id": "113:100",
+     "name": "remsana-ceo-finance 1",
+     "type": "RECTANGLE",
+     "box": {
+      "x": 8433.724089698911,
+      "y": 38366.85546875,
+      "width": 706.1704365835158,
+      "height": 706.1704365835176
+     },
+     "fills": [
+      {
+       "type": "IMAGE",
+       "imageRef": "d688b9a39786f096f9e73a892d61b0d6c4e977d8"
+      }
+     ],
+     "strokeWeight": 1
+    }
+   ]
+  },
+  {
+   "id": "113:101",
+   "name": "See your business more clearly in 7 days.",
+   "type": "TEXT",
+   "box": {
+    "x": 7792.4921875,
+    "y": 38527,
+    "width": 687,
+    "height": 142
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#202020"
+    }
+   ],
+   "strokeWeight": 1,
+   "characters": "See your business more clearly in 7 days.",
+   "textStyle": {
+    "fontFamily": "Times New Roman",
+    "fontWeight": 400,
+    "fontSize": 64,
+    "lineHeightPx": 71,
+    "letterSpacing": 0,
+    "textAlign": "LEFT"
+   },
+   "textColor": "#202020"
+  },
+  {
+   "id": "113:102",
+   "name": "The Executive Intelligence Assessment is a structured 7-day engagement designed to help a CEO answer one important business question using their own business data. We don’t begin with software installation. We begin with the decision. Together, we’ll identify the question that matters, prepare the relevant information, and build a practical executive view that gives you a clearer answer—without another reporting project.",
+   "type": "TEXT",
+   "box": {
+    "x": 7795,
+    "y": 38699,
+    "width": 625,
+    "height": 231
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#000000",
+     "opacity": 0.6000000238418579
+    }
+   ],
+   "strokeWeight": 1,
+   "characters": "The Executive Intelligence Assessment is a structured 7-day engagement designed to help a CEO answer one important business question using their own business data.\nWe don’t begin with software installation. We begin with the decision. Together, we’ll identify the question that matters, prepare the relevant information, and build a practical executive view that gives you a clearer answer—without another reporting project.",
+   "textStyle": {
+    "fontFamily": "Inter",
+    "fontWeight": 400,
+    "fontSize": 16,
+    "lineHeightPx": 33,
+    "letterSpacing": 0,
+    "textAlign": "LEFT"
+   },
+   "textColor": "#000000"
+  },
+  {
+   "id": "113:103",
+   "name": "A focused engagement, built around your question not a generic software tour.",
+   "type": "TEXT",
+   "box": {
+    "x": 8114,
+    "y": 39113,
+    "width": 625,
+    "height": 33
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#000000",
+     "opacity": 0.6000000238418579
+    }
+   ],
+   "strokeWeight": 1,
+   "characters": "A focused engagement, built around your question not a generic software tour.",
+   "textStyle": {
+    "fontFamily": "Inter",
+    "fontWeight": 400,
+    "fontSize": 16,
+    "lineHeightPx": 33,
+    "letterSpacing": 0,
+    "textAlign": "CENTER"
+   },
+   "textColor": "#000000"
+  },
+  {
+   "id": "113:104",
+   "name": " The assessment",
+   "type": "TEXT",
+   "box": {
+    "x": 7792.4921875,
+    "y": 38468,
+    "width": 285,
+    "height": 27
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#0053d0"
+    }
+   ],
+   "strokeWeight": 1,
+   "characters": " The assessment",
+   "textStyle": {
+    "fontFamily": "Inter",
+    "fontWeight": 400,
+    "fontSize": 16,
+    "lineHeightPx": 27,
+    "letterSpacing": 0,
+    "textAlign": "LEFT"
+   },
+   "textColor": "#0053d0"
+  },
+  {
+   "id": "113:105",
+   "name": "What you receive",
+   "type": "TEXT",
+   "box": {
+    "x": 8284,
+    "y": 39073,
+    "width": 285,
+    "height": 27
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#191a15"
+    }
+   ],
+   "strokeWeight": 1,
+   "characters": "What you receive",
+   "textStyle": {
+    "fontFamily": "Inter",
+    "fontWeight": 600,
+    "fontSize": 24,
+    "lineHeightPx": 27,
+    "letterSpacing": 0,
+    "textAlign": "CENTER"
+   },
+   "textColor": "#191a15"
+  },
+  {
+   "id": "113:106",
+   "name": "Frame 381",
+   "type": "FRAME",
+   "box": {
+    "x": 8070,
+    "y": 39208,
+    "width": 362,
+    "height": 75
+   },
+   "strokes": [
+    "#191a15"
+   ],
+   "strokeWeight": 1,
+   "children": [
+    {
+     "id": "113:107",
+     "name": "Executive discovery session",
+     "type": "TEXT",
+     "box": {
+      "x": 8132,
+      "y": 39231,
+      "width": 256,
+      "height": 20
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#191a15"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "Executive discovery session",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 400,
+      "fontSize": 14,
+      "lineHeightPx": 20,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#191a15"
+    },
+    {
+     "id": "113:108",
+     "name": "Frame 382",
+     "type": "FRAME",
+     "box": {
+      "x": 8086,
+      "y": 39221,
+      "width": 36,
+      "height": 36
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#0053d0",
+       "opacity": 0.10000000149011612
+      }
+     ],
+     "strokeWeight": 1,
+     "cornerRadius": 50,
+     "children": [
+      {
+       "id": "113:109",
+       "name": "chat-question",
+       "type": "FRAME",
+       "box": {
+        "x": 8092,
+        "y": 39227,
+        "width": 24,
+        "height": 24
+       },
+       "strokeWeight": 1,
+       "children": [
+        {
+         "id": "113:110",
+         "name": "Vector",
+         "type": "VECTOR",
+         "box": {
+          "x": 8094,
+          "y": 39229.5,
+          "width": 20,
+          "height": 19
+         },
+         "strokes": [
+          "#0053d0"
+         ],
+         "strokeWeight": 1.5
+        },
+        {
+         "id": "113:111",
+         "name": "Vector",
+         "type": "VECTOR",
+         "box": {
+          "x": 8102,
+          "y": 39233,
+          "width": 4,
+          "height": 5.5
+         },
+         "strokes": [
+          "#0053d0"
+         ],
+         "strokeWeight": 1.5
+        },
+        {
+         "id": "113:112",
+         "name": "Vector",
+         "type": "VECTOR",
+         "box": {
+          "x": 8103.75,
+          "y": 39241.5,
+          "width": 0.5,
+          "height": 0.5
+         },
+         "strokes": [
+          "#0053d0"
+         ],
+         "strokeWeight": 1.5
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "113:113",
+   "name": "Frame 384",
+   "type": "FRAME",
+   "box": {
+    "x": 8070,
+    "y": 39298,
+    "width": 362,
+    "height": 75
+   },
+   "strokes": [
+    "#191a15"
+   ],
+   "strokeWeight": 1,
+   "children": [
+    {
+     "id": "113:114",
+     "name": "Personalized executive dashboard",
+     "type": "TEXT",
+     "box": {
+      "x": 8132,
+      "y": 39321,
+      "width": 256,
+      "height": 20
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#191a15"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "Personalized executive dashboard",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 400,
+      "fontSize": 14,
+      "lineHeightPx": 20,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#191a15"
+    },
+    {
+     "id": "113:115",
+     "name": "Frame 382",
+     "type": "FRAME",
+     "box": {
+      "x": 8086,
+      "y": 39311,
+      "width": 36,
+      "height": 36
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#0053d0",
+       "opacity": 0.10000000149011612
+      }
+     ],
+     "strokeWeight": 1,
+     "cornerRadius": 50,
+     "children": [
+      {
+       "id": "113:116",
+       "name": "analytics-02",
+       "type": "FRAME",
+       "box": {
+        "x": 8092,
+        "y": 39317,
+        "width": 24,
+        "height": 24
+       },
+       "strokeWeight": 1,
+       "children": [
+        {
+         "id": "113:117",
+         "name": "Vector",
+         "type": "VECTOR",
+         "box": {
+          "x": 8098.5,
+          "y": 39325.5,
+          "width": 10,
+          "height": 9
+         },
+         "strokes": [
+          "#0053d0"
+         ],
+         "strokeWeight": 1.5
+        },
+        {
+         "id": "113:118",
+         "name": "Vector",
+         "type": "VECTOR",
+         "box": {
+          "x": 8107.5,
+          "y": 39319.5,
+          "width": 6,
+          "height": 6
+         },
+         "strokes": [
+          "#0053d0"
+         ],
+         "strokeWeight": 1.5
+        },
+        {
+         "id": "113:119",
+         "name": "Vector",
+         "type": "VECTOR",
+         "box": {
+          "x": 8094.5,
+          "y": 39319.5,
+          "width": 19,
+          "height": 19
+         },
+         "strokes": [
+          "#0053d0"
+         ],
+         "strokeWeight": 1.5
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "113:120",
+   "name": "Frame 386",
+   "type": "FRAME",
+   "box": {
+    "x": 8070,
+    "y": 39385,
+    "width": 362,
+    "height": 75
+   },
+   "strokes": [
+    "#191a15"
+   ],
+   "strokeWeight": 1,
+   "children": [
+    {
+     "id": "113:121",
+     "name": "Personalized executive dashboard",
+     "type": "TEXT",
+     "box": {
+      "x": 8132,
+      "y": 39408,
+      "width": 256,
+      "height": 20
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#191a15"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "Personalized executive dashboard",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 400,
+      "fontSize": 14,
+      "lineHeightPx": 20,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#191a15"
+    },
+    {
+     "id": "113:122",
+     "name": "Frame 383",
+     "type": "FRAME",
+     "box": {
+      "x": 8086,
+      "y": 39398,
+      "width": 36,
+      "height": 36
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#0053d0",
+       "opacity": 0.10000000149011612
+      }
+     ],
+     "strokeWeight": 1,
+     "cornerRadius": 50,
+     "children": [
+      {
+       "id": "113:123",
+       "name": "idea-01",
+       "type": "FRAME",
+       "box": {
+        "x": 8092,
+        "y": 39404,
+        "width": 24,
+        "height": 24
+       },
+       "strokeWeight": 1,
+       "children": [
+        {
+         "id": "113:124",
+         "name": "Vector",
+         "type": "VECTOR",
+         "box": {
+          "x": 8098,
+          "y": 39410,
+          "width": 12,
+          "height": 10.500040054321289
+         },
+         "strokes": [
+          "#0053d0"
+         ],
+         "strokeWeight": 1.5
+        },
+        {
+         "id": "113:125",
+         "name": "Vector",
+         "type": "VECTOR",
+         "box": {
+          "x": 8104,
+          "y": 39416,
+          "width": 0,
+          "height": 4.5
+         },
+         "strokes": [
+          "#0053d0"
+         ],
+         "strokeWeight": 1.5
+        },
+        {
+         "id": "113:126",
+         "name": "Vector",
+         "type": "VECTOR",
+         "box": {
+          "x": 8101.5,
+          "y": 39423,
+          "width": 5,
+          "height": 0
+         },
+         "strokes": [
+          "#0053d0"
+         ],
+         "strokeWeight": 1.5
+        },
+        {
+         "id": "113:127",
+         "name": "Vector",
+         "type": "VECTOR",
+         "box": {
+          "x": 8102.5,
+          "y": 39425.5,
+          "width": 3,
+          "height": 0
+         },
+         "strokes": [
+          "#0053d0"
+         ],
+         "strokeWeight": 1.5
+        },
+        {
+         "id": "113:128",
+         "name": "Vector",
+         "type": "VECTOR",
+         "box": {
+          "x": 8094.5,
+          "y": 39406.5,
+          "width": 19,
+          "height": 9.500040054321289
+         },
+         "strokes": [
+          "#0053d0"
+         ],
+         "strokeWeight": 1.5
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "113:129",
+   "name": "Frame 383",
+   "type": "FRAME",
+   "box": {
+    "x": 8471,
+    "y": 39208,
+    "width": 362,
+    "height": 75
+   },
+   "strokes": [
+    "#191a15"
+   ],
+   "strokeWeight": 1,
+   "children": [
+    {
+     "id": "113:130",
+     "name": "Data preparation support",
+     "type": "TEXT",
+     "box": {
+      "x": 8533,
+      "y": 39231,
+      "width": 256,
+      "height": 20
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#191a15"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "Data preparation support",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 400,
+      "fontSize": 14,
+      "lineHeightPx": 20,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#191a15"
+    },
+    {
+     "id": "113:131",
+     "name": "Frame 383",
+     "type": "FRAME",
+     "box": {
+      "x": 8487,
+      "y": 39221,
+      "width": 36,
+      "height": 36
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#0053d0",
+       "opacity": 0.10000000149011612
+      }
+     ],
+     "strokeWeight": 1,
+     "cornerRadius": 50,
+     "children": [
+      {
+       "id": "113:132",
+       "name": "database",
+       "type": "FRAME",
+       "box": {
+        "x": 8493,
+        "y": 39227,
+        "width": 24,
+        "height": 24
+       },
+       "strokeWeight": 1,
+       "children": [
+        {
+         "id": "113:133",
+         "name": "Vector",
+         "type": "VECTOR",
+         "box": {
+          "x": 8497,
+          "y": 39229,
+          "width": 16,
+          "height": 6
+         },
+         "strokes": [
+          "#0053d0"
+         ],
+         "strokeWeight": 1.5
+        },
+        {
+         "id": "113:134",
+         "name": "Vector",
+         "type": "VECTOR",
+         "box": {
+          "x": 8500,
+          "y": 39237.84375,
+          "width": 2,
+          "height": 0.4399995803833008
+         },
+         "strokes": [
+          "#0053d0"
+         ],
+         "strokeWeight": 1.5
+        },
+        {
+         "id": "113:135",
+         "name": "Vector",
+         "type": "VECTOR",
+         "box": {
+          "x": 8497,
+          "y": 39239,
+          "width": 16,
+          "height": 3
+         },
+         "strokes": [
+          "#0053d0"
+         ],
+         "strokeWeight": 1.5
+        },
+        {
+         "id": "113:136",
+         "name": "Vector",
+         "type": "VECTOR",
+         "box": {
+          "x": 8500,
+          "y": 39244.84375,
+          "width": 2,
+          "height": 0.4400005340576172
+         },
+         "strokes": [
+          "#0053d0"
+         ],
+         "strokeWeight": 1.5
+        },
+        {
+         "id": "113:137",
+         "name": "Vector",
+         "type": "VECTOR",
+         "box": {
+          "x": 8497,
+          "y": 39232,
+          "width": 16,
+          "height": 17
+         },
+         "strokes": [
+          "#0053d0"
+         ],
+         "strokeWeight": 1.5
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "113:138",
+   "name": "Frame 385",
+   "type": "FRAME",
+   "box": {
+    "x": 8471,
+    "y": 39298,
+    "width": 362,
+    "height": 75
+   },
+   "strokes": [
+    "#191a15"
+   ],
+   "strokeWeight": 1,
+   "children": [
+    {
+     "id": "113:139",
+     "name": "Data preparation support",
+     "type": "TEXT",
+     "box": {
+      "x": 8533,
+      "y": 39321,
+      "width": 256,
+      "height": 20
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#191a15"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "Data preparation support",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 400,
+      "fontSize": 14,
+      "lineHeightPx": 20,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#191a15"
+    },
+    {
+     "id": "113:140",
+     "name": "Frame 383",
+     "type": "FRAME",
+     "box": {
+      "x": 8487,
+      "y": 39311,
+      "width": 36,
+      "height": 36
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#0053d0",
+       "opacity": 0.10000000149011612
+      }
+     ],
+     "strokeWeight": 1,
+     "cornerRadius": 50,
+     "children": [
+      {
+       "id": "113:141",
+       "name": "validation-approval",
+       "type": "FRAME",
+       "box": {
+        "x": 8493,
+        "y": 39317,
+        "width": 24,
+        "height": 24
+       },
+       "strokeWeight": 1,
+       "children": [
+        {
+         "id": "113:142",
+         "name": "Vector",
+         "type": "VECTOR",
+         "box": {
+          "x": 8504,
+          "y": 39329,
+          "width": 11,
+          "height": 10
+         },
+         "strokes": [
+          "#0053d0"
+         ],
+         "strokeWeight": 1.5
+        },
+        {
+         "id": "113:143",
+         "name": "Vector",
+         "type": "VECTOR",
+         "box": {
+          "x": 8495,
+          "y": 39319,
+          "width": 15,
+          "height": 20
+         },
+         "strokes": [
+          "#0053d0"
+         ],
+         "strokeWeight": 1.5
+        },
+        {
+         "id": "113:144",
+         "name": "Vector",
+         "type": "VECTOR",
+         "box": {
+          "x": 8500,
+          "y": 39323,
+          "width": 5,
+          "height": 4
+         },
+         "strokes": [
+          "#0053d0"
+         ],
+         "strokeWeight": 1.5
+        },
+        {
+         "id": "113:145",
+         "name": "Vector",
+         "type": "VECTOR",
+         "box": {
+          "x": 8499,
+          "y": 39331,
+          "width": 4,
+          "height": 0
+         },
+         "strokes": [
+          "#0053d0"
+         ],
+         "strokeWeight": 1.5
+        },
+        {
+         "id": "113:146",
+         "name": "Vector",
+         "type": "VECTOR",
+         "box": {
+          "x": 8499,
+          "y": 39334,
+          "width": 4,
+          "height": 0
+         },
+         "strokes": [
+          "#0053d0"
+         ],
+         "strokeWeight": 1.5
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "113:147",
+   "name": "Frame 387",
+   "type": "FRAME",
+   "box": {
+    "x": 8471,
+    "y": 39385,
+    "width": 362,
+    "height": 75
+   },
+   "strokes": [
+    "#191a15"
+   ],
+   "strokeWeight": 1,
+   "children": [
+    {
+     "id": "113:148",
+     "name": "Subscription recommendation (optional)",
+     "type": "TEXT",
+     "box": {
+      "x": 8533,
+      "y": 39406,
+      "width": 300,
+      "height": 20
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#191a15"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "Subscription recommendation (optional)",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 400,
+      "fontSize": 14,
+      "lineHeightPx": 20,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#191a15"
+    },
+    {
+     "id": "113:149",
+     "name": "Frame 383",
+     "type": "FRAME",
+     "box": {
+      "x": 8487,
+      "y": 39398,
+      "width": 36,
+      "height": 36
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#0053d0",
+       "opacity": 0.10000000149011612
+      }
+     ],
+     "strokeWeight": 1,
+     "cornerRadius": 50,
+     "children": [
+      {
+       "id": "113:150",
+       "name": "gift-card-02",
+       "type": "FRAME",
+       "box": {
+        "x": 8493,
+        "y": 39404,
+        "width": 24,
+        "height": 24
+       },
+       "strokeWeight": 1,
+       "children": [
+        {
+         "id": "113:151",
+         "name": "Vector",
+         "type": "VECTOR",
+         "box": {
+          "x": 8495,
+          "y": 39408,
+          "width": 20,
+          "height": 16
+         },
+         "strokes": [
+          "#0053d0"
+         ],
+         "strokeWeight": 1.5
+        },
+        {
+         "id": "113:152",
+         "name": "Vector",
+         "type": "VECTOR",
+         "box": {
+          "x": 8495,
+          "y": 39416,
+          "width": 20,
+          "height": 0
+         },
+         "strokes": [
+          "#0053d0"
+         ],
+         "strokeWeight": 1.5
+        },
+        {
+         "id": "113:153",
+         "name": "Vector",
+         "type": "VECTOR",
+         "box": {
+          "x": 8503,
+          "y": 39408,
+          "width": 0,
+          "height": 16
+         },
+         "strokes": [
+          "#0053d0"
+         ],
+         "strokeWeight": 1.5
+        },
+        {
+         "id": "113:154",
+         "name": "Vector",
+         "type": "VECTOR",
+         "box": {
+          "x": 8500,
+          "y": 39413,
+          "width": 6,
+          "height": 6
+         },
+         "strokes": [
+          "#0053d0"
+         ],
+         "strokeWeight": 1.5
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,561 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Remsana — Executive Intelligence Assessment</title>
+<meta name="description" content="For CEOs and Managing Directors making high-stakes calls with fragmented information. Get a clearer answer from your own business data in 7 days.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="dist/output.css">
+</head>
+<body class="bg-light text-ink antialiased">
+
+<!-- ============ NAV ============ -->
+<header class="sticky top-0 z-50 bg-light/95 backdrop-blur shadow-sm">
+  <div class="mx-auto max-w-7xl px-6 lg:px-16 h-16 flex items-center justify-between">
+    <a href="#top" class="text-xl font-medium text-brand">Remsana</a>
+
+    <nav class="hidden md:flex items-center gap-9 text-base font-medium">
+      <a href="#how-it-works" class="hover:text-brand transition-colors">How it work</a>
+      <a href="#questions" class="hover:text-brand transition-colors">Questions</a>
+      <a href="#faq" class="hover:text-brand transition-colors">FAQ</a>
+    </nav>
+
+    <a href="#apply" class="hidden sm:inline-flex items-center gap-2 rounded-[10px] bg-brand px-5 py-2.5 text-white font-medium hover:bg-blue-700 transition-colors">
+      Apply for Assessment
+      <svg width="15" height="15" viewBox="0 0 15 15" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M11.5625 7.5L3.125 7.5" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M8.12504 3.74997C8.12504 3.74997 11.875 6.51184 11.875 7.50003C11.875 8.48822 8.12498 11.25 8.12498 11.25" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+    </a>
+
+    <button id="menu-btn" class="md:hidden p-2 -mr-2" aria-label="Toggle menu" aria-expanded="false">
+      <svg id="menu-icon-open" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"><path d="M4 6h16M4 12h16M4 18h16"/></svg>
+      <svg id="menu-icon-close" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" class="hidden"><path d="M6 6l12 12M18 6L6 18"/></svg>
+    </button>
+  </div>
+
+  <div id="mobile-menu" class="hidden md:hidden border-t border-ink/10 bg-light">
+    <div class="px-6 py-4 flex flex-col gap-4 text-base font-medium">
+      <a href="#how-it-works" class="hover:text-brand transition-colors">How it work</a>
+      <a href="#questions" class="hover:text-brand transition-colors">Questions</a>
+      <a href="#faq" class="hover:text-brand transition-colors">FAQ</a>
+      <a href="#apply" class="inline-flex items-center justify-center gap-2 rounded-[10px] bg-brand px-5 py-2.5 text-white font-medium">Apply for Assessment</a>
+    </div>
+  </div>
+</header>
+
+<main id="top">
+
+  <!-- ============ 1. HERO ============ -->
+  <section class="bg-light overflow-hidden">
+    <div class="mx-auto max-w-7xl px-6 lg:px-16 py-16 md:py-24 grid lg:grid-cols-2 gap-12 items-center">
+      <div>
+        <span class="inline-flex items-center rounded-full bg-brand/10 px-5 py-2 text-base font-medium text-ink mb-6">Executive intelligence</span>
+        <h1 class="h-serif text-4xl sm:text-5xl md:text-6xl leading-tight text-charcoal">What You Don't Know About Your Business Could Be Costing You Money</h1>
+        <p class="mt-6 text-base leading-relaxed text-black/80 max-w-xl">
+          For CEOs and Managing Directors making high-stakes calls with fragmented information.
+          <br><br>
+          The Remsana Executive Intelligence Assessment gives you a clearer answer from your own business data in 7 days, without spending another week assembling reports.
+        </p>
+        <div class="mt-8 flex flex-wrap gap-3">
+          <a href="#apply" class="inline-flex items-center gap-2 rounded-[10px] bg-brand px-6 py-4 text-white font-medium hover:bg-blue-700 transition-colors">
+            Apply for your 7-day assessment
+            <svg width="15" height="15" viewBox="0 0 15 15" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M11.5625 7.5L3.125 7.5" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M8.12504 3.74997C8.12504 3.74997 11.875 6.51184 11.875 7.50003C11.875 8.48822 8.12498 11.25 8.12498 11.25" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          </a>
+          <a href="#faq" class="inline-flex items-center gap-2 rounded-[10px] border border-brand px-6 py-4 text-brand font-medium hover:bg-brand/5 transition-colors">
+            Request for Demo
+          </a>
+        </div>
+        <div class="mt-8 flex items-center gap-2 text-black/80">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="shrink-0"><path d="M18.7088 3.49534C16.8165 2.55382 14.5009 2 12 2C9.4991 2 7.1835 2.55382 5.29116 3.49534C4.36318 3.95706 3.89919 4.18792 3.4496 4.91378C3 5.63965 3 6.34248 3 7.74814V11.2371C3 16.9205 7.54236 20.0804 10.173 21.4338C10.9067 21.8113 11.2735 22 12 22C12.7265 22 13.0933 21.8113 13.8269 21.4338C16.4576 20.0804 21 16.9205 21 11.2371V7.74814C21 6.34249 21 5.63966 20.5504 4.91378C20.1008 4.18791 19.6368 3.95706 18.7088 3.49534Z" stroke="#0053D0" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M9 11.5C9 11.5 10.4079 11.7519 11 13.5C11 13.5 12.5 10.5 15 9.5" stroke="#0053D0" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          <span class="text-base font-light">Limited to 8 assessments per month for quality delivery.</span>
+        </div>
+      </div>
+
+      <div class="rounded-[20px] bg-white p-4 shadow-xl">
+        <img src="assets/remsana-hero.jpg" alt="Remsana executive dashboard preview" class="w-full h-auto rounded-2xl object-cover">
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ 2. DASHBOARD / FASTER PATH ============ -->
+  <section class="bg-light">
+    <div class="mx-auto max-w-7xl px-6 lg:px-16 py-16 md:py-24 grid lg:grid-cols-2 gap-12 items-center">
+      <div class="order-2 lg:order-1 rounded-[20px] bg-white p-4 shadow-xl">
+        <img src="assets/remsana-ceo-finance-1.jpg" alt="CEO reviewing financial intelligence" class="w-full h-auto rounded-2xl object-cover">
+      </div>
+
+      <div class="order-1 lg:order-2">
+        <p class="text-base text-brand mb-4">A clearer brief for the corner office</p>
+        <h2 class="h-serif text-4xl sm:text-5xl leading-tight text-charcoal">You do not need another dashboard. You need a faster path to the answer.</h2>
+        <p class="mt-6 text-base leading-loose text-black/60 max-w-xl">Remsana is designed for CEOs and Managing Directors who are accountable for what happens next and tired of waiting for the full story to be assembled.</p>
+
+        <div class="mt-10 grid sm:grid-cols-3 gap-4">
+          <div class="rounded-[10px] border border-ink p-4">
+            <span class="h-serif text-2xl text-brand">01</span>
+            <h3 class="mt-2 font-semibold text-ink">One decision</h3>
+            <p class="mt-1 text-sm text-black/60">Start with the call in front of you.</p>
+          </div>
+          <div class="rounded-[10px] border border-ink p-4">
+            <span class="h-serif text-2xl text-brand">02</span>
+            <h3 class="mt-2 font-semibold text-ink">Seven days</h3>
+            <p class="mt-1 text-sm text-black/60">See the signal without a long implementation.</p>
+          </div>
+          <div class="rounded-[10px] border border-ink p-4">
+            <span class="h-serif text-2xl text-brand">03</span>
+            <h3 class="mt-2 font-semibold text-ink">Less assembly</h3>
+            <p class="mt-1 text-sm text-black/60">Spend less time chasing updates and reports.</p>
+          </div>
+        </div>
+
+        <a href="#apply" class="mt-8 inline-flex items-center gap-2 rounded-[10px] border border-ink px-6 py-4 text-ink font-medium hover:bg-ink/5 transition-colors">
+          Apply for your 7-day assessment
+          <svg width="15" height="15" viewBox="0 0 15 15" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M11.5625 7.5L3.125 7.5" stroke="#191A15" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M8.12504 3.74997C8.12504 3.74997 11.875 6.51184 11.875 7.50003C11.875 8.48822 8.12498 11.25 8.12498 11.25" stroke="#191A15" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ 3. THE VISIBILITY PROBLEM ============ -->
+  <section class="bg-dark">
+    <div class="mx-auto max-w-7xl px-6 lg:px-16 py-16 md:py-24">
+      <p class="text-base text-white mb-4">The visibility problem</p>
+      <h2 class="h-serif text-4xl sm:text-5xl md:text-6xl leading-tight text-white max-w-3xl">Most CEOs are making high-stakes decisions without the full picture.</h2>
+      <p class="mt-8 text-base text-white/60 max-w-xl">You still have to decide every day.</p>
+
+      <p class="mt-14 font-semibold text-brand">The problem isn't a lack of effort.</p>
+      <p class="mt-4 text-base leading-loose text-white/60 max-w-3xl">The problem is that critical business information is often scattered across spreadsheets, reports, systems, and people. By the time the information is assembled, the opportunity or problem has already passed. You lose time getting to the answer you are already responsible for.</p>
+
+      <ul class="mt-12 grid md:grid-cols-2 gap-x-16 gap-y-6">
+        <li class="flex items-start gap-4 border-t border-white/15 pt-6">
+          <span class="h-serif text-2xl text-brand shrink-0">01</span>
+          <span class="text-white/90">Should we hire more staff?</span>
+        </li>
+        <li class="flex items-start gap-4 border-t border-white/15 pt-6">
+          <span class="h-serif text-2xl text-brand shrink-0">02</span>
+          <span class="text-white/90">Why is cash flow always under pressure?</span>
+        </li>
+        <li class="flex items-start gap-4 border-t border-white/15 pt-6">
+          <span class="h-serif text-2xl text-brand shrink-0">03</span>
+          <span class="text-white/90">Which customers generate the most profit?</span>
+        </li>
+        <li class="flex items-start gap-4 border-t border-white/15 pt-6">
+          <span class="h-serif text-2xl text-brand shrink-0">04</span>
+          <span class="text-white/90">Why are sales inconsistent?</span>
+        </li>
+        <li class="flex items-start gap-4 border-t border-white/15 pt-6">
+          <span class="h-serif text-2xl text-brand shrink-0">05</span>
+          <span class="text-white/90">Which areas of the business need immediate attention?</span>
+        </li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- ============ 4. SEE CLEARLY IN 7 DAYS / WHAT YOU RECEIVE ============ -->
+  <section class="bg-light">
+    <div class="mx-auto max-w-7xl px-6 lg:px-16 py-16 md:py-24">
+      <div class="grid lg:grid-cols-2 gap-12 items-center">
+        <div>
+          <p class="text-base text-brand mb-4">The assessment</p>
+          <h2 class="h-serif text-4xl sm:text-5xl leading-tight text-charcoal">See your business more clearly in 7 days.</h2>
+          <p class="mt-6 text-base leading-loose text-black/60 max-w-xl">The Executive Intelligence Assessment is a structured 7-day engagement designed to help a CEO answer one important business question using their own business data.</p>
+          <p class="mt-4 text-base leading-loose text-black/60 max-w-xl">We don't begin with software installation. We begin with the decision. Together, we'll identify the question that matters, prepare the relevant information, and build a practical executive view that gives you a clearer answer—without another reporting project.</p>
+        </div>
+        <div class="rounded-[20px] bg-white p-4 shadow-xl">
+          <img src="assets/remsana-ceo-finance-2.jpg" alt="Executive dashboard build" class="w-full h-auto rounded-2xl object-cover">
+        </div>
+      </div>
+
+      <div class="mt-20 text-center">
+        <h3 class="text-2xl font-semibold text-ink">What you receive</h3>
+        <p class="mt-2 text-base text-black/60">A focused engagement, built around your question not a generic software tour.</p>
+      </div>
+
+      <div class="mt-10 grid sm:grid-cols-2 gap-4 max-w-4xl mx-auto">
+        <div class="flex items-center gap-4 rounded-[10px] border border-ink/15 p-4">
+          <span class="shrink-0 flex items-center justify-center size-9 rounded-full bg-brand/10 text-brand">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M2 10.5C2 9.72921 2.01346 8.97679 2.03909 8.2503C2.12282 5.87683 2.16469 4.69009 3.13007 3.71745C4.09545 2.74481 5.3157 2.6926 7.7562 2.58819C9.09517 2.5309 10.5209 2.5 12 2.5C13.4791 2.5 14.9048 2.5309 16.2438 2.58819C18.6843 2.6926 19.9046 2.74481 20.8699 3.71745C21.8353 4.69009 21.8772 5.87683 21.9609 8.2503C21.9865 8.97679 22 9.72921 22 10.5C22 11.2708 21.9865 12.0232 21.9609 12.7497C21.8772 15.1232 21.8353 16.3099 20.8699 17.2826C19.9046 18.2552 18.6843 18.3074 16.2437 18.4118C15.5098 18.4432 14.7498 18.4667 13.9693 18.4815C13.2282 18.4955 12.8576 18.5026 12.532 18.6266C12.2064 18.7506 11.9325 18.9855 11.3845 19.4553L9.20503 21.3242C9.07273 21.4376 8.90419 21.5 8.72991 21.5C8.32679 21.5 8 21.1732 8 20.7701V18.4219C7.91842 18.4186 7.83715 18.4153 7.75619 18.4118C5.31569 18.3074 4.09545 18.2552 3.13007 17.2825C2.16469 16.3099 2.12282 15.1232 2.03909 12.7497C2.01346 12.0232 2 11.2708 2 10.5Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M10 8C10 6.89543 10.8954 6 12 6C13.1046 6 14 6.89543 14 8C14 8.57777 13.755 9.09832 13.3632 9.46343C12.7572 10.0282 12 10.6716 12 11.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M12.125 14.75H12M12.25 14.75C12.25 14.8881 12.1381 15 12 15C11.8619 15 11.75 14.8881 11.75 14.75C11.75 14.6119 11.8619 14.5 12 14.5C12.1381 14.5 12.25 14.6119 12.25 14.75Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          </span>
+          <span class="text-sm text-ink">Executive discovery session</span>
+        </div>
+        <div class="flex items-center gap-4 rounded-[10px] border border-ink/15 p-4">
+          <span class="shrink-0 flex items-center justify-center size-9 rounded-full bg-brand/10 text-brand">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M6.5 17.5V14.5M11.5 17.5V8.5M16.5 17.5V13.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/><path d="M21.5 5.5C21.5 7.15685 20.1569 8.5 18.5 8.5C16.8431 8.5 15.5 7.15685 15.5 5.5C15.5 3.84315 16.8431 2.5 18.5 2.5C20.1569 2.5 21.5 3.84315 21.5 5.5Z" stroke="currentColor" stroke-width="1.5"/><path d="M21.4955 11C21.4955 11 21.5 11.3395 21.5 12C21.5 16.4784 21.5 18.7175 20.1088 20.1088C18.7175 21.5 16.4783 21.5 12 21.5C7.52166 21.5 5.28249 21.5 3.89124 20.1088C2.5 18.7175 2.5 16.4784 2.5 12C2.5 7.52169 2.5 5.28252 3.89124 3.89127C5.28249 2.50003 7.52166 2.50003 12 2.50003L13 2.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          </span>
+          <span class="text-sm text-ink">Data preparation support</span>
+        </div>
+        <div class="flex items-center gap-4 rounded-[10px] border border-ink/15 p-4">
+          <span class="shrink-0 flex items-center justify-center size-9 rounded-full bg-brand/10 text-brand">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M8 16.5C6.7725 15.4013 6 13.777 6 12C6 8.68629 8.68629 6 12 6C15.3137 6 18 8.68629 18 12C18 13.777 17.2275 15.4013 16 16.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/><path d="M12 12V16.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M9.5 19H14.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M10.5 21.5H13.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M3.5 12H2.5M5.98438 5.97656L5.23438 5.23046M18.0195 5.97656L18.7695 5.23046M21.5 12H20.5M12 2.5V3.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          </span>
+          <span class="text-sm text-ink">Personalized executive dashboard</span>
+        </div>
+        <div class="flex items-center gap-4 rounded-[10px] border border-ink/15 p-4">
+          <span class="shrink-0 flex items-center justify-center size-9 rounded-full bg-brand/10 text-brand">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M18.0003 18.5L18.2777 17.1138C18.4244 16.3806 18.8164 15.7048 18.9562 14.9703C18.9852 14.818 19.0003 14.6608 19.0003 14.5C19.0003 13.1193 17.881 12 16.5003 12C15.1196 12 14.0003 13.1193 14.0003 14.5C14.0003 14.6608 14.0155 14.818 14.0445 14.9703C14.1843 15.7048 14.5763 16.3806 14.723 17.1138L15.0003 18.5M18.0003 18.5H15.0003M18.0003 18.5L20.4966 19.1659C21.375 19.3611 22 20.1402 22 21.0401C22 21.5702 21.5702 22 21.0401 22H20.4966H12.5H11.9599C11.4298 22 11 21.5702 11 21.0401C11 20.1402 11.625 19.3611 12.5034 19.1659L15.0003 18.5" stroke="currentColor" stroke-width="1.5"/><path d="M17 9V8C17 5.17157 17 3.75736 16.1213 2.87868C15.2426 2 13.8284 2 11 2H8C5.17157 2 3.75736 2 2.87868 2.87868C2 3.75736 2 5.17157 2 8V16C2 18.8284 2 20.2426 2.87868 21.1213C3.75736 22 5.17157 22 8 22" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/><path d="M7 8.66667C7 8.66667 7.625 8.66667 8.25 10C8.25 10 10.2353 6.66667 12 6" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M6 14H10" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/><path d="M6 17H10" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
+          </span>
+          <span class="text-sm text-ink">Data preparation support</span>
+        </div>
+        <div class="flex items-center gap-4 rounded-[10px] border border-ink/15 p-4">
+          <span class="shrink-0 flex items-center justify-center size-9 rounded-full bg-brand/10 text-brand">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 8C16.4183 8 20 6.65685 20 5C20 3.34315 16.4183 2 12 2C7.58172 2 4 3.34315 4 5C4 6.65685 7.58172 8 12 8Z" stroke="currentColor" stroke-width="1.5"/><path d="M7 10.8438C7.60158 11.0246 8.27434 11.1735 9 11.2837" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/><path d="M20 12C20 13.6569 16.4183 15 12 15C7.58172 15 4 13.6569 4 12" stroke="currentColor" stroke-width="1.5"/><path d="M7 17.8438C7.60158 18.0246 8.27434 18.1736 9 18.2838" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/><path d="M20 5V19C20 20.6569 16.4183 22 12 22C7.58172 22 4 20.6569 4 19V5" stroke="currentColor" stroke-width="1.5"/></svg>
+          </span>
+          <span class="text-sm text-ink">Personalized executive dashboard</span>
+        </div>
+        <div class="flex items-center gap-4 rounded-[10px] border border-ink/15 p-4">
+          <span class="shrink-0 flex items-center justify-center size-9 rounded-full bg-brand/10 text-brand">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M2 12C2 8.22876 2 6.34315 3.17157 5.17157C4.34315 4 6.22876 4 10 4H14C17.7712 4 19.6569 4 20.8284 5.17157C22 6.34315 22 8.22876 22 12C22 15.7712 22 17.6569 20.8284 18.8284C19.6569 20 17.7712 20 14 20H10C6.22876 20 4.34315 20 3.17157 18.8284C2 17.6569 2 15.7712 2 12Z" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M2 12H22" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M10 4V20" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M7 9L13 15M7 15L13 9" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          </span>
+          <span class="text-sm text-ink">Subscription recommendation (optional)</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ 5. THE QUESTIONS ============ -->
+  <section id="questions" class="bg-dark">
+    <div class="mx-auto max-w-7xl px-6 lg:px-16 py-16 md:py-24">
+      <p class="text-base text-white mb-4">The questions</p>
+      <h2 class="h-serif text-4xl sm:text-5xl leading-tight text-white max-w-2xl">What business question are you trying to answer?</h2>
+      <p class="mt-6 text-base text-white/60 max-w-2xl">Every assessment is customized around your business and your specific executive question.</p>
+
+      <div class="mt-12 grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+        <div class="rounded-[10px] border border-white/20 p-6">
+          <span class="h-serif text-2xl text-brand">05</span>
+          <h3 class="h-serif text-xl text-white mt-2">Why Is Cash Always Tight?</h3>
+          <p class="mt-3 text-sm text-white/90">Understand cash inflows, expenses, receivables, obligations, and financial pressure points.</p>
+        </div>
+        <div class="rounded-[10px] border border-white/20 p-6">
+          <span class="h-serif text-2xl text-brand">05</span>
+          <h3 class="h-serif text-xl text-white mt-2">Which Customers Or Products Drive The Business?</h3>
+          <p class="mt-3 text-sm text-white/90">Identify revenue concentration, customer value, and performance drivers.</p>
+        </div>
+        <div class="rounded-[10px] border border-white/20 p-6">
+          <span class="h-serif text-2xl text-brand">05</span>
+          <h3 class="h-serif text-xl text-white mt-2">Why Are Sales Inconsistent?</h3>
+          <p class="mt-3 text-sm text-white/90">Analyze pipeline movement, conversions, lead sources, and sales performance.</p>
+        </div>
+        <div class="rounded-[10px] border border-white/20 p-6">
+          <span class="h-serif text-2xl text-brand">05</span>
+          <h3 class="h-serif text-xl text-white mt-2">Where Are We Losing Money?</h3>
+          <p class="mt-3 text-sm text-white/90">Discover cost concentration, margin patterns, and unusual spending trends.</p>
+        </div>
+        <div class="rounded-[10px] border border-white/20 p-6">
+          <span class="h-serif text-2xl text-brand">05</span>
+          <h3 class="h-serif text-xl text-white mt-2">Which Operations Need Attention?</h3>
+          <p class="mt-3 text-sm text-white/90">Identify bottlenecks, missed targets, exceptions, and operational risks.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ 6. THE JOURNEY ============ -->
+  <section id="how-it-works" class="bg-light">
+    <div class="mx-auto max-w-7xl px-6 lg:px-16 py-16 md:py-24 grid lg:grid-cols-2 gap-16">
+      <div>
+        <p class="text-base text-brand mb-4">The journey</p>
+        <h2 class="h-serif text-4xl sm:text-5xl leading-tight text-charcoal">From question to clarity.</h2>
+        <p class="mt-6 text-base leading-relaxed text-black/60 max-w-md">A human-guided process that turns the information you already have into a view you can act on.</p>
+
+        <div class="mt-10 rounded-[20px] bg-white p-4 shadow-xl hidden lg:block">
+          <img src="assets/remsana-ceo-finance-3.jpg" alt="Executive intelligence review" class="w-full h-auto rounded-2xl object-cover">
+        </div>
+      </div>
+
+      <ol class="relative">
+        <div class="absolute left-[17px] top-4 bottom-4 w-px bg-ink/15"></div>
+
+        <li class="relative flex gap-6 pb-10">
+          <span class="shrink-0 z-10 flex items-center justify-center size-9 rounded-full bg-brand/10 h-serif text-charcoal">01</span>
+          <div>
+            <h3 class="font-semibold text-ink">Apply</h3>
+            <p class="mt-1 text-sm text-black/60 max-w-sm">Tell us about your business and the decision you need to make with more confidence.</p>
+          </div>
+        </li>
+        <li class="relative flex gap-6 pb-10">
+          <span class="shrink-0 z-10 flex items-center justify-center size-9 rounded-full bg-brand/10 h-serif text-charcoal">02</span>
+          <div>
+            <h3 class="font-semibold text-ink">Qualification Call</h3>
+            <p class="mt-1 text-sm text-black/60 max-w-sm">An Executive Intelligence Advisor will discuss your business, your goals, and determine whether the assessment is a good fit.</p>
+          </div>
+        </li>
+        <li class="relative flex gap-6 pb-10">
+          <span class="shrink-0 z-10 flex items-center justify-center size-9 rounded-full bg-brand/10 h-serif text-charcoal">03</span>
+          <div>
+            <h3 class="font-semibold text-ink">Data Preparation</h3>
+            <p class="mt-1 text-sm text-black/60 max-w-sm">We'll request only the information required to answer your specific question.</p>
+          </div>
+        </li>
+        <li class="relative flex gap-6 pb-10">
+          <span class="shrink-0 z-10 flex items-center justify-center size-9 rounded-full bg-brand/10 h-serif text-charcoal">04</span>
+          <div>
+            <h3 class="font-semibold text-ink">Day 1 Executive Reveal</h3>
+            <p class="mt-1 text-sm text-black/60 max-w-sm">See your own business data transformed into a meaningful executive view.</p>
+          </div>
+        </li>
+        <li class="relative flex gap-6 pb-10">
+          <span class="shrink-0 z-10 flex items-center justify-center size-9 rounded-full bg-brand/10 h-serif text-charcoal">05</span>
+          <div>
+            <h3 class="font-semibold text-ink">7-Day Assessment</h3>
+            <p class="mt-1 text-sm text-black/60 max-w-sm">Use the intelligence during normal business operations while our team supports you.</p>
+          </div>
+        </li>
+        <li class="relative flex gap-6">
+          <span class="shrink-0 z-10 flex items-center justify-center size-9 rounded-full bg-brand/10 h-serif text-charcoal">06</span>
+          <div>
+            <h3 class="font-semibold text-ink">Executive Intelligence Review</h3>
+            <p class="mt-1 text-sm text-black/60 max-w-sm">Review findings, identify opportunities, and determine whether ongoing visibility would benefit your business.</p>
+          </div>
+        </li>
+      </ol>
+    </div>
+  </section>
+
+  <!-- ============ 7. A DIFFERENT STARTING POINT ============ -->
+  <section class="bg-dark">
+    <div class="mx-auto max-w-7xl px-6 lg:px-16 py-16 md:py-24">
+      <p class="text-base text-white mb-4">A different starting point</p>
+      <h2 class="h-serif text-4xl sm:text-5xl leading-tight text-white max-w-2xl">This is not a software demo.</h2>
+      <p class="mt-6 text-base text-white/60 max-w-lg">Most software companies ask you to buy first and discover value later. We do the opposite.</p>
+
+      <div class="mt-12 grid md:grid-cols-2 gap-6">
+        <div class="rounded-[10px] border border-white/20 bg-white/[0.02] p-8">
+          <h3 class="h-serif text-xl text-brand">Traditional approach</h3>
+          <ul class="mt-6 space-y-4">
+            <li class="flex items-center gap-3 text-white"><span class="text-brand shrink-0"><svg width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M18 6L12 12M12 12L6 18M12 12L18 18M12 12L6 6" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></span>Buy software</li>
+            <li class="flex items-center gap-3 text-white"><span class="text-brand shrink-0"><svg width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M18 6L12 12M12 12L6 18M12 12L18 18M12 12L6 6" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></span>Learn the system</li>
+            <li class="flex items-center gap-3 text-white"><span class="text-brand shrink-0"><svg width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M18 6L12 12M12 12L6 18M12 12L18 18M12 12L6 6" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></span>Configure dashboards</li>
+            <li class="flex items-center gap-3 text-white"><span class="text-brand shrink-0"><svg width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M18 6L12 12M12 12L6 18M12 12L18 18M12 12L6 6" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></span>Hope it solves the problem</li>
+          </ul>
+        </div>
+
+        <div class="rounded-[10px] border border-white/20 bg-brand p-8">
+          <h3 class="h-serif text-xl text-white">Remsana approach</h3>
+          <ul class="mt-6 space-y-4">
+            <li class="flex items-center gap-3 text-white"><span class="text-white shrink-0"><svg width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M5 13.2591L7.58583 15.9567C8.2525 16.6522 8.58583 17 9.00004 17C9.41425 17 9.74759 16.6522 10.4143 15.9567L19 7" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></span>Identify a business problem</li>
+            <li class="flex items-center gap-3 text-white"><span class="text-white shrink-0"><svg width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M5 13.2591L7.58583 15.9567C8.2525 16.6522 8.58583 17 9.00004 17C9.41425 17 9.74759 16.6522 10.4143 15.9567L19 7" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></span>Prepare your data</li>
+            <li class="flex items-center gap-3 text-white"><span class="text-white shrink-0"><svg width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M5 13.2591L7.58583 15.9567C8.2525 16.6522 8.58583 17 9.00004 17C9.41425 17 9.74759 16.6522 10.4143 15.9567L19 7" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></span>Deliver useful intelligence</li>
+            <li class="flex items-center gap-3 text-white"><span class="text-white shrink-0"><svg width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M5 13.2591L7.58583 15.9567C8.2525 16.6522 8.58583 17 9.00004 17C9.41425 17 9.74759 16.6522 10.4143 15.9567L19 7" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></span>Demonstrate value first</li>
+            <li class="flex items-center gap-3 text-white"><span class="text-white shrink-0"><svg width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M5 13.2591L7.58583 15.9567C8.2525 16.6522 8.58583 17 9.00004 17C9.41425 17 9.74759 16.6522 10.4143 15.9567L19 7" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></span>Then discuss long-term options</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ 8. THE INVESTMENT ============ -->
+  <section id="apply" class="bg-light">
+    <div class="mx-auto max-w-7xl px-6 lg:px-16 py-16 md:py-24">
+      <div class="text-center max-w-2xl mx-auto">
+        <p class="text-base text-ink mb-4">The investment</p>
+        <h2 class="h-serif text-4xl sm:text-5xl leading-tight text-charcoal">Clarity is a business asset.</h2>
+        <p class="mt-6 text-base text-black/60">Start with a focused question. Leave with something useful.</p>
+      </div>
+
+      <div class="mt-14 mx-auto max-w-4xl rounded-[20px] bg-brand border border-line shadow-2xl p-8 md:p-10">
+        <div class="grid md:grid-cols-2 gap-8">
+          <div class="flex flex-col">
+            <p class="text-white text-center md:text-left">Executive Intelligence Assessment</p>
+            <p class="h-serif font-bold text-6xl sm:text-7xl text-white mt-2">N45,000</p>
+
+            <div class="mt-6 flex items-center gap-3">
+              <span class="text-sm text-tag-yellow">One-time assessment fee</span>
+              <span class="rounded-full bg-tag-yellow px-4 py-1 text-xs font-semibold text-black">7 Days</span>
+            </div>
+
+            <div class="mt-6 rounded-[10px] border border-white/40 p-4">
+              <p class="text-sm text-center text-white">Good news. If you decide to continue with Remsana, 100% of your assessment fee is credited toward your selected plan.</p>
+            </div>
+
+            <a href="#faq" class="mt-8 inline-flex items-center justify-center gap-2 rounded-full bg-dark border border-white px-6 py-3 text-white font-medium hover:bg-black transition-colors">
+              Reserve your assessment slot
+              <svg width="15" height="15" viewBox="0 0 15 15" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M11.5625 7.5L3.125 7.5" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M8.12504 3.74997C8.12504 3.74997 11.875 6.51184 11.875 7.50003C11.875 8.48822 8.12498 11.25 8.12498 11.25" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+            </a>
+          </div>
+
+          <div class="rounded-[10px] bg-pale-blue p-6">
+            <p class="font-bold text-ink">Includes</p>
+            <ul class="mt-4 space-y-3 text-sm text-ink">
+              <li>Qualification and planning</li>
+              <li>Data preparation</li>
+              <li>Executive dashboard setup</li>
+              <li>Day 1 Executive Reveal</li>
+              <li>7-Day Assessment</li>
+              <li>Executive Intelligence Review</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ 9. BUILT FOR THE ACCOUNTABLE LEADER ============ -->
+  <section class="bg-dark">
+    <div class="mx-auto max-w-7xl px-6 lg:px-16 py-16 md:py-24 grid lg:grid-cols-2 gap-12">
+      <div>
+        <p class="text-base text-white mb-4">Built for the accountable leader</p>
+        <h2 class="h-serif text-4xl sm:text-6xl lg:text-7xl leading-[1.05] text-white">For CEOs who need to know sooner.</h2>
+        <p class="mt-8 text-base text-white/60 max-w-md">The assessment is made for the person who needs to move the business forward not for a technical team to configure another system.</p>
+      </div>
+
+      <div class="flex flex-col gap-8">
+        <div class="flex items-start gap-4 border-t border-white/20 pt-6">
+          <span class="h-serif text-2xl text-brand shrink-0">01</span>
+          <div>
+            <h3 class="text-white">CEOs &amp; Managing Directors</h3>
+            <p class="mt-2 text-sm text-white/70 max-w-sm">Accountable for high-stakes decisions with fragmented information.</p>
+          </div>
+        </div>
+        <div class="flex items-start gap-4 border-t border-white/20 pt-6">
+          <span class="h-serif text-2xl text-brand shrink-0">02</span>
+          <div>
+            <h3 class="text-white">Founder-led leadership teams</h3>
+            <p class="mt-2 text-sm text-white/70 max-w-sm">Managing growth while spending too much time assembling updates.</p>
+          </div>
+        </div>
+        <div class="flex items-start gap-4 border-t border-white/20 pt-6">
+          <span class="h-serif text-2xl text-brand shrink-0">03</span>
+          <div>
+            <h3 class="text-white">Growing SMEs</h3>
+            <p class="mt-2 text-sm text-white/70 max-w-sm">Businesses ready to improve operational intelligence before complexity compounds.</p>
+          </div>
+        </div>
+        <div class="flex items-start gap-4 border-t border-white/20 pt-6">
+          <span class="h-serif text-2xl text-brand shrink-0">04</span>
+          <div>
+            <h3 class="text-white">Multi-department organizations</h3>
+            <p class="mt-2 text-sm text-white/70 max-w-sm">Companies seeking a clearer view across functions and fewer reporting gaps.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ 10. THE OUTCOME ============ -->
+  <section class="bg-light">
+    <div class="mx-auto max-w-7xl px-6 lg:px-16 py-16 md:py-24 grid lg:grid-cols-2 gap-12 items-center">
+      <div>
+        <p class="text-base text-brand mb-4">The outcome</p>
+        <h2 class="h-serif text-4xl sm:text-5xl leading-tight text-charcoal">Better decisions begin with better visibility.</h2>
+        <p class="mt-8 text-base text-black/60">When you can clearly see:</p>
+
+        <ul class="mt-6 space-y-4">
+          <li class="flex items-center gap-3 text-ink">
+            <span class="text-ink shrink-0"><svg width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M5 13.2591L7.58583 15.9567C8.2525 16.6522 8.58583 17 9.00004 17C9.41425 17 9.74759 16.6522 10.4143 15.9567L19 7" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
+            Financial performance
+          </li>
+          <li class="flex items-center gap-3 text-ink">
+            <span class="text-ink shrink-0"><svg width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M5 13.2591L7.58583 15.9567C8.2525 16.6522 8.58583 17 9.00004 17C9.41425 17 9.74759 16.6522 10.4143 15.9567L19 7" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
+            Sales activity
+          </li>
+          <li class="flex items-center gap-3 text-ink">
+            <span class="text-ink shrink-0"><svg width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M5 13.2591L7.58583 15.9567C8.2525 16.6522 8.58583 17 9.00004 17C9.41425 17 9.74759 16.6522 10.4143 15.9567L19 7" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
+            Operational bottlenecks
+          </li>
+          <li class="flex items-center gap-3 text-ink">
+            <span class="text-ink shrink-0"><svg width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M5 13.2591L7.58583 15.9567C8.2525 16.6522 8.58583 17 9.00004 17C9.41425 17 9.74759 16.6522 10.4143 15.9567L19 7" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
+            Business trends
+          </li>
+          <li class="flex items-center gap-3 text-ink">
+            <span class="text-ink shrink-0"><svg width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M5 13.2591L7.58583 15.9567C8.2525 16.6522 8.58583 17 9.00004 17C9.41425 17 9.74759 16.6522 10.4143 15.9567L19 7" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
+            Critical risks
+          </li>
+        </ul>
+
+        <p class="mt-8 text-base leading-loose text-black/60 max-w-lg">You make faster, more confident decisions without another week lost to assembling the evidence. Remsana helps make that possible.</p>
+      </div>
+
+      <div class="rounded-[20px] bg-white p-4 shadow-xl">
+        <img src="assets/remsana-ceo-finance-4.jpg" alt="Business outcome visibility" class="w-full h-auto rounded-2xl object-cover">
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ 11. ONLY 8 BUSINESSES PER MONTH ============ -->
+  <section class="bg-accent-yellow">
+    <div class="mx-auto max-w-7xl px-6 lg:px-16 py-16 md:py-24 grid lg:grid-cols-2 gap-12 items-center">
+      <div>
+        <h2 class="h-serif text-5xl sm:text-6xl md:text-7xl leading-tight text-charcoal">Only 8 businesses per month.</h2>
+        <p class="mt-6 text-base leading-loose text-black max-w-lg">To maintain delivery quality and personalized attention, Remsana currently accepts only 8 Executive Intelligence Assessments per month. Applications are reviewed before invitations are issued.</p>
+        <a href="#faq" class="mt-8 inline-flex items-center gap-2 rounded-[10px] border border-ink px-6 py-4 text-ink font-medium hover:bg-black/5 transition-colors">
+          Ask about this month's availability
+          <svg width="15" height="15" viewBox="0 0 15 15" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M11.5625 7.5L3.125 7.5" stroke="#191A15" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M8.12504 3.74997C8.12504 3.74997 11.875 6.51184 11.875 7.50003C11.875 8.48822 8.12498 11.25 8.12498 11.25" stroke="#191A15" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </a>
+      </div>
+
+      <div class="flex justify-center lg:justify-end">
+        <div class="size-64 md:size-72 rounded-full bg-white flex flex-col items-center justify-center shadow-xl">
+          <span class="h-serif text-7xl md:text-8xl text-charcoal">08</span>
+          <span class="mt-2 text-lg text-black">Monthly slots</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ 12. FAQ ============ -->
+  <section id="faq" class="bg-light">
+    <div class="mx-auto max-w-7xl px-6 lg:px-16 py-16 md:py-24 grid lg:grid-cols-2 gap-12">
+      <div>
+        <p class="text-base text-brand mb-4">Questions, answered</p>
+        <h2 class="h-serif text-4xl sm:text-5xl leading-tight text-charcoal">Before you apply.</h2>
+      </div>
+
+      <div class="divide-y divide-ink/15">
+        <details class="group py-5" open>
+          <summary class="flex items-center justify-between gap-4 cursor-pointer list-none">
+            <span class="font-semibold text-ink">How long does the assessment take?</span>
+            <svg class="shrink-0 transition-transform group-open:rotate-180" width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M18 9.00005C18 9.00005 13.5811 15 12 15C10.4188 15 6 9 6 9" stroke="#141B34" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          </summary>
+          <p class="mt-3 text-sm text-black/60">7 days from Day 1 activation.</p>
+        </details>
+        <details class="group py-5">
+          <summary class="flex items-center justify-between gap-4 cursor-pointer list-none">
+            <span class="font-semibold text-ink">Do I need technical knowledge?</span>
+            <svg class="shrink-0 transition-transform group-open:rotate-180" width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M18 9.00005C18 9.00005 13.5811 15 12 15C10.4188 15 6 9 6 9" stroke="#141B34" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          </summary>
+          <p class="mt-3 text-sm text-black/60">No. The assessment is designed for business leaders, not technical teams.</p>
+        </details>
+        <details class="group py-5">
+          <summary class="flex items-center justify-between gap-4 cursor-pointer list-none">
+            <span class="font-semibold text-ink">What data do you require?</span>
+            <svg class="shrink-0 transition-transform group-open:rotate-180" width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M18 9.00005C18 9.00005 13.5811 15 12 15C10.4188 15 6 9 6 9" stroke="#141B34" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          </summary>
+          <p class="mt-3 text-sm text-black/60">Only the information necessary to answer the agreed executive question.</p>
+        </details>
+        <details class="group py-5">
+          <summary class="flex items-center justify-between gap-4 cursor-pointer list-none">
+            <span class="font-semibold text-ink">Is my business information secure?</span>
+            <svg class="shrink-0 transition-transform group-open:rotate-180" width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M18 9.00005C18 9.00005 13.5811 15 12 15C10.4188 15 6 9 6 9" stroke="#141B34" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          </summary>
+          <p class="mt-3 text-sm text-black/60">Yes. Data is handled according to agreed access and authorization requirements.</p>
+        </details>
+        <details class="group py-5">
+          <summary class="flex items-center justify-between gap-4 cursor-pointer list-none">
+            <span class="font-semibold text-ink">Am I required to subscribe afterward?</span>
+            <svg class="shrink-0 transition-transform group-open:rotate-180" width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M18 9.00005C18 9.00005 13.5811 15 12 15C10.4188 15 6 9 6 9" stroke="#141B34" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          </summary>
+          <p class="mt-3 text-sm text-black/60">No. The decision to continue is entirely yours.</p>
+        </details>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ 13. FINAL CTA ============ -->
+  <section class="bg-dark">
+    <div class="mx-auto max-w-4xl px-6 lg:px-16 py-20 md:py-32 text-center">
+      <p class="text-base text-white mb-4">Your next decision deserves a clearer brief</p>
+      <h2 class="h-serif text-4xl sm:text-6xl md:text-7xl leading-tight text-white">The decisions you make are only as good as the information behind them.</h2>
+      <p class="mt-8 text-base text-white/60 max-w-xl mx-auto">Tell us the decision you are weighing. We'll help you see what your business may be trying to tell you.</p>
+
+      <a href="#apply" class="mt-10 inline-flex items-center gap-2 rounded-[10px] border border-white px-6 py-4 text-white font-medium hover:bg-white/10 transition-colors">
+        Start your CEO Assessment
+        <svg width="15" height="15" viewBox="0 0 15 15" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M11.5625 7.5L3.125 7.5" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M8.12504 3.74997C8.12504 3.74997 11.875 6.51184 11.875 7.50003C11.875 8.48822 8.12498 11.25 8.12498 11.25" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </a>
+    </div>
+  </section>
+
+</main>
+
+<script src="script.js"></script>
+</body>
+</html>

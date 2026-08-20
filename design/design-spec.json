@@ -1,0 +1,7971 @@
+{
+ "id": "113:15",
+ "name": "Frame 406",
+ "type": "FRAME",
+ "box": {
+  "x": 7732,
+  "y": 35536,
+  "width": 1440,
+  "height": 12038
+ },
+ "strokeWeight": 1,
+ "autoLayout": {
+  "mode": "VERTICAL"
+ },
+ "children": [
+  {
+   "id": "113:16",
+   "name": "Desktop - 53",
+   "type": "FRAME",
+   "box": {
+    "x": 7732,
+    "y": 35536,
+    "width": 1440,
+    "height": 948
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#ebebeb"
+    }
+   ],
+   "strokeWeight": 1,
+   "children": [
+    {
+     "id": "113:17",
+     "name": "Frame 248",
+     "type": "FRAME",
+     "box": {
+      "x": 7732,
+      "y": 35536,
+      "width": 1440,
+      "height": 65
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#ebebeb"
+      }
+     ],
+     "strokeWeight": 1,
+     "effects": [
+      {
+       "type": "DROP_SHADOW",
+       "radius": 4,
+       "color": "#00000040",
+       "offset": {
+        "x": 0,
+        "y": 4
+       }
+      }
+     ],
+     "children": [
+      {
+       "id": "113:18",
+       "name": "Remsana",
+       "type": "TEXT",
+       "box": {
+        "x": 7796,
+        "y": 35558.5,
+        "width": 88,
+        "height": 20
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#0053d0"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "Remsana",
+       "textStyle": {
+        "fontFamily": "Inter",
+        "fontWeight": 500,
+        "fontSize": 20,
+        "lineHeightPx": 20,
+        "letterSpacing": 0,
+        "textAlign": "LEFT"
+       },
+       "textColor": "#0053d0"
+      },
+      {
+       "id": "113:19",
+       "name": "Frame 249",
+       "type": "FRAME",
+       "box": {
+        "x": 8900,
+        "y": 35547,
+        "width": 208,
+        "height": 43
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#0053d0"
+        }
+       ],
+       "strokeWeight": 1,
+       "cornerRadius": 10,
+       "autoLayout": {
+        "mode": "HORIZONTAL",
+        "paddingTop": 10,
+        "paddingBottom": 10,
+        "paddingLeft": 20,
+        "paddingRight": 20,
+        "itemSpacing": 10,
+        "primaryAxisAlignItems": "CENTER",
+        "counterAxisAlignItems": "CENTER"
+       },
+       "children": [
+        {
+         "id": "113:20",
+         "name": "Frame 250",
+         "type": "FRAME",
+         "box": {
+          "x": 8920,
+          "y": 35557,
+          "width": 168,
+          "height": 23
+         },
+         "strokeWeight": 1,
+         "autoLayout": {
+          "mode": "HORIZONTAL",
+          "itemSpacing": 5,
+          "primaryAxisAlignItems": "CENTER",
+          "counterAxisAlignItems": "CENTER"
+         },
+         "children": [
+          {
+           "id": "113:21",
+           "name": "Apply for Assessment",
+           "type": "TEXT",
+           "box": {
+            "x": 8920,
+            "y": 35557,
+            "width": 168,
+            "height": 23
+           },
+           "fills": [
+            {
+             "type": "SOLID",
+             "color": "#ffffff"
+            }
+           ],
+           "strokeWeight": 1,
+           "characters": "Apply for Assessment ",
+           "textStyle": {
+            "fontFamily": "Inter",
+            "fontWeight": 500,
+            "fontSize": 16,
+            "lineHeightPx": 23,
+            "letterSpacing": 0,
+            "textAlign": "CENTER"
+           },
+           "textColor": "#ffffff"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "113:22",
+     "name": "Frame 253",
+     "type": "FRAME",
+     "box": {
+      "x": 8452,
+      "y": 35559,
+      "width": 342,
+      "height": 20
+     },
+     "strokeWeight": 1,
+     "autoLayout": {
+      "mode": "HORIZONTAL",
+      "itemSpacing": 36,
+      "primaryAxisAlignItems": "SPACE_BETWEEN",
+      "counterAxisAlignItems": "CENTER"
+     },
+     "children": [
+      {
+       "id": "113:23",
+       "name": "How it work",
+       "type": "TEXT",
+       "box": {
+        "x": 8452,
+        "y": 35559,
+        "width": 91,
+        "height": 20
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#000000"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "How it work",
+       "textStyle": {
+        "fontFamily": "Inter",
+        "fontWeight": 500,
+        "fontSize": 16,
+        "lineHeightPx": 20,
+        "letterSpacing": 0,
+        "textAlign": "LEFT"
+       },
+       "textColor": "#000000"
+      },
+      {
+       "id": "113:24",
+       "name": "Questions",
+       "type": "TEXT",
+       "box": {
+        "x": 8614,
+        "y": 35559,
+        "width": 78,
+        "height": 20
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#000000"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "Questions",
+       "textStyle": {
+        "fontFamily": "Inter",
+        "fontWeight": 500,
+        "fontSize": 16,
+        "lineHeightPx": 20,
+        "letterSpacing": 0,
+        "textAlign": "LEFT"
+       },
+       "textColor": "#000000"
+      },
+      {
+       "id": "113:25",
+       "name": "FAQ",
+       "type": "TEXT",
+       "box": {
+        "x": 8763,
+        "y": 35559,
+        "width": 31,
+        "height": 20
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#000000"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "FAQ",
+       "textStyle": {
+        "fontFamily": "Inter",
+        "fontWeight": 500,
+        "fontSize": 16,
+        "lineHeightPx": 20,
+        "letterSpacing": 0,
+        "textAlign": "LEFT"
+       },
+       "textColor": "#000000"
+      }
+     ]
+    },
+    {
+     "id": "113:26",
+     "name": "Rectangle 158",
+     "type": "RECTANGLE",
+     "box": {
+      "x": 7732,
+      "y": 35601,
+      "width": 1440,
+      "height": 959
+     },
+     "fills": [
+      {
+       "type": "GRADIENT_LINEAR",
+       "stops": [
+        {
+         "color": "#ffffff00",
+         "pos": 0
+        },
+        {
+         "color": "#f1f1f1",
+         "pos": 1
+        }
+       ]
+      }
+     ],
+     "strokeWeight": 1
+    },
+    {
+     "id": "113:27",
+     "name": "What You Don't Know About Your Business Could Be Costing You Money",
+     "type": "TEXT",
+     "box": {
+      "x": 7799,
+      "y": 35824,
+      "width": 781,
+      "height": 213
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#202020"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "What You Don't Know About Your Business Could Be Costing You Money",
+     "textStyle": {
+      "fontFamily": "Times New Roman",
+      "fontWeight": 400,
+      "fontSize": 64,
+      "lineHeightPx": 71,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#202020"
+    },
+    {
+     "id": "113:28",
+     "name": "For CEOs and Managing Directors making high-stakes calls with fragmented information. The Remsana Executive Intelligence Assessment gives you a clearer answer from your own business data in 7 days, without spending another week assembling reports.",
+     "type": "TEXT",
+     "box": {
+      "x": 7799,
+      "y": 36068,
+      "width": 749,
+      "height": 108
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#000000"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "For CEOs and Managing Directors making high-stakes calls with fragmented information.\n\nThe Remsana Executive Intelligence Assessment gives you a clearer answer from your own business data in 7 days, without spending another week assembling reports.",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeightPx": 27,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#000000"
+    },
+    {
+     "id": "113:29",
+     "name": "button",
+     "type": "FRAME",
+     "box": {
+      "x": 7799,
+      "y": 36214,
+      "width": 530,
+      "height": 58
+     },
+     "strokeWeight": 1,
+     "autoLayout": {
+      "mode": "HORIZONTAL",
+      "itemSpacing": 8,
+      "counterAxisAlignItems": "CENTER"
+     },
+     "children": [
+      {
+       "id": "113:30",
+       "name": "Frame 249",
+       "type": "FRAME",
+       "box": {
+        "x": 7799,
+        "y": 36214,
+        "width": 313,
+        "height": 58
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#0053d0"
+        }
+       ],
+       "strokeWeight": 1,
+       "cornerRadius": 10,
+       "autoLayout": {
+        "mode": "HORIZONTAL",
+        "paddingTop": 10,
+        "paddingBottom": 10,
+        "paddingLeft": 20,
+        "paddingRight": 20,
+        "itemSpacing": 10,
+        "counterAxisAlignItems": "CENTER"
+       },
+       "children": [
+        {
+         "id": "113:31",
+         "name": "Frame 250",
+         "type": "FRAME",
+         "box": {
+          "x": 7819,
+          "y": 36231.5,
+          "width": 273,
+          "height": 23
+         },
+         "strokeWeight": 1,
+         "autoLayout": {
+          "mode": "HORIZONTAL",
+          "itemSpacing": 5,
+          "primaryAxisAlignItems": "CENTER",
+          "counterAxisAlignItems": "CENTER"
+         },
+         "children": [
+          {
+           "id": "113:32",
+           "name": "Apply for your 7-day assessment",
+           "type": "TEXT",
+           "box": {
+            "x": 7819,
+            "y": 36231.5,
+            "width": 253,
+            "height": 23
+           },
+           "fills": [
+            {
+             "type": "SOLID",
+             "color": "#ffffff"
+            }
+           ],
+           "strokeWeight": 1,
+           "characters": "Apply for your 7-day assessment",
+           "textStyle": {
+            "fontFamily": "Inter",
+            "fontWeight": 500,
+            "fontSize": 16,
+            "lineHeightPx": 23,
+            "letterSpacing": 0,
+            "textAlign": "CENTER"
+           },
+           "textColor": "#ffffff"
+          },
+          {
+           "id": "113:33",
+           "name": "arrow-left-02",
+           "type": "FRAME",
+           "box": {
+            "x": 8076.999999046326,
+            "y": 36235.499999642336,
+            "width": 15.00000226501561,
+            "height": 15.000000357664248
+           },
+           "strokeWeight": 1,
+           "children": [
+            {
+             "id": "113:34",
+             "name": "Vector",
+             "type": "VECTOR",
+             "box": {
+              "x": 8080.124999046326,
+              "y": 36242.99999926237,
+              "width": 8.437500953674316,
+              "height": 7.376293069683015e-7
+             },
+             "strokes": [
+              "#ffffff"
+             ],
+             "strokeWeight": 1.5
+            },
+            {
+             "id": "113:35",
+             "name": "Vector",
+             "type": "VECTOR",
+             "box": {
+              "x": 8085.124980926514,
+              "y": 36239.24996820091,
+              "width": 3.750019729160158,
+              "height": 7.50003179909254
+             },
+             "strokes": [
+              "#ffffff"
+             ],
+             "strokeWeight": 1.5
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "id": "113:36",
+       "name": "Frame 252",
+       "type": "FRAME",
+       "box": {
+        "x": 8120,
+        "y": 36214,
+        "width": 209,
+        "height": 58
+       },
+       "fills": [],
+       "strokes": [
+        "GRADIENT_LINEAR",
+        "#0053d0"
+       ],
+       "strokeWeight": 1,
+       "cornerRadius": 10,
+       "autoLayout": {
+        "mode": "HORIZONTAL",
+        "primaryAxisAlignItems": "CENTER",
+        "counterAxisAlignItems": "CENTER"
+       },
+       "children": [
+        {
+         "id": "113:37",
+         "name": "Frame 250",
+         "type": "FRAME",
+         "box": {
+          "x": 8155.5,
+          "y": 36231.5,
+          "width": 138,
+          "height": 23
+         },
+         "strokeWeight": 1,
+         "autoLayout": {
+          "mode": "HORIZONTAL",
+          "itemSpacing": 5,
+          "primaryAxisAlignItems": "CENTER",
+          "counterAxisAlignItems": "CENTER"
+         },
+         "children": [
+          {
+           "id": "113:38",
+           "name": "Request for Demo",
+           "type": "TEXT",
+           "box": {
+            "x": 8155.5,
+            "y": 36231.5,
+            "width": 138,
+            "height": 23
+           },
+           "fills": [
+            {
+             "type": "SOLID",
+             "color": "#0053d0"
+            }
+           ],
+           "strokeWeight": 1,
+           "characters": "Request for Demo",
+           "textStyle": {
+            "fontFamily": "Inter",
+            "fontWeight": 500,
+            "fontSize": 16,
+            "lineHeightPx": 23,
+            "letterSpacing": 0,
+            "textAlign": "CENTER"
+           },
+           "textColor": "#0053d0"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "113:39",
+     "name": "Frame 367",
+     "type": "FRAME",
+     "box": {
+      "x": 7795,
+      "y": 35770,
+      "width": 207,
+      "height": 40
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#0053d0",
+       "opacity": 0.10000000149011612
+      }
+     ],
+     "strokeWeight": 1,
+     "cornerRadius": 50,
+     "autoLayout": {
+      "mode": "HORIZONTAL",
+      "paddingTop": 20,
+      "paddingBottom": 20,
+      "paddingLeft": 20,
+      "paddingRight": 20,
+      "itemSpacing": 10,
+      "primaryAxisAlignItems": "CENTER",
+      "counterAxisAlignItems": "CENTER"
+     },
+     "children": [
+      {
+       "id": "113:40",
+       "name": "Executive intelligence",
+       "type": "TEXT",
+       "box": {
+        "x": 7815,
+        "y": 35784,
+        "width": 167,
+        "height": 12
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#191a15"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "Executive intelligence",
+       "textStyle": {
+        "fontFamily": "Inter",
+        "fontWeight": 500,
+        "fontSize": 16,
+        "lineHeightPx": 22,
+        "letterSpacing": 0,
+        "textAlign": "CENTER"
+       },
+       "textColor": "#191a15"
+      }
+     ]
+    },
+    {
+     "id": "113:41",
+     "name": "Frame 368",
+     "type": "FRAME",
+     "box": {
+      "x": 8576.664001193416,
+      "y": 35751.19921875,
+      "width": 538.8341486240333,
+      "height": 647.8553805295815
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#ffffff"
+      }
+     ],
+     "strokeWeight": 1,
+     "cornerRadius": 20,
+     "children": [
+      {
+       "id": "113:42",
+       "name": "remsana-hero 1",
+       "type": "RECTANGLE",
+       "box": {
+        "x": 8487.660336766276,
+        "y": 35743.9375,
+        "width": 804.8193674917566,
+        "height": 804.8193674917566
+       },
+       "fills": [
+        {
+         "type": "IMAGE",
+         "imageRef": "cd349cfbaa72933116d86c4b986340ab4d550a68"
+        }
+       ],
+       "strokeWeight": 1
+      }
+     ]
+    },
+    {
+     "id": "113:43",
+     "name": "Frame 369",
+     "type": "FRAME",
+     "box": {
+      "x": 7801,
+      "y": 36325,
+      "width": 455,
+      "height": 37
+     },
+     "strokeWeight": 1,
+     "autoLayout": {
+      "mode": "HORIZONTAL",
+      "itemSpacing": 8,
+      "primaryAxisAlignItems": "CENTER",
+      "counterAxisAlignItems": "CENTER"
+     },
+     "children": [
+      {
+       "id": "113:44",
+       "name": "security-check",
+       "type": "FRAME",
+       "box": {
+        "x": 7801,
+        "y": 36331.5,
+        "width": 24,
+        "height": 24
+       },
+       "strokeWeight": 1,
+       "children": [
+        {
+         "id": "113:45",
+         "name": "Vector",
+         "type": "VECTOR",
+         "box": {
+          "x": 7804,
+          "y": 36333.5,
+          "width": 18,
+          "height": 20
+         },
+         "strokes": [
+          "#0053d0"
+         ],
+         "strokeWeight": 1.5
+        },
+        {
+         "id": "113:46",
+         "name": "Vector",
+         "type": "VECTOR",
+         "box": {
+          "x": 7810,
+          "y": 36341,
+          "width": 6,
+          "height": 4
+         },
+         "strokes": [
+          "#0053d0"
+         ],
+         "strokeWeight": 1.5
+        }
+       ]
+      },
+      {
+       "id": "113:47",
+       "name": "Limited to 8 assessments per month for quality delivery.",
+       "type": "TEXT",
+       "box": {
+        "x": 7833,
+        "y": 36325,
+        "width": 423,
+        "height": 37
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#000000"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "Limited to 8 assessments per month for quality delivery.",
+       "textStyle": {
+        "fontFamily": "Inter",
+        "fontWeight": 300,
+        "fontSize": 16,
+        "lineHeightPx": 37,
+        "letterSpacing": 0,
+        "textAlign": "LEFT"
+       },
+       "textColor": "#000000"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "113:48",
+   "name": "Desktop - 54",
+   "type": "FRAME",
+   "box": {
+    "x": 7732,
+    "y": 36484,
+    "width": 1440,
+    "height": 892
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#ebebeb"
+    }
+   ],
+   "strokes": [
+    "#000000"
+   ],
+   "strokeWeight": 1,
+   "children": [
+    {
+     "id": "113:49",
+     "name": "Rectangle 158",
+     "type": "RECTANGLE",
+     "box": {
+      "x": 7732,
+      "y": 36549,
+      "width": 1440,
+      "height": 959
+     },
+     "fills": [
+      {
+       "type": "GRADIENT_LINEAR",
+       "stops": [
+        {
+         "color": "#ffffff00",
+         "pos": 0
+        },
+        {
+         "color": "#f1f1f1",
+         "pos": 1
+        }
+       ]
+      }
+     ],
+     "strokeWeight": 1
+    },
+    {
+     "id": "113:50",
+     "name": "You do not need another dashboard. You need a faster path to the answer.",
+     "type": "TEXT",
+     "box": {
+      "x": 8371,
+      "y": 36661,
+      "width": 687,
+      "height": 213
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#202020"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "You do not need another dashboard. You need a faster path to the answer.",
+     "textStyle": {
+      "fontFamily": "Times New Roman",
+      "fontWeight": 400,
+      "fontSize": 64,
+      "lineHeightPx": 71,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#202020"
+    },
+    {
+     "id": "113:51",
+     "name": "Remsana is designed for CEOs and Managing Directors who are accountable for what happens next and tired of waiting for the full story to be assembled.",
+     "type": "TEXT",
+     "box": {
+      "x": 8371,
+      "y": 36895,
+      "width": 625,
+      "height": 66
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#000000",
+       "opacity": 0.6000000238418579
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "Remsana is designed for CEOs and Managing Directors who are accountable for what happens next and tired of waiting for the full story to be assembled.",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeightPx": 33,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#000000"
+    },
+    {
+     "id": "113:52",
+     "name": "A clearer brief for the corner office",
+     "type": "TEXT",
+     "box": {
+      "x": 8371,
+      "y": 36602,
+      "width": 285,
+      "height": 27
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#0053d0"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "A clearer brief for the corner office",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeightPx": 27,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#0053d0"
+    },
+    {
+     "id": "113:53",
+     "name": "Frame 368",
+     "type": "FRAME",
+     "box": {
+      "x": 7792.4921875,
+      "y": 36591.53981962771,
+      "width": 480.7994280398416,
+      "height": 635.4514592704945
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#ffffff"
+      }
+     ],
+     "strokeWeight": 1,
+     "cornerRadius": 20,
+     "children": [
+      {
+       "id": "113:54",
+       "name": "remsana-hero 1",
+       "type": "RECTANGLE",
+       "box": {
+        "x": 7715.1875,
+        "y": 36570.537289891276,
+        "width": 804.8193674917566,
+        "height": 804.8193674917566
+       },
+       "strokeWeight": 1
+      },
+      {
+       "id": "113:55",
+       "name": "remsana-ceo-finance 1",
+       "type": "RECTANGLE",
+       "box": {
+        "x": 7698.4951171875,
+        "y": 36566.55068668558,
+        "width": 701.795501129458,
+        "height": 701.7955011294616
+       },
+       "fills": [
+        {
+         "type": "IMAGE",
+         "imageRef": "e8e3e7af134e106878483555a05d937aa53cc661"
+        }
+       ],
+       "strokeWeight": 1
+      }
+     ]
+    },
+    {
+     "id": "113:56",
+     "name": "Frame 375",
+     "type": "FRAME",
+     "box": {
+      "x": 8869,
+      "y": 36993,
+      "width": 236,
+      "height": 112
+     },
+     "strokes": [
+      "#191a15"
+     ],
+     "strokeWeight": 1,
+     "cornerRadius": 10,
+     "children": [
+      {
+       "id": "113:57",
+       "name": "Less assembly",
+       "type": "TEXT",
+       "box": {
+        "x": 8883,
+        "y": 37003,
+        "width": 130,
+        "height": 33
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#000000"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "Less assembly",
+       "textStyle": {
+        "fontFamily": "Inter",
+        "fontWeight": 600,
+        "fontSize": 16,
+        "lineHeightPx": 33,
+        "letterSpacing": 0,
+        "textAlign": "LEFT"
+       },
+       "textColor": "#000000"
+      },
+      {
+       "id": "113:58",
+       "name": "Spend less time chasing updates and reports.",
+       "type": "TEXT",
+       "box": {
+        "x": 8883,
+        "y": 37049,
+        "width": 208,
+        "height": 40
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#000000",
+         "opacity": 0.6000000238418579
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "Spend less time chasing updates and reports.",
+       "textStyle": {
+        "fontFamily": "Inter",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 20,
+        "letterSpacing": 0,
+        "textAlign": "LEFT"
+       },
+       "textColor": "#000000"
+      },
+      {
+       "id": "113:59",
+       "name": "03",
+       "type": "TEXT",
+       "box": {
+        "x": 9059,
+        "y": 36997,
+        "width": 26,
+        "height": 36
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#0053d0"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "03",
+       "textStyle": {
+        "fontFamily": "Times New Roman",
+        "fontWeight": 400,
+        "fontSize": 24,
+        "lineHeightPx": 71,
+        "letterSpacing": 0,
+        "textAlign": "LEFT"
+       },
+       "textColor": "#0053d0"
+      }
+     ]
+    },
+    {
+     "id": "113:60",
+     "name": "Frame 376",
+     "type": "FRAME",
+     "box": {
+      "x": 8622,
+      "y": 36993,
+      "width": 236,
+      "height": 112
+     },
+     "strokes": [
+      "#191a15"
+     ],
+     "strokeWeight": 1,
+     "cornerRadius": 10,
+     "children": [
+      {
+       "id": "113:61",
+       "name": "Seven days",
+       "type": "TEXT",
+       "box": {
+        "x": 8636,
+        "y": 37003,
+        "width": 130,
+        "height": 33
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#000000"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "Seven days",
+       "textStyle": {
+        "fontFamily": "Inter",
+        "fontWeight": 600,
+        "fontSize": 16,
+        "lineHeightPx": 33,
+        "letterSpacing": 0,
+        "textAlign": "LEFT"
+       },
+       "textColor": "#000000"
+      },
+      {
+       "id": "113:62",
+       "name": "See the signal without a long implementation.",
+       "type": "TEXT",
+       "box": {
+        "x": 8636,
+        "y": 37049,
+        "width": 208,
+        "height": 40
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#000000",
+         "opacity": 0.6000000238418579
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "See the signal without a long implementation.",
+       "textStyle": {
+        "fontFamily": "Inter",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 20,
+        "letterSpacing": 0,
+        "textAlign": "LEFT"
+       },
+       "textColor": "#000000"
+      },
+      {
+       "id": "113:63",
+       "name": "02",
+       "type": "TEXT",
+       "box": {
+        "x": 8812,
+        "y": 36997,
+        "width": 26,
+        "height": 36
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#0053d0"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "02",
+       "textStyle": {
+        "fontFamily": "Times New Roman",
+        "fontWeight": 400,
+        "fontSize": 24,
+        "lineHeightPx": 71,
+        "letterSpacing": 0,
+        "textAlign": "LEFT"
+       },
+       "textColor": "#0053d0"
+      }
+     ]
+    },
+    {
+     "id": "113:64",
+     "name": "Frame 377",
+     "type": "FRAME",
+     "box": {
+      "x": 8373,
+      "y": 36993,
+      "width": 236,
+      "height": 112
+     },
+     "strokes": [
+      "#191a15"
+     ],
+     "strokeWeight": 1,
+     "cornerRadius": 10,
+     "children": [
+      {
+       "id": "113:65",
+       "name": "One decision",
+       "type": "TEXT",
+       "box": {
+        "x": 8387,
+        "y": 37003,
+        "width": 130,
+        "height": 33
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#000000"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "One decision",
+       "textStyle": {
+        "fontFamily": "Inter",
+        "fontWeight": 600,
+        "fontSize": 16,
+        "lineHeightPx": 33,
+        "letterSpacing": 0,
+        "textAlign": "LEFT"
+       },
+       "textColor": "#000000"
+      },
+      {
+       "id": "113:66",
+       "name": "Start with the call in front of you.",
+       "type": "TEXT",
+       "box": {
+        "x": 8387,
+        "y": 37049,
+        "width": 208,
+        "height": 40
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#000000",
+         "opacity": 0.6000000238418579
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "Start with the call in front of you.",
+       "textStyle": {
+        "fontFamily": "Inter",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 20,
+        "letterSpacing": 0,
+        "textAlign": "LEFT"
+       },
+       "textColor": "#000000"
+      },
+      {
+       "id": "113:67",
+       "name": "01",
+       "type": "TEXT",
+       "box": {
+        "x": 8563,
+        "y": 36997,
+        "width": 26,
+        "height": 36
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#0053d0"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "01",
+       "textStyle": {
+        "fontFamily": "Times New Roman",
+        "fontWeight": 400,
+        "fontSize": 24,
+        "lineHeightPx": 71,
+        "letterSpacing": 0,
+        "textAlign": "LEFT"
+       },
+       "textColor": "#0053d0"
+      }
+     ]
+    },
+    {
+     "id": "113:68",
+     "name": "Frame 249",
+     "type": "FRAME",
+     "box": {
+      "x": 8373,
+      "y": 37145,
+      "width": 313,
+      "height": 58
+     },
+     "fills": [],
+     "strokes": [
+      "#000000"
+     ],
+     "strokeWeight": 1,
+     "cornerRadius": 10,
+     "autoLayout": {
+      "mode": "HORIZONTAL",
+      "paddingTop": 10,
+      "paddingBottom": 10,
+      "paddingLeft": 20,
+      "paddingRight": 20,
+      "itemSpacing": 10,
+      "counterAxisAlignItems": "CENTER"
+     },
+     "children": [
+      {
+       "id": "113:69",
+       "name": "Frame 250",
+       "type": "FRAME",
+       "box": {
+        "x": 8393,
+        "y": 37162.5,
+        "width": 273,
+        "height": 23
+       },
+       "strokeWeight": 1,
+       "autoLayout": {
+        "mode": "HORIZONTAL",
+        "itemSpacing": 5,
+        "primaryAxisAlignItems": "CENTER",
+        "counterAxisAlignItems": "CENTER"
+       },
+       "children": [
+        {
+         "id": "113:70",
+         "name": "Apply for your 7-day assessment",
+         "type": "TEXT",
+         "box": {
+          "x": 8393,
+          "y": 37162.5,
+          "width": 253,
+          "height": 23
+         },
+         "fills": [
+          {
+           "type": "SOLID",
+           "color": "#191a15"
+          }
+         ],
+         "strokeWeight": 1,
+         "characters": "Apply for your 7-day assessment",
+         "textStyle": {
+          "fontFamily": "Inter",
+          "fontWeight": 500,
+          "fontSize": 16,
+          "lineHeightPx": 23,
+          "letterSpacing": 0,
+          "textAlign": "CENTER"
+         },
+         "textColor": "#191a15"
+        },
+        {
+         "id": "113:71",
+         "name": "arrow-left-02",
+         "type": "FRAME",
+         "box": {
+          "x": 8650.999999046326,
+          "y": 37166.499999642336,
+          "width": 15.00000226501652,
+          "height": 15.000000357664248
+         },
+         "strokeWeight": 1,
+         "children": [
+          {
+           "id": "113:72",
+           "name": "Vector",
+           "type": "VECTOR",
+           "box": {
+            "x": 8654.124999046326,
+            "y": 37173.99999926237,
+            "width": 8.437500953674316,
+            "height": 7.376293069683015e-7
+           },
+           "strokes": [
+            "#191a15"
+           ],
+           "strokeWeight": 1.5
+          },
+          {
+           "id": "113:73",
+           "name": "Vector",
+           "type": "VECTOR",
+           "box": {
+            "x": 8659.124980926514,
+            "y": 37170.24996820091,
+            "width": 3.7500197291592485,
+            "height": 7.50003179909254
+           },
+           "strokes": [
+            "#191a15"
+           ],
+           "strokeWeight": 1.5
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "113:74",
+   "name": "Desktop - 61",
+   "type": "FRAME",
+   "box": {
+    "x": 7732,
+    "y": 37376,
+    "width": 1440,
+    "height": 974
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#1b2027"
+    }
+   ],
+   "strokeWeight": 1,
+   "children": [
+    {
+     "id": "113:75",
+     "name": "Rectangle 158",
+     "type": "RECTANGLE",
+     "box": {
+      "x": 7732,
+      "y": 37441,
+      "width": 1440,
+      "height": 959
+     },
+     "fills": [
+      {
+       "type": "GRADIENT_LINEAR",
+       "stops": [
+        {
+         "color": "#ffffff00",
+         "pos": 0
+        },
+        {
+         "color": "#f1f1f1",
+         "pos": 1
+        }
+       ]
+      }
+     ],
+     "strokeWeight": 1
+    },
+    {
+     "id": "113:76",
+     "name": "Most CEOs are making high-stakes decisions without the full picture.",
+     "type": "TEXT",
+     "box": {
+      "x": 7858,
+      "y": 37532,
+      "width": 937,
+      "height": 142
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#ffffff"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "Most CEOs are making high-stakes decisions without the full picture.",
+     "textStyle": {
+      "fontFamily": "Times New Roman",
+      "fontWeight": 400,
+      "fontSize": 64,
+      "lineHeightPx": 71,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#ffffff"
+    },
+    {
+     "id": "113:77",
+     "name": "You still have to decide every day.",
+     "type": "TEXT",
+     "box": {
+      "x": 7858,
+      "y": 37734,
+      "width": 625,
+      "height": 33
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#ffffff",
+       "opacity": 0.6000000238418579
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "You still have to decide every day.",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeightPx": 33,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#ffffff"
+    },
+    {
+     "id": "113:78",
+     "name": "The problem isn’t a lack of effort.",
+     "type": "TEXT",
+     "box": {
+      "x": 7858,
+      "y": 38121,
+      "width": 625,
+      "height": 33
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#0053d0"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "The problem isn’t a lack of effort.",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 600,
+      "fontSize": 16,
+      "lineHeightPx": 33,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#0053d0"
+    },
+    {
+     "id": "113:79",
+     "name": "The problem is that critical business information is often scattered across spreadsheets, reports, systems, and people. By the time the information is assembled, the opportunity or problem has already passed. You lose time getting to the answer you are already responsible for.",
+     "type": "TEXT",
+     "box": {
+      "x": 7858,
+      "y": 38154,
+      "width": 912,
+      "height": 99
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#ffffff",
+       "opacity": 0.6000000238418579
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "The problem is that critical business information is often scattered across spreadsheets, reports, systems, and people. By the time the information is assembled, the opportunity or problem has already passed. You lose time getting to the answer you are already responsible for.",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeightPx": 33,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#ffffff"
+    },
+    {
+     "id": "113:80",
+     "name": "The visibility problem",
+     "type": "TEXT",
+     "box": {
+      "x": 7858,
+      "y": 37473,
+      "width": 285,
+      "height": 27
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#ffffff"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "The visibility problem",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeightPx": 27,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#ffffff"
+    },
+    {
+     "id": "113:81",
+     "name": "Frame 377",
+     "type": "FRAME",
+     "box": {
+      "x": 7858,
+      "y": 37801,
+      "width": 362,
+      "height": 75
+     },
+     "strokes": [
+      "#ffffff"
+     ],
+     "strokeWeight": 1,
+     "children": [
+      {
+       "id": "113:82",
+       "name": "Should we hire more staff?",
+       "type": "TEXT",
+       "box": {
+        "x": 7911,
+        "y": 37825,
+        "width": 184,
+        "height": 20
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#ffffff"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "Should we hire more staff?",
+       "textStyle": {
+        "fontFamily": "Inter",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 20,
+        "letterSpacing": 0,
+        "textAlign": "LEFT"
+       },
+       "textColor": "#ffffff"
+      },
+      {
+       "id": "113:83",
+       "name": "01",
+       "type": "TEXT",
+       "box": {
+        "x": 7874,
+        "y": 37814,
+        "width": 26,
+        "height": 36
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#0053d0"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "01",
+       "textStyle": {
+        "fontFamily": "Times New Roman",
+        "fontWeight": 400,
+        "fontSize": 24,
+        "lineHeightPx": 71,
+        "letterSpacing": 0,
+        "textAlign": "LEFT"
+       },
+       "textColor": "#0053d0"
+      }
+     ]
+    },
+    {
+     "id": "113:84",
+     "name": "Frame 379",
+     "type": "FRAME",
+     "box": {
+      "x": 7858,
+      "y": 37885,
+      "width": 362,
+      "height": 75
+     },
+     "strokes": [
+      "#ffffff"
+     ],
+     "strokeWeight": 1,
+     "children": [
+      {
+       "id": "113:85",
+       "name": "Which customers generate the most profit?",
+       "type": "TEXT",
+       "box": {
+        "x": 7911,
+        "y": 37909,
+        "width": 295,
+        "height": 20
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#ffffff"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "Which customers generate the most profit?",
+       "textStyle": {
+        "fontFamily": "Inter",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 20,
+        "letterSpacing": 0,
+        "textAlign": "LEFT"
+       },
+       "textColor": "#ffffff"
+      },
+      {
+       "id": "113:86",
+       "name": "03",
+       "type": "TEXT",
+       "box": {
+        "x": 7874,
+        "y": 37898,
+        "width": 26,
+        "height": 36
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#0053d0"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "03",
+       "textStyle": {
+        "fontFamily": "Times New Roman",
+        "fontWeight": 400,
+        "fontSize": 24,
+        "lineHeightPx": 71,
+        "letterSpacing": 0,
+        "textAlign": "LEFT"
+       },
+       "textColor": "#0053d0"
+      }
+     ]
+    },
+    {
+     "id": "113:87",
+     "name": "Frame 381",
+     "type": "FRAME",
+     "box": {
+      "x": 7858,
+      "y": 37972,
+      "width": 362,
+      "height": 75
+     },
+     "strokes": [
+      "#ffffff"
+     ],
+     "strokeWeight": 1,
+     "children": [
+      {
+       "id": "113:88",
+       "name": "Which areas of the business need immediate attention?",
+       "type": "TEXT",
+       "box": {
+        "x": 7911,
+        "y": 37986,
+        "width": 309,
+        "height": 40
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#ffffff"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "Which areas of the business need immediate attention?",
+       "textStyle": {
+        "fontFamily": "Inter",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 20,
+        "letterSpacing": 0,
+        "textAlign": "LEFT"
+       },
+       "textColor": "#ffffff"
+      },
+      {
+       "id": "113:89",
+       "name": "05",
+       "type": "TEXT",
+       "box": {
+        "x": 7874,
+        "y": 37985,
+        "width": 26,
+        "height": 36
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#0053d0"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "05",
+       "textStyle": {
+        "fontFamily": "Times New Roman",
+        "fontWeight": 400,
+        "fontSize": 24,
+        "lineHeightPx": 71,
+        "letterSpacing": 0,
+        "textAlign": "LEFT"
+       },
+       "textColor": "#0053d0"
+      }
+     ]
+    },
+    {
+     "id": "113:90",
+     "name": "Frame 378",
+     "type": "FRAME",
+     "box": {
+      "x": 8279,
+      "y": 37801,
+      "width": 348,
+      "height": 75
+     },
+     "strokes": [
+      "#ffffff"
+     ],
+     "strokeWeight": 1,
+     "children": [
+      {
+       "id": "113:91",
+       "name": "Why is cash flow always under pressure?",
+       "type": "TEXT",
+       "box": {
+        "x": 8333,
+        "y": 37822,
+        "width": 306,
+        "height": 20
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#ffffff"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "Why is cash flow always under pressure?",
+       "textStyle": {
+        "fontFamily": "Inter",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 20,
+        "letterSpacing": 0,
+        "textAlign": "LEFT"
+       },
+       "textColor": "#ffffff"
+      },
+      {
+       "id": "113:92",
+       "name": "02",
+       "type": "TEXT",
+       "box": {
+        "x": 8295,
+        "y": 37814,
+        "width": 26,
+        "height": 36
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#0053d0"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "02",
+       "textStyle": {
+        "fontFamily": "Times New Roman",
+        "fontWeight": 400,
+        "fontSize": 24,
+        "lineHeightPx": 71,
+        "letterSpacing": 0,
+        "textAlign": "LEFT"
+       },
+       "textColor": "#0053d0"
+      }
+     ]
+    },
+    {
+     "id": "113:93",
+     "name": "Frame 380",
+     "type": "FRAME",
+     "box": {
+      "x": 8279,
+      "y": 37885,
+      "width": 348,
+      "height": 75
+     },
+     "strokes": [
+      "#ffffff"
+     ],
+     "strokeWeight": 1,
+     "children": [
+      {
+       "id": "113:94",
+       "name": "Why are sales inconsistent?",
+       "type": "TEXT",
+       "box": {
+        "x": 8333,
+        "y": 37906,
+        "width": 306,
+        "height": 20
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#ffffff"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "Why are sales inconsistent?",
+       "textStyle": {
+        "fontFamily": "Inter",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 20,
+        "letterSpacing": 0,
+        "textAlign": "LEFT"
+       },
+       "textColor": "#ffffff"
+      },
+      {
+       "id": "113:95",
+       "name": "04",
+       "type": "TEXT",
+       "box": {
+        "x": 8295,
+        "y": 37898,
+        "width": 26,
+        "height": 36
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#0053d0"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "04",
+       "textStyle": {
+        "fontFamily": "Times New Roman",
+        "fontWeight": 400,
+        "fontSize": 24,
+        "lineHeightPx": 71,
+        "letterSpacing": 0,
+        "textAlign": "LEFT"
+       },
+       "textColor": "#0053d0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "113:96",
+   "name": "Desktop - 55",
+   "type": "FRAME",
+   "box": {
+    "x": 7732,
+    "y": 38350,
+    "width": 1440,
+    "height": 1204
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#ebebeb"
+    }
+   ],
+   "strokeWeight": 1,
+   "children": [
+    {
+     "id": "113:97",
+     "name": "Rectangle 158",
+     "type": "RECTANGLE",
+     "box": {
+      "x": 7732,
+      "y": 38415,
+      "width": 1440,
+      "height": 959
+     },
+     "fills": [
+      {
+       "type": "GRADIENT_LINEAR",
+       "stops": [
+        {
+         "color": "#ffffff00",
+         "pos": 0
+        },
+        {
+         "color": "#f1f1f1",
+         "pos": 1
+        }
+       ]
+      }
+     ],
+     "strokeWeight": 1
+    },
+    {
+     "id": "113:98",
+     "name": "Frame 368",
+     "type": "FRAME",
+     "box": {
+      "x": 8465.999959676563,
+      "y": 38468,
+      "width": 641.6426044333348,
+      "height": 482.2694961486195
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#ffffff"
+      }
+     ],
+     "strokeWeight": 1,
+     "cornerRadius": 20,
+     "children": [
+      {
+       "id": "113:99",
+       "name": "remsana-hero 1",
+       "type": "RECTANGLE",
+       "box": {
+        "x": 8361.604672703776,
+        "y": 38460.73828125,
+        "width": 804.8193674917566,
+        "height": 804.8193674917566
+       },
+       "strokeWeight": 1
+      },
+      {
+       "id": "113:100",
+       "name": "remsana-ceo-finance 1",
+       "type": "RECTANGLE",
+       "box": {
+        "x": 8433.724089698911,
+        "y": 38366.85546875,
+        "width": 706.1704365835158,
+        "height": 706.1704365835176
+       },
+       "fills": [
+        {
+         "type": "IMAGE",
+         "imageRef": "d688b9a39786f096f9e73a892d61b0d6c4e977d8"
+        }
+       ],
+       "strokeWeight": 1
+      }
+     ]
+    },
+    {
+     "id": "113:101",
+     "name": "See your business more clearly in 7 days.",
+     "type": "TEXT",
+     "box": {
+      "x": 7792.4921875,
+      "y": 38527,
+      "width": 687,
+      "height": 142
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#202020"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "See your business more clearly in 7 days.",
+     "textStyle": {
+      "fontFamily": "Times New Roman",
+      "fontWeight": 400,
+      "fontSize": 64,
+      "lineHeightPx": 71,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#202020"
+    },
+    {
+     "id": "113:102",
+     "name": "The Executive Intelligence Assessment is a structured 7-day engagement designed to help a CEO answer one important business question using their own business data. We don’t begin with software installation. We begin with the decision. Together, we’ll identify the question that matters, prepare the relevant information, and build a practical executive view that gives you a clearer answer—without another reporting project.",
+     "type": "TEXT",
+     "box": {
+      "x": 7795,
+      "y": 38699,
+      "width": 625,
+      "height": 231
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#000000",
+       "opacity": 0.6000000238418579
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "The Executive Intelligence Assessment is a structured 7-day engagement designed to help a CEO answer one important business question using their own business data.\nWe don’t begin with software installation. We begin with the decision. Together, we’ll identify the question that matters, prepare the relevant information, and build a practical executive view that gives you a clearer answer—without another reporting project.",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeightPx": 33,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#000000"
+    },
+    {
+     "id": "113:103",
+     "name": "A focused engagement, built around your question not a generic software tour.",
+     "type": "TEXT",
+     "box": {
+      "x": 8114,
+      "y": 39113,
+      "width": 625,
+      "height": 33
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#000000",
+       "opacity": 0.6000000238418579
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "A focused engagement, built around your question not a generic software tour.",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeightPx": 33,
+      "letterSpacing": 0,
+      "textAlign": "CENTER"
+     },
+     "textColor": "#000000"
+    },
+    {
+     "id": "113:104",
+     "name": " The assessment",
+     "type": "TEXT",
+     "box": {
+      "x": 7792.4921875,
+      "y": 38468,
+      "width": 285,
+      "height": 27
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#0053d0"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": " The assessment",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeightPx": 27,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#0053d0"
+    },
+    {
+     "id": "113:105",
+     "name": "What you receive",
+     "type": "TEXT",
+     "box": {
+      "x": 8284,
+      "y": 39073,
+      "width": 285,
+      "height": 27
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#191a15"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "What you receive",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 600,
+      "fontSize": 24,
+      "lineHeightPx": 27,
+      "letterSpacing": 0,
+      "textAlign": "CENTER"
+     },
+     "textColor": "#191a15"
+    },
+    {
+     "id": "113:106",
+     "name": "Frame 381",
+     "type": "FRAME",
+     "box": {
+      "x": 8070,
+      "y": 39208,
+      "width": 362,
+      "height": 75
+     },
+     "strokes": [
+      "#191a15"
+     ],
+     "strokeWeight": 1,
+     "children": [
+      {
+       "id": "113:107",
+       "name": "Executive discovery session",
+       "type": "TEXT",
+       "box": {
+        "x": 8132,
+        "y": 39231,
+        "width": 256,
+        "height": 20
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#191a15"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "Executive discovery session",
+       "textStyle": {
+        "fontFamily": "Inter",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 20,
+        "letterSpacing": 0,
+        "textAlign": "LEFT"
+       },
+       "textColor": "#191a15"
+      },
+      {
+       "id": "113:108",
+       "name": "Frame 382",
+       "type": "FRAME",
+       "box": {
+        "x": 8086,
+        "y": 39221,
+        "width": 36,
+        "height": 36
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#0053d0",
+         "opacity": 0.10000000149011612
+        }
+       ],
+       "strokeWeight": 1,
+       "cornerRadius": 50,
+       "children": [
+        {
+         "id": "113:109",
+         "name": "chat-question",
+         "type": "FRAME",
+         "box": {
+          "x": 8092,
+          "y": 39227,
+          "width": 24,
+          "height": 24
+         },
+         "strokeWeight": 1,
+         "children": [
+          {
+           "id": "113:110",
+           "name": "Vector",
+           "type": "VECTOR",
+           "box": {
+            "x": 8094,
+            "y": 39229.5,
+            "width": 20,
+            "height": 19
+           },
+           "strokes": [
+            "#0053d0"
+           ],
+           "strokeWeight": 1.5
+          },
+          {
+           "id": "113:111",
+           "name": "Vector",
+           "type": "VECTOR",
+           "box": {
+            "x": 8102,
+            "y": 39233,
+            "width": 4,
+            "height": 5.5
+           },
+           "strokes": [
+            "#0053d0"
+           ],
+           "strokeWeight": 1.5
+          },
+          {
+           "id": "113:112",
+           "name": "Vector",
+           "type": "VECTOR",
+           "box": {
+            "x": 8103.75,
+            "y": 39241.5,
+            "width": 0.5,
+            "height": 0.5
+           },
+           "strokes": [
+            "#0053d0"
+           ],
+           "strokeWeight": 1.5
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "113:113",
+     "name": "Frame 384",
+     "type": "FRAME",
+     "box": {
+      "x": 8070,
+      "y": 39298,
+      "width": 362,
+      "height": 75
+     },
+     "strokes": [
+      "#191a15"
+     ],
+     "strokeWeight": 1,
+     "children": [
+      {
+       "id": "113:114",
+       "name": "Personalized executive dashboard",
+       "type": "TEXT",
+       "box": {
+        "x": 8132,
+        "y": 39321,
+        "width": 256,
+        "height": 20
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#191a15"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "Personalized executive dashboard",
+       "textStyle": {
+        "fontFamily": "Inter",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 20,
+        "letterSpacing": 0,
+        "textAlign": "LEFT"
+       },
+       "textColor": "#191a15"
+      },
+      {
+       "id": "113:115",
+       "name": "Frame 382",
+       "type": "FRAME",
+       "box": {
+        "x": 8086,
+        "y": 39311,
+        "width": 36,
+        "height": 36
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#0053d0",
+         "opacity": 0.10000000149011612
+        }
+       ],
+       "strokeWeight": 1,
+       "cornerRadius": 50,
+       "children": [
+        {
+         "id": "113:116",
+         "name": "analytics-02",
+         "type": "FRAME",
+         "box": {
+          "x": 8092,
+          "y": 39317,
+          "width": 24,
+          "height": 24
+         },
+         "strokeWeight": 1,
+         "children": [
+          {
+           "id": "113:117",
+           "name": "Vector",
+           "type": "VECTOR",
+           "box": {
+            "x": 8098.5,
+            "y": 39325.5,
+            "width": 10,
+            "height": 9
+           },
+           "strokes": [
+            "#0053d0"
+           ],
+           "strokeWeight": 1.5
+          },
+          {
+           "id": "113:118",
+           "name": "Vector",
+           "type": "VECTOR",
+           "box": {
+            "x": 8107.5,
+            "y": 39319.5,
+            "width": 6,
+            "height": 6
+           },
+           "strokes": [
+            "#0053d0"
+           ],
+           "strokeWeight": 1.5
+          },
+          {
+           "id": "113:119",
+           "name": "Vector",
+           "type": "VECTOR",
+           "box": {
+            "x": 8094.5,
+            "y": 39319.5,
+            "width": 19,
+            "height": 19
+           },
+           "strokes": [
+            "#0053d0"
+           ],
+           "strokeWeight": 1.5
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "113:120",
+     "name": "Frame 386",
+     "type": "FRAME",
+     "box": {
+      "x": 8070,
+      "y": 39385,
+      "width": 362,
+      "height": 75
+     },
+     "strokes": [
+      "#191a15"
+     ],
+     "strokeWeight": 1,
+     "children": [
+      {
+       "id": "113:121",
+       "name": "Personalized executive dashboard",
+       "type": "TEXT",
+       "box": {
+        "x": 8132,
+        "y": 39408,
+        "width": 256,
+        "height": 20
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#191a15"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "Personalized executive dashboard",
+       "textStyle": {
+        "fontFamily": "Inter",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 20,
+        "letterSpacing": 0,
+        "textAlign": "LEFT"
+       },
+       "textColor": "#191a15"
+      },
+      {
+       "id": "113:122",
+       "name": "Frame 383",
+       "type": "FRAME",
+       "box": {
+        "x": 8086,
+        "y": 39398,
+        "width": 36,
+        "height": 36
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#0053d0",
+         "opacity": 0.10000000149011612
+        }
+       ],
+       "strokeWeight": 1,
+       "cornerRadius": 50,
+       "children": [
+        {
+         "id": "113:123",
+         "name": "idea-01",
+         "type": "FRAME",
+         "box": {
+          "x": 8092,
+          "y": 39404,
+          "width": 24,
+          "height": 24
+         },
+         "strokeWeight": 1,
+         "children": [
+          {
+           "id": "113:124",
+           "name": "Vector",
+           "type": "VECTOR",
+           "box": {
+            "x": 8098,
+            "y": 39410,
+            "width": 12,
+            "height": 10.500040054321289
+           },
+           "strokes": [
+            "#0053d0"
+           ],
+           "strokeWeight": 1.5
+          },
+          {
+           "id": "113:125",
+           "name": "Vector",
+           "type": "VECTOR",
+           "box": {
+            "x": 8104,
+            "y": 39416,
+            "width": 0,
+            "height": 4.5
+           },
+           "strokes": [
+            "#0053d0"
+           ],
+           "strokeWeight": 1.5
+          },
+          {
+           "id": "113:126",
+           "name": "Vector",
+           "type": "VECTOR",
+           "box": {
+            "x": 8101.5,
+            "y": 39423,
+            "width": 5,
+            "height": 0
+           },
+           "strokes": [
+            "#0053d0"
+           ],
+           "strokeWeight": 1.5
+          },
+          {
+           "id": "113:127",
+           "name": "Vector",
+           "type": "VECTOR",
+           "box": {
+            "x": 8102.5,
+            "y": 39425.5,
+            "width": 3,
+            "height": 0
+           },
+           "strokes": [
+            "#0053d0"
+           ],
+           "strokeWeight": 1.5
+          },
+          {
+           "id": "113:128",
+           "name": "Vector",
+           "type": "VECTOR",
+           "box": {
+            "x": 8094.5,
+            "y": 39406.5,
+            "width": 19,
+            "height": 9.500040054321289
+           },
+           "strokes": [
+            "#0053d0"
+           ],
+           "strokeWeight": 1.5
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "113:129",
+     "name": "Frame 383",
+     "type": "FRAME",
+     "box": {
+      "x": 8471,
+      "y": 39208,
+      "width": 362,
+      "height": 75
+     },
+     "strokes": [
+      "#191a15"
+     ],
+     "strokeWeight": 1,
+     "children": [
+      {
+       "id": "113:130",
+       "name": "Data preparation support",
+       "type": "TEXT",
+       "box": {
+        "x": 8533,
+        "y": 39231,
+        "width": 256,
+        "height": 20
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#191a15"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "Data preparation support",
+       "textStyle": {
+        "fontFamily": "Inter",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 20,
+        "letterSpacing": 0,
+        "textAlign": "LEFT"
+       },
+       "textColor": "#191a15"
+      },
+      {
+       "id": "113:131",
+       "name": "Frame 383",
+       "type": "FRAME",
+       "box": {
+        "x": 8487,
+        "y": 39221,
+        "width": 36,
+        "height": 36
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#0053d0",
+         "opacity": 0.10000000149011612
+        }
+       ],
+       "strokeWeight": 1,
+       "cornerRadius": 50,
+       "children": [
+        {
+         "id": "113:132",
+         "name": "database",
+         "type": "FRAME",
+         "box": {
+          "x": 8493,
+          "y": 39227,
+          "width": 24,
+          "height": 24
+         },
+         "strokeWeight": 1,
+         "children": [
+          {
+           "id": "113:133",
+           "name": "Vector",
+           "type": "VECTOR",
+           "box": {
+            "x": 8497,
+            "y": 39229,
+            "width": 16,
+            "height": 6
+           },
+           "strokes": [
+            "#0053d0"
+           ],
+           "strokeWeight": 1.5
+          },
+          {
+           "id": "113:134",
+           "name": "Vector",
+           "type": "VECTOR",
+           "box": {
+            "x": 8500,
+            "y": 39237.84375,
+            "width": 2,
+            "height": 0.4399995803833008
+           },
+           "strokes": [
+            "#0053d0"
+           ],
+           "strokeWeight": 1.5
+          },
+          {
+           "id": "113:135",
+           "name": "Vector",
+           "type": "VECTOR",
+           "box": {
+            "x": 8497,
+            "y": 39239,
+            "width": 16,
+            "height": 3
+           },
+           "strokes": [
+            "#0053d0"
+           ],
+           "strokeWeight": 1.5
+          },
+          {
+           "id": "113:136",
+           "name": "Vector",
+           "type": "VECTOR",
+           "box": {
+            "x": 8500,
+            "y": 39244.84375,
+            "width": 2,
+            "height": 0.4400005340576172
+           },
+           "strokes": [
+            "#0053d0"
+           ],
+           "strokeWeight": 1.5
+          },
+          {
+           "id": "113:137",
+           "name": "Vector",
+           "type": "VECTOR",
+           "box": {
+            "x": 8497,
+            "y": 39232,
+            "width": 16,
+            "height": 17
+           },
+           "strokes": [
+            "#0053d0"
+           ],
+           "strokeWeight": 1.5
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "113:138",
+     "name": "Frame 385",
+     "type": "FRAME",
+     "box": {
+      "x": 8471,
+      "y": 39298,
+      "width": 362,
+      "height": 75
+     },
+     "strokes": [
+      "#191a15"
+     ],
+     "strokeWeight": 1,
+     "children": [
+      {
+       "id": "113:139",
+       "name": "Data preparation support",
+       "type": "TEXT",
+       "box": {
+        "x": 8533,
+        "y": 39321,
+        "width": 256,
+        "height": 20
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#191a15"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "Data preparation support",
+       "textStyle": {
+        "fontFamily": "Inter",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 20,
+        "letterSpacing": 0,
+        "textAlign": "LEFT"
+       },
+       "textColor": "#191a15"
+      },
+      {
+       "id": "113:140",
+       "name": "Frame 383",
+       "type": "FRAME",
+       "box": {
+        "x": 8487,
+        "y": 39311,
+        "width": 36,
+        "height": 36
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#0053d0",
+         "opacity": 0.10000000149011612
+        }
+       ],
+       "strokeWeight": 1,
+       "cornerRadius": 50,
+       "children": [
+        {
+         "id": "113:141",
+         "name": "validation-approval",
+         "type": "FRAME",
+         "box": {
+          "x": 8493,
+          "y": 39317,
+          "width": 24,
+          "height": 24
+         },
+         "strokeWeight": 1,
+         "children": [
+          {
+           "id": "113:142",
+           "name": "Vector",
+           "type": "VECTOR",
+           "box": {
+            "x": 8504,
+            "y": 39329,
+            "width": 11,
+            "height": 10
+           },
+           "strokes": [
+            "#0053d0"
+           ],
+           "strokeWeight": 1.5
+          },
+          {
+           "id": "113:143",
+           "name": "Vector",
+           "type": "VECTOR",
+           "box": {
+            "x": 8495,
+            "y": 39319,
+            "width": 15,
+            "height": 20
+           },
+           "strokes": [
+            "#0053d0"
+           ],
+           "strokeWeight": 1.5
+          },
+          {
+           "id": "113:144",
+           "name": "Vector",
+           "type": "VECTOR",
+           "box": {
+            "x": 8500,
+            "y": 39323,
+            "width": 5,
+            "height": 4
+           },
+           "strokes": [
+            "#0053d0"
+           ],
+           "strokeWeight": 1.5
+          },
+          {
+           "id": "113:145",
+           "name": "Vector",
+           "type": "VECTOR",
+           "box": {
+            "x": 8499,
+            "y": 39331,
+            "width": 4,
+            "height": 0
+           },
+           "strokes": [
+            "#0053d0"
+           ],
+           "strokeWeight": 1.5
+          },
+          {
+           "id": "113:146",
+           "name": "Vector",
+           "type": "VECTOR",
+           "box": {
+            "x": 8499,
+            "y": 39334,
+            "width": 4,
+            "height": 0
+           },
+           "strokes": [
+            "#0053d0"
+           ],
+           "strokeWeight": 1.5
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "113:147",
+     "name": "Frame 387",
+     "type": "FRAME",
+     "box": {
+      "x": 8471,
+      "y": 39385,
+      "width": 362,
+      "height": 75
+     },
+     "strokes": [
+      "#191a15"
+     ],
+     "strokeWeight": 1,
+     "children": [
+      {
+       "id": "113:148",
+       "name": "Subscription recommendation (optional)",
+       "type": "TEXT",
+       "box": {
+        "x": 8533,
+        "y": 39406,
+        "width": 300,
+        "height": 20
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#191a15"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "Subscription recommendation (optional)",
+       "textStyle": {
+        "fontFamily": "Inter",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 20,
+        "letterSpacing": 0,
+        "textAlign": "LEFT"
+       },
+       "textColor": "#191a15"
+      },
+      {
+       "id": "113:149",
+       "name": "Frame 383",
+       "type": "FRAME",
+       "box": {
+        "x": 8487,
+        "y": 39398,
+        "width": 36,
+        "height": 36
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#0053d0",
+         "opacity": 0.10000000149011612
+        }
+       ],
+       "strokeWeight": 1,
+       "cornerRadius": 50,
+       "children": [
+        {
+         "id": "113:150",
+         "name": "gift-card-02",
+         "type": "FRAME",
+         "box": {
+          "x": 8493,
+          "y": 39404,
+          "width": 24,
+          "height": 24
+         },
+         "strokeWeight": 1,
+         "children": [
+          {
+           "id": "113:151",
+           "name": "Vector",
+           "type": "VECTOR",
+           "box": {
+            "x": 8495,
+            "y": 39408,
+            "width": 20,
+            "height": 16
+           },
+           "strokes": [
+            "#0053d0"
+           ],
+           "strokeWeight": 1.5
+          },
+          {
+           "id": "113:152",
+           "name": "Vector",
+           "type": "VECTOR",
+           "box": {
+            "x": 8495,
+            "y": 39416,
+            "width": 20,
+            "height": 0
+           },
+           "strokes": [
+            "#0053d0"
+           ],
+           "strokeWeight": 1.5
+          },
+          {
+           "id": "113:153",
+           "name": "Vector",
+           "type": "VECTOR",
+           "box": {
+            "x": 8503,
+            "y": 39408,
+            "width": 0,
+            "height": 16
+           },
+           "strokes": [
+            "#0053d0"
+           ],
+           "strokeWeight": 1.5
+          },
+          {
+           "id": "113:154",
+           "name": "Vector",
+           "type": "VECTOR",
+           "box": {
+            "x": 8500,
+            "y": 39413,
+            "width": 6,
+            "height": 6
+           },
+           "strokes": [
+            "#0053d0"
+           ],
+           "strokeWeight": 1.5
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "113:155",
+   "name": "Desktop - 62",
+   "type": "FRAME",
+   "box": {
+    "x": 7732,
+    "y": 39554,
+    "width": 1440,
+    "height": 974
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#1b2027"
+    }
+   ],
+   "strokeWeight": 1,
+   "children": [
+    {
+     "id": "113:156",
+     "name": "Rectangle 158",
+     "type": "RECTANGLE",
+     "box": {
+      "x": 7732,
+      "y": 39619,
+      "width": 1440,
+      "height": 959
+     },
+     "fills": [
+      {
+       "type": "GRADIENT_LINEAR",
+       "stops": [
+        {
+         "color": "#ffffff00",
+         "pos": 0
+        },
+        {
+         "color": "#f1f1f1",
+         "pos": 1
+        }
+       ]
+      }
+     ],
+     "strokeWeight": 1
+    },
+    {
+     "id": "113:157",
+     "name": "What business question are you trying to answer?",
+     "type": "TEXT",
+     "box": {
+      "x": 7795,
+      "y": 39731,
+      "width": 671,
+      "height": 142
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#ffffff"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "What business question are you trying to answer?",
+     "textStyle": {
+      "fontFamily": "Times New Roman",
+      "fontWeight": 400,
+      "fontSize": 64,
+      "lineHeightPx": 71,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#ffffff"
+    },
+    {
+     "id": "113:158",
+     "name": "Every assessment is customized around your business and your specific executive question.",
+     "type": "TEXT",
+     "box": {
+      "x": 7795,
+      "y": 39906,
+      "width": 731,
+      "height": 33
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#ffffff",
+       "opacity": 0.6000000238418579
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "Every assessment is customized around your business and your specific executive question.",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeightPx": 33,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#ffffff"
+    },
+    {
+     "id": "113:159",
+     "name": "The questions",
+     "type": "TEXT",
+     "box": {
+      "x": 7795,
+      "y": 39672,
+      "width": 285,
+      "height": 27
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#ffffff"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "The questions",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeightPx": 27,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#ffffff"
+    },
+    {
+     "id": "113:160",
+     "name": "Frame 381",
+     "type": "FRAME",
+     "box": {
+      "x": 7795,
+      "y": 39997,
+      "width": 421,
+      "height": 193
+     },
+     "strokes": [
+      "#ffffff"
+     ],
+     "strokeWeight": 1,
+     "cornerRadius": 10,
+     "children": [
+      {
+       "id": "113:161",
+       "name": "Understand cash inflows, expenses, receivables, obligations, and financial pressure points.",
+       "type": "TEXT",
+       "box": {
+        "x": 7811,
+        "y": 40079,
+        "width": 309,
+        "height": 60
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#ffffff"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "Understand cash inflows, expenses, receivables, obligations, and financial pressure points.",
+       "textStyle": {
+        "fontFamily": "Inter",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 20,
+        "letterSpacing": 0,
+        "textAlign": "LEFT"
+       },
+       "textColor": "#ffffff"
+      },
+      {
+       "id": "113:162",
+       "name": "Why Is Cash Always Tight?",
+       "type": "TEXT",
+       "box": {
+        "x": 7853,
+        "y": 40019,
+        "width": 309,
+        "height": 20
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#ffffff"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "Why Is Cash Always Tight?",
+       "textStyle": {
+        "fontFamily": "Times New Roman",
+        "fontWeight": 400,
+        "fontSize": 20,
+        "lineHeightPx": 20,
+        "letterSpacing": 0,
+        "textAlign": "LEFT"
+       },
+       "textColor": "#ffffff"
+      },
+      {
+       "id": "113:163",
+       "name": "05",
+       "type": "TEXT",
+       "box": {
+        "x": 7811,
+        "y": 40010,
+        "width": 26,
+        "height": 36
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#0053d0"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "05",
+       "textStyle": {
+        "fontFamily": "Times New Roman",
+        "fontWeight": 400,
+        "fontSize": 24,
+        "lineHeightPx": 71,
+        "letterSpacing": 0,
+        "textAlign": "LEFT"
+       },
+       "textColor": "#0053d0"
+      }
+     ]
+    },
+    {
+     "id": "113:164",
+     "name": "Frame 384",
+     "type": "FRAME",
+     "box": {
+      "x": 7795,
+      "y": 40222,
+      "width": 421,
+      "height": 193
+     },
+     "strokes": [
+      "#ffffff"
+     ],
+     "strokeWeight": 1,
+     "cornerRadius": 10,
+     "children": [
+      {
+       "id": "113:165",
+       "name": "Discover cost concentration, margin patterns, and unusual spending trends.",
+       "type": "TEXT",
+       "box": {
+        "x": 7811,
+        "y": 40314,
+        "width": 309,
+        "height": 40
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#ffffff"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "Discover cost concentration, margin patterns, and unusual spending trends.",
+       "textStyle": {
+        "fontFamily": "Inter",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 20,
+        "letterSpacing": 0,
+        "textAlign": "LEFT"
+       },
+       "textColor": "#ffffff"
+      },
+      {
+       "id": "113:166",
+       "name": "Where Are We Losing Money?",
+       "type": "TEXT",
+       "box": {
+        "x": 7853,
+        "y": 40244,
+        "width": 309,
+        "height": 20
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#ffffff"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "Where Are We Losing Money?",
+       "textStyle": {
+        "fontFamily": "Times New Roman",
+        "fontWeight": 400,
+        "fontSize": 20,
+        "lineHeightPx": 20,
+        "letterSpacing": 0,
+        "textAlign": "LEFT"
+       },
+       "textColor": "#ffffff"
+      },
+      {
+       "id": "113:167",
+       "name": "05",
+       "type": "TEXT",
+       "box": {
+        "x": 7811,
+        "y": 40235,
+        "width": 26,
+        "height": 36
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#0053d0"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "05",
+       "textStyle": {
+        "fontFamily": "Times New Roman",
+        "fontWeight": 400,
+        "fontSize": 24,
+        "lineHeightPx": 71,
+        "letterSpacing": 0,
+        "textAlign": "LEFT"
+       },
+       "textColor": "#0053d0"
+      }
+     ]
+    },
+    {
+     "id": "113:168",
+     "name": "Frame 382",
+     "type": "FRAME",
+     "box": {
+      "x": 8244,
+      "y": 39997,
+      "width": 422,
+      "height": 193
+     },
+     "strokes": [
+      "#ffffff"
+     ],
+     "strokeWeight": 1,
+     "cornerRadius": 10,
+     "children": [
+      {
+       "id": "113:169",
+       "name": "Identify revenue concentration, customer value, and performance drivers.",
+       "type": "TEXT",
+       "box": {
+        "x": 8260,
+        "y": 40096,
+        "width": 309,
+        "height": 40
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#ffffff"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "Identify revenue concentration, customer value, and performance drivers.",
+       "textStyle": {
+        "fontFamily": "Inter",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 20,
+        "letterSpacing": 0,
+        "textAlign": "LEFT"
+       },
+       "textColor": "#ffffff"
+      },
+      {
+       "id": "113:170",
+       "name": "Which Customers Or Products Drive The Business?",
+       "type": "TEXT",
+       "box": {
+        "x": 8301,
+        "y": 40019,
+        "width": 247,
+        "height": 40
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#ffffff"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "Which Customers Or Products Drive The Business?",
+       "textStyle": {
+        "fontFamily": "Times New Roman",
+        "fontWeight": 400,
+        "fontSize": 20,
+        "lineHeightPx": 20,
+        "letterSpacing": 0,
+        "textAlign": "LEFT"
+       },
+       "textColor": "#ffffff"
+      },
+      {
+       "id": "113:171",
+       "name": "05",
+       "type": "TEXT",
+       "box": {
+        "x": 8260,
+        "y": 40010,
+        "width": 26,
+        "height": 36
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#0053d0"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "05",
+       "textStyle": {
+        "fontFamily": "Times New Roman",
+        "fontWeight": 400,
+        "fontSize": 24,
+        "lineHeightPx": 71,
+        "letterSpacing": 0,
+        "textAlign": "LEFT"
+       },
+       "textColor": "#0053d0"
+      }
+     ]
+    },
+    {
+     "id": "113:172",
+     "name": "Frame 385",
+     "type": "FRAME",
+     "box": {
+      "x": 8244,
+      "y": 40222,
+      "width": 422,
+      "height": 193
+     },
+     "strokes": [
+      "#ffffff"
+     ],
+     "strokeWeight": 1,
+     "cornerRadius": 10,
+     "children": [
+      {
+       "id": "113:173",
+       "name": "Identify bottlenecks, missed targets, exceptions, and operational risks.",
+       "type": "TEXT",
+       "box": {
+        "x": 8260,
+        "y": 40321,
+        "width": 309,
+        "height": 40
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#ffffff"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "Identify bottlenecks, missed targets, exceptions, and operational risks.",
+       "textStyle": {
+        "fontFamily": "Inter",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 20,
+        "letterSpacing": 0,
+        "textAlign": "LEFT"
+       },
+       "textColor": "#ffffff"
+      },
+      {
+       "id": "113:174",
+       "name": "Which Operations Need Attention?",
+       "type": "TEXT",
+       "box": {
+        "x": 8301,
+        "y": 40244,
+        "width": 303,
+        "height": 20
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#ffffff"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "Which Operations Need Attention?",
+       "textStyle": {
+        "fontFamily": "Times New Roman",
+        "fontWeight": 400,
+        "fontSize": 20,
+        "lineHeightPx": 20,
+        "letterSpacing": 0,
+        "textAlign": "LEFT"
+       },
+       "textColor": "#ffffff"
+      },
+      {
+       "id": "113:175",
+       "name": "05",
+       "type": "TEXT",
+       "box": {
+        "x": 8260,
+        "y": 40235,
+        "width": 26,
+        "height": 36
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#0053d0"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "05",
+       "textStyle": {
+        "fontFamily": "Times New Roman",
+        "fontWeight": 400,
+        "fontSize": 24,
+        "lineHeightPx": 71,
+        "letterSpacing": 0,
+        "textAlign": "LEFT"
+       },
+       "textColor": "#0053d0"
+      }
+     ]
+    },
+    {
+     "id": "113:176",
+     "name": "Frame 383",
+     "type": "FRAME",
+     "box": {
+      "x": 8687,
+      "y": 39997,
+      "width": 421,
+      "height": 193
+     },
+     "strokes": [
+      "#ffffff"
+     ],
+     "strokeWeight": 1,
+     "cornerRadius": 10,
+     "children": [
+      {
+       "id": "113:177",
+       "name": "Analyze pipeline movement, conversions, lead sources, and sales performance.",
+       "type": "TEXT",
+       "box": {
+        "x": 8703,
+        "y": 40094,
+        "width": 309,
+        "height": 40
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#ffffff"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "Analyze pipeline movement, conversions, lead sources, and sales performance.",
+       "textStyle": {
+        "fontFamily": "Inter",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 20,
+        "letterSpacing": 0,
+        "textAlign": "LEFT"
+       },
+       "textColor": "#ffffff"
+      },
+      {
+       "id": "113:178",
+       "name": "Why Are Sales Inconsistent?",
+       "type": "TEXT",
+       "box": {
+        "x": 8745,
+        "y": 40019,
+        "width": 241,
+        "height": 20
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#ffffff"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "Why Are Sales Inconsistent?",
+       "textStyle": {
+        "fontFamily": "Times New Roman",
+        "fontWeight": 400,
+        "fontSize": 20,
+        "lineHeightPx": 20,
+        "letterSpacing": 0,
+        "textAlign": "LEFT"
+       },
+       "textColor": "#ffffff"
+      },
+      {
+       "id": "113:179",
+       "name": "05",
+       "type": "TEXT",
+       "box": {
+        "x": 8703,
+        "y": 40010,
+        "width": 26,
+        "height": 36
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#0053d0"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "05",
+       "textStyle": {
+        "fontFamily": "Times New Roman",
+        "fontWeight": 400,
+        "fontSize": 24,
+        "lineHeightPx": 71,
+        "letterSpacing": 0,
+        "textAlign": "LEFT"
+       },
+       "textColor": "#0053d0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "113:180",
+   "name": "Desktop - 56",
+   "type": "FRAME",
+   "box": {
+    "x": 7732,
+    "y": 40528,
+    "width": 1440,
+    "height": 1149
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#ebebeb"
+    }
+   ],
+   "strokeWeight": 1,
+   "children": [
+    {
+     "id": "113:181",
+     "name": "Rectangle 158",
+     "type": "RECTANGLE",
+     "box": {
+      "x": 7732,
+      "y": 40593,
+      "width": 1440,
+      "height": 959
+     },
+     "fills": [
+      {
+       "type": "GRADIENT_LINEAR",
+       "stops": [
+        {
+         "color": "#ffffff00",
+         "pos": 0
+        },
+        {
+         "color": "#f1f1f1",
+         "pos": 1
+        }
+       ]
+      }
+     ],
+     "strokeWeight": 1
+    },
+    {
+     "id": "113:182",
+     "name": "Frame 388",
+     "type": "FRAME",
+     "box": {
+      "x": 8566,
+      "y": 40723,
+      "width": 1,
+      "height": 87
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#000000"
+      }
+     ],
+     "strokeWeight": 1,
+     "children": []
+    },
+    {
+     "id": "113:183",
+     "name": "Frame 389",
+     "type": "FRAME",
+     "box": {
+      "x": 8566,
+      "y": 40887,
+      "width": 1,
+      "height": 87
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#000000"
+      }
+     ],
+     "strokeWeight": 1,
+     "children": []
+    },
+    {
+     "id": "113:184",
+     "name": "Frame 390",
+     "type": "FRAME",
+     "box": {
+      "x": 8566,
+      "y": 41042,
+      "width": 1,
+      "height": 87
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#000000"
+      }
+     ],
+     "strokeWeight": 1,
+     "children": []
+    },
+    {
+     "id": "113:185",
+     "name": "Frame 391",
+     "type": "FRAME",
+     "box": {
+      "x": 8566,
+      "y": 41202,
+      "width": 1,
+      "height": 87
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#000000"
+      }
+     ],
+     "strokeWeight": 1,
+     "children": []
+    },
+    {
+     "id": "113:186",
+     "name": "Frame 392",
+     "type": "FRAME",
+     "box": {
+      "x": 8566,
+      "y": 41371,
+      "width": 1,
+      "height": 87
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#000000"
+      }
+     ],
+     "strokeWeight": 1,
+     "children": []
+    },
+    {
+     "id": "113:187",
+     "name": "From question to clarity.",
+     "type": "TEXT",
+     "box": {
+      "x": 7862,
+      "y": 40666,
+      "width": 493,
+      "height": 142
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#202020"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "From question to clarity.",
+     "textStyle": {
+      "fontFamily": "Times New Roman",
+      "fontWeight": 400,
+      "fontSize": 64,
+      "lineHeightPx": 71,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#202020"
+    },
+    {
+     "id": "113:188",
+     "name": "A human-guided process that turns the information you already have into a view you can act on.",
+     "type": "TEXT",
+     "box": {
+      "x": 7868,
+      "y": 40828,
+      "width": 443,
+      "height": 66
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#000000",
+       "opacity": 0.6000000238418579
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "A human-guided process that turns the information you already have into a view you can act on.",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeightPx": 33,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#000000"
+    },
+    {
+     "id": "113:189",
+     "name": "The journey",
+     "type": "TEXT",
+     "box": {
+      "x": 7862.4921875,
+      "y": 40614,
+      "width": 285,
+      "height": 27
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#0053d0"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "The journey",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeightPx": 27,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#0053d0"
+    },
+    {
+     "id": "113:190",
+     "name": "Frame 368",
+     "type": "FRAME",
+     "box": {
+      "x": 7863,
+      "y": 40921.678187772384,
+      "width": 589.6304987482399,
+      "height": 677.3451586992815
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#ffffff"
+      }
+     ],
+     "strokeWeight": 1,
+     "cornerRadius": 20,
+     "children": [
+      {
+       "id": "113:191",
+       "name": "remsana-hero 1",
+       "type": "RECTANGLE",
+       "box": {
+        "x": 7785.6953125,
+        "y": 40909.947446141276,
+        "width": 804.8193674917566,
+        "height": 804.8193674917566
+       },
+       "strokeWeight": 1
+      },
+      {
+       "id": "113:192",
+       "name": "remsana-ceo-finance 1",
+       "type": "RECTANGLE",
+       "box": {
+        "x": 7653.0732421875,
+        "y": 40782.47208307241,
+        "width": 837.1062843981126,
+        "height": 837.1062843981126
+       },
+       "fills": [
+        {
+         "type": "IMAGE",
+         "imageRef": "0df46958f6582c8c24e80e525fc90a54b76b6ebb"
+        }
+       ],
+       "strokeWeight": 1
+      }
+     ]
+    },
+    {
+     "id": "113:193",
+     "name": "Tell us about your business and the decision you need to make with more confidence.",
+     "type": "TEXT",
+     "box": {
+      "x": 8631,
+      "y": 40723,
+      "width": 342,
+      "height": 52
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#000000",
+       "opacity": 0.6000000238418579
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "Tell us about your business and the decision you need to make with more confidence.",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 400,
+      "fontSize": 14,
+      "lineHeightPx": 26,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#000000"
+    },
+    {
+     "id": "113:194",
+     "name": "An Executive Intelligence Advisor will discuss your business, your goals, and determine whether the assessment is a good fit.",
+     "type": "TEXT",
+     "box": {
+      "x": 8631,
+      "y": 40873,
+      "width": 342,
+      "height": 78
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#000000",
+       "opacity": 0.6000000238418579
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "An Executive Intelligence Advisor will discuss your business, your goals, and determine whether the assessment is a good fit.",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 400,
+      "fontSize": 14,
+      "lineHeightPx": 26,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#000000"
+    },
+    {
+     "id": "113:195",
+     "name": "We’ll request only the information required to answer your specific question.",
+     "type": "TEXT",
+     "box": {
+      "x": 8631,
+      "y": 41047,
+      "width": 342,
+      "height": 52
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#000000",
+       "opacity": 0.6000000238418579
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "We’ll request only the information required to answer your specific question.",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 400,
+      "fontSize": 14,
+      "lineHeightPx": 26,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#000000"
+    },
+    {
+     "id": "113:196",
+     "name": "See your own business data transformed into a meaningful executive view.",
+     "type": "TEXT",
+     "box": {
+      "x": 8631,
+      "y": 41202,
+      "width": 342,
+      "height": 52
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#000000",
+       "opacity": 0.6000000238418579
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "See your own business data transformed into a meaningful executive view.",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 400,
+      "fontSize": 14,
+      "lineHeightPx": 26,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#000000"
+    },
+    {
+     "id": "113:197",
+     "name": "Use the intelligence during normal business operations while our team supports you.",
+     "type": "TEXT",
+     "box": {
+      "x": 8631,
+      "y": 41374,
+      "width": 342,
+      "height": 52
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#000000",
+       "opacity": 0.6000000238418579
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "Use the intelligence during normal business operations while our team supports you.",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 400,
+      "fontSize": 14,
+      "lineHeightPx": 26,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#000000"
+    },
+    {
+     "id": "113:198",
+     "name": "Review findings, identify opportunities, and determine whether ongoing visibility would benefit your business.",
+     "type": "TEXT",
+     "box": {
+      "x": 8631,
+      "y": 41521,
+      "width": 342,
+      "height": 78
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#000000",
+       "opacity": 0.6000000238418579
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "Review findings, identify opportunities, and determine whether ongoing visibility would benefit your business.",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 400,
+      "fontSize": 14,
+      "lineHeightPx": 26,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#000000"
+    },
+    {
+     "id": "113:199",
+     "name": "Apply",
+     "type": "TEXT",
+     "box": {
+      "x": 8631,
+      "y": 40682,
+      "width": 342,
+      "height": 33
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#191a15"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "Apply",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 600,
+      "fontSize": 16,
+      "lineHeightPx": 33,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#191a15"
+    },
+    {
+     "id": "113:200",
+     "name": "Qualification Call",
+     "type": "TEXT",
+     "box": {
+      "x": 8631,
+      "y": 40828,
+      "width": 342,
+      "height": 33
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#191a15"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "Qualification Call",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 600,
+      "fontSize": 16,
+      "lineHeightPx": 33,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#191a15"
+    },
+    {
+     "id": "113:201",
+     "name": "Data Preparation",
+     "type": "TEXT",
+     "box": {
+      "x": 8631,
+      "y": 40992,
+      "width": 342,
+      "height": 33
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#191a15"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "Data Preparation",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 600,
+      "fontSize": 16,
+      "lineHeightPx": 33,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#191a15"
+    },
+    {
+     "id": "113:202",
+     "name": "Day 1 Executive Reveal",
+     "type": "TEXT",
+     "box": {
+      "x": 8631,
+      "y": 41147,
+      "width": 342,
+      "height": 33
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#191a15"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "Day 1 Executive Reveal",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 600,
+      "fontSize": 16,
+      "lineHeightPx": 33,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#191a15"
+    },
+    {
+     "id": "113:203",
+     "name": "7-Day Assessment",
+     "type": "TEXT",
+     "box": {
+      "x": 8631,
+      "y": 41319,
+      "width": 342,
+      "height": 33
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#191a15"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "7-Day Assessment",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 600,
+      "fontSize": 16,
+      "lineHeightPx": 33,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#191a15"
+    },
+    {
+     "id": "113:204",
+     "name": "Executive Intelligence Review",
+     "type": "TEXT",
+     "box": {
+      "x": 8631,
+      "y": 41479,
+      "width": 342,
+      "height": 33
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#191a15"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "Executive Intelligence Review",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 600,
+      "fontSize": 16,
+      "lineHeightPx": 33,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#191a15"
+    },
+    {
+     "id": "113:205",
+     "name": "Frame 382",
+     "type": "FRAME",
+     "box": {
+      "x": 8549,
+      "y": 40680,
+      "width": 36,
+      "height": 36
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#0053d0",
+       "opacity": 0.10000000149011612
+      }
+     ],
+     "strokeWeight": 1,
+     "cornerRadius": 50,
+     "children": [
+      {
+       "id": "113:206",
+       "name": "01",
+       "type": "TEXT",
+       "box": {
+        "x": 8557,
+        "y": 40688,
+        "width": 19,
+        "height": 19
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#202020"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "01",
+       "textStyle": {
+        "fontFamily": "Times New Roman",
+        "fontWeight": 400,
+        "fontSize": 16,
+        "lineHeightPx": 19,
+        "letterSpacing": 0,
+        "textAlign": "CENTER"
+       },
+       "textColor": "#202020"
+      }
+     ]
+    },
+    {
+     "id": "113:207",
+     "name": "Frame 383",
+     "type": "FRAME",
+     "box": {
+      "x": 8549,
+      "y": 40826,
+      "width": 36,
+      "height": 36
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#0053d0",
+       "opacity": 0.10000000149011612
+      }
+     ],
+     "strokeWeight": 1,
+     "cornerRadius": 50,
+     "children": [
+      {
+       "id": "113:208",
+       "name": "02",
+       "type": "TEXT",
+       "box": {
+        "x": 8557,
+        "y": 40834,
+        "width": 19,
+        "height": 19
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#202020"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "02",
+       "textStyle": {
+        "fontFamily": "Times New Roman",
+        "fontWeight": 400,
+        "fontSize": 16,
+        "lineHeightPx": 19,
+        "letterSpacing": 0,
+        "textAlign": "CENTER"
+       },
+       "textColor": "#202020"
+      }
+     ]
+    },
+    {
+     "id": "113:209",
+     "name": "Frame 384",
+     "type": "FRAME",
+     "box": {
+      "x": 8549,
+      "y": 40990,
+      "width": 36,
+      "height": 36
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#0053d0",
+       "opacity": 0.10000000149011612
+      }
+     ],
+     "strokeWeight": 1,
+     "cornerRadius": 50,
+     "children": [
+      {
+       "id": "113:210",
+       "name": "03",
+       "type": "TEXT",
+       "box": {
+        "x": 8557,
+        "y": 40998,
+        "width": 19,
+        "height": 19
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#202020"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "03",
+       "textStyle": {
+        "fontFamily": "Times New Roman",
+        "fontWeight": 400,
+        "fontSize": 16,
+        "lineHeightPx": 19,
+        "letterSpacing": 0,
+        "textAlign": "CENTER"
+       },
+       "textColor": "#202020"
+      }
+     ]
+    },
+    {
+     "id": "113:211",
+     "name": "Frame 385",
+     "type": "FRAME",
+     "box": {
+      "x": 8549,
+      "y": 41145,
+      "width": 36,
+      "height": 36
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#0053d0",
+       "opacity": 0.10000000149011612
+      }
+     ],
+     "strokeWeight": 1,
+     "cornerRadius": 50,
+     "children": [
+      {
+       "id": "113:212",
+       "name": "04",
+       "type": "TEXT",
+       "box": {
+        "x": 8557,
+        "y": 41153,
+        "width": 19,
+        "height": 19
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#202020"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "04",
+       "textStyle": {
+        "fontFamily": "Times New Roman",
+        "fontWeight": 400,
+        "fontSize": 16,
+        "lineHeightPx": 19,
+        "letterSpacing": 0,
+        "textAlign": "CENTER"
+       },
+       "textColor": "#202020"
+      }
+     ]
+    },
+    {
+     "id": "113:213",
+     "name": "Frame 386",
+     "type": "FRAME",
+     "box": {
+      "x": 8549,
+      "y": 41317,
+      "width": 36,
+      "height": 36
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#0053d0",
+       "opacity": 0.10000000149011612
+      }
+     ],
+     "strokeWeight": 1,
+     "cornerRadius": 50,
+     "children": [
+      {
+       "id": "113:214",
+       "name": "05",
+       "type": "TEXT",
+       "box": {
+        "x": 8557,
+        "y": 41325,
+        "width": 19,
+        "height": 19
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#202020"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "05",
+       "textStyle": {
+        "fontFamily": "Times New Roman",
+        "fontWeight": 400,
+        "fontSize": 16,
+        "lineHeightPx": 19,
+        "letterSpacing": 0,
+        "textAlign": "CENTER"
+       },
+       "textColor": "#202020"
+      }
+     ]
+    },
+    {
+     "id": "113:215",
+     "name": "Frame 387",
+     "type": "FRAME",
+     "box": {
+      "x": 8549,
+      "y": 41477,
+      "width": 36,
+      "height": 36
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#0053d0",
+       "opacity": 0.10000000149011612
+      }
+     ],
+     "strokeWeight": 1,
+     "cornerRadius": 50,
+     "children": [
+      {
+       "id": "113:216",
+       "name": "06",
+       "type": "TEXT",
+       "box": {
+        "x": 8557,
+        "y": 41485,
+        "width": 19,
+        "height": 19
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#202020"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "06",
+       "textStyle": {
+        "fontFamily": "Times New Roman",
+        "fontWeight": 400,
+        "fontSize": 16,
+        "lineHeightPx": 19,
+        "letterSpacing": 0,
+        "textAlign": "CENTER"
+       },
+       "textColor": "#202020"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "113:217",
+   "name": "Desktop - 63",
+   "type": "FRAME",
+   "box": {
+    "x": 7732,
+    "y": 41677,
+    "width": 1440,
+    "height": 915
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#1b2027"
+    }
+   ],
+   "strokeWeight": 1,
+   "children": [
+    {
+     "id": "113:218",
+     "name": "Rectangle 158",
+     "type": "RECTANGLE",
+     "box": {
+      "x": 7732,
+      "y": 41742,
+      "width": 1440,
+      "height": 959
+     },
+     "fills": [
+      {
+       "type": "GRADIENT_LINEAR",
+       "stops": [
+        {
+         "color": "#ffffff00",
+         "pos": 0
+        },
+        {
+         "color": "#f1f1f1",
+         "pos": 1
+        }
+       ]
+      }
+     ],
+     "strokeWeight": 1
+    },
+    {
+     "id": "113:219",
+     "name": "This is not a software demo.",
+     "type": "TEXT",
+     "box": {
+      "x": 7865,
+      "y": 41898,
+      "width": 824,
+      "height": 71
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#ffffff"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "This is not a software demo.",
+     "textStyle": {
+      "fontFamily": "Times New Roman",
+      "fontWeight": 400,
+      "fontSize": 64,
+      "lineHeightPx": 71,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#ffffff"
+    },
+    {
+     "id": "113:220",
+     "name": "Most software companies ask you to buy first and discover value later. We do the opposite.",
+     "type": "TEXT",
+     "box": {
+      "x": 7865,
+      "y": 41988,
+      "width": 550,
+      "height": 66
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#ffffff",
+       "opacity": 0.6000000238418579
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "Most software companies ask you to buy first and discover value later. We do the opposite.",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeightPx": 33,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#ffffff"
+    },
+    {
+     "id": "113:221",
+     "name": "A different starting point",
+     "type": "TEXT",
+     "box": {
+      "x": 7865,
+      "y": 41839,
+      "width": 285,
+      "height": 27
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#ffffff"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "A different starting point",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeightPx": 27,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#ffffff"
+    },
+    {
+     "id": "113:222",
+     "name": "Frame 381",
+     "type": "FRAME",
+     "box": {
+      "x": 7862,
+      "y": 42098,
+      "width": 542,
+      "height": 296
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#ffffff",
+       "opacity": 0.009999999776482582
+      }
+     ],
+     "strokes": [
+      "#ffffff"
+     ],
+     "strokeWeight": 1,
+     "cornerRadius": 10,
+     "children": [
+      {
+       "id": "113:223",
+       "name": "Buy software Learn the system Configure dashboards Hope it solves the problem",
+       "type": "TEXT",
+       "box": {
+        "x": 7921,
+        "y": 42162,
+        "width": 193,
+        "height": 164
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#ffffff"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "Buy software\nLearn the system\nConfigure dashboards\nHope it solves the problem",
+       "textStyle": {
+        "fontFamily": "Inter",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 41,
+        "letterSpacing": 0,
+        "textAlign": "LEFT"
+       },
+       "textColor": "#ffffff"
+      },
+      {
+       "id": "113:224",
+       "name": "Traditional approach",
+       "type": "TEXT",
+       "box": {
+        "x": 7878,
+        "y": 42122,
+        "width": 309,
+        "height": 20
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#0053d0"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "Traditional approach",
+       "textStyle": {
+        "fontFamily": "Times New Roman",
+        "fontWeight": 400,
+        "fontSize": 20,
+        "lineHeightPx": 20,
+        "letterSpacing": 0,
+        "textAlign": "LEFT"
+       },
+       "textColor": "#0053d0"
+      },
+      {
+       "id": "113:225",
+       "name": "x",
+       "type": "FRAME",
+       "box": {
+        "x": 7884,
+        "y": 42170,
+        "width": 24,
+        "height": 24
+       },
+       "strokeWeight": 1,
+       "children": [
+        {
+         "id": "113:226",
+         "name": "Vector",
+         "type": "VECTOR",
+         "box": {
+          "x": 7890,
+          "y": 42176,
+          "width": 12,
+          "height": 12
+         },
+         "strokes": [
+          "#0053d0"
+         ],
+         "strokeWeight": 1.5
+        }
+       ]
+      },
+      {
+       "id": "113:227",
+       "name": "x",
+       "type": "FRAME",
+       "box": {
+        "x": 7884,
+        "y": 42252,
+        "width": 24,
+        "height": 24
+       },
+       "strokeWeight": 1,
+       "children": [
+        {
+         "id": "113:228",
+         "name": "Vector",
+         "type": "VECTOR",
+         "box": {
+          "x": 7890,
+          "y": 42258,
+          "width": 12,
+          "height": 12
+         },
+         "strokes": [
+          "#0053d0"
+         ],
+         "strokeWeight": 1.5
+        }
+       ]
+      },
+      {
+       "id": "113:229",
+       "name": "x",
+       "type": "FRAME",
+       "box": {
+        "x": 7884,
+        "y": 42213,
+        "width": 24,
+        "height": 24
+       },
+       "strokeWeight": 1,
+       "children": [
+        {
+         "id": "113:230",
+         "name": "Vector",
+         "type": "VECTOR",
+         "box": {
+          "x": 7890,
+          "y": 42219,
+          "width": 12,
+          "height": 12
+         },
+         "strokes": [
+          "#0053d0"
+         ],
+         "strokeWeight": 1.5
+        }
+       ]
+      },
+      {
+       "id": "113:231",
+       "name": "x",
+       "type": "FRAME",
+       "box": {
+        "x": 7884,
+        "y": 42295,
+        "width": 24,
+        "height": 24
+       },
+       "strokeWeight": 1,
+       "children": [
+        {
+         "id": "113:232",
+         "name": "Vector",
+         "type": "VECTOR",
+         "box": {
+          "x": 7890,
+          "y": 42301,
+          "width": 12,
+          "height": 12
+         },
+         "strokes": [
+          "#0053d0"
+         ],
+         "strokeWeight": 1.5
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "113:233",
+     "name": "Frame 382",
+     "type": "FRAME",
+     "box": {
+      "x": 8437,
+      "y": 42098,
+      "width": 542,
+      "height": 296
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#0053d0"
+      }
+     ],
+     "strokes": [
+      "#ffffff"
+     ],
+     "strokeWeight": 1,
+     "cornerRadius": 10,
+     "children": [
+      {
+       "id": "113:234",
+       "name": "Identify a business problem Prepare your data Deliver useful intelligence Demonstrate value first Then discuss long-term options",
+       "type": "TEXT",
+       "box": {
+        "x": 8494,
+        "y": 42161,
+        "width": 290,
+        "height": 205
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#ffffff"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "Identify a business problem\nPrepare your data\nDeliver useful intelligence\nDemonstrate value first\nThen discuss long-term options",
+       "textStyle": {
+        "fontFamily": "Inter",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 41,
+        "letterSpacing": 0,
+        "textAlign": "LEFT"
+       },
+       "textColor": "#ffffff"
+      },
+      {
+       "id": "113:235",
+       "name": "Remsana approach",
+       "type": "TEXT",
+       "box": {
+        "x": 8453,
+        "y": 42122,
+        "width": 309,
+        "height": 20
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#ffffff"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "Remsana approach",
+       "textStyle": {
+        "fontFamily": "Times New Roman",
+        "fontWeight": 400,
+        "fontSize": 20,
+        "lineHeightPx": 20,
+        "letterSpacing": 0,
+        "textAlign": "LEFT"
+       },
+       "textColor": "#ffffff"
+      },
+      {
+       "id": "113:236",
+       "name": "check",
+       "type": "FRAME",
+       "box": {
+        "x": 8459,
+        "y": 42170,
+        "width": 24,
+        "height": 24
+       },
+       "strokeWeight": 1,
+       "children": [
+        {
+         "id": "113:237",
+         "name": "Vector",
+         "type": "VECTOR",
+         "box": {
+          "x": 8464,
+          "y": 42177,
+          "width": 14,
+          "height": 10.000039100646973
+         },
+         "strokes": [
+          "#ffffff"
+         ],
+         "strokeWeight": 1.5
+        }
+       ]
+      },
+      {
+       "id": "113:238",
+       "name": "check",
+       "type": "FRAME",
+       "box": {
+        "x": 8459,
+        "y": 42252,
+        "width": 24,
+        "height": 24
+       },
+       "strokeWeight": 1,
+       "children": [
+        {
+         "id": "113:239",
+         "name": "Vector",
+         "type": "VECTOR",
+         "box": {
+          "x": 8464,
+          "y": 42259,
+          "width": 14,
+          "height": 10.000039100646973
+         },
+         "strokes": [
+          "#ffffff"
+         ],
+         "strokeWeight": 1.5
+        }
+       ]
+      },
+      {
+       "id": "113:240",
+       "name": "check",
+       "type": "FRAME",
+       "box": {
+        "x": 8459,
+        "y": 42213,
+        "width": 24,
+        "height": 24
+       },
+       "strokeWeight": 1,
+       "children": [
+        {
+         "id": "113:241",
+         "name": "Vector",
+         "type": "VECTOR",
+         "box": {
+          "x": 8464,
+          "y": 42220,
+          "width": 14,
+          "height": 10.000039100646973
+         },
+         "strokes": [
+          "#ffffff"
+         ],
+         "strokeWeight": 1.5
+        }
+       ]
+      },
+      {
+       "id": "113:242",
+       "name": "check",
+       "type": "FRAME",
+       "box": {
+        "x": 8459,
+        "y": 42295,
+        "width": 24,
+        "height": 24
+       },
+       "strokeWeight": 1,
+       "children": [
+        {
+         "id": "113:243",
+         "name": "Vector",
+         "type": "VECTOR",
+         "box": {
+          "x": 8464,
+          "y": 42302,
+          "width": 14,
+          "height": 10.000039100646973
+         },
+         "strokes": [
+          "#ffffff"
+         ],
+         "strokeWeight": 1.5
+        }
+       ]
+      },
+      {
+       "id": "113:244",
+       "name": "check",
+       "type": "FRAME",
+       "box": {
+        "x": 8459,
+        "y": 42334,
+        "width": 24,
+        "height": 24
+       },
+       "strokeWeight": 1,
+       "children": [
+        {
+         "id": "113:245",
+         "name": "Vector",
+         "type": "VECTOR",
+         "box": {
+          "x": 8464,
+          "y": 42341,
+          "width": 14,
+          "height": 10.000039100646973
+         },
+         "strokes": [
+          "#ffffff"
+         ],
+         "strokeWeight": 1.5
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "113:246",
+   "name": "Desktop - 66",
+   "type": "FRAME",
+   "box": {
+    "x": 7732,
+    "y": 42592,
+    "width": 1440,
+    "height": 948
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#ebebeb"
+    }
+   ],
+   "strokeWeight": 1,
+   "children": [
+    {
+     "id": "113:247",
+     "name": "Rectangle 158",
+     "type": "RECTANGLE",
+     "box": {
+      "x": 7732,
+      "y": 42657,
+      "width": 1440,
+      "height": 959
+     },
+     "fills": [
+      {
+       "type": "GRADIENT_LINEAR",
+       "stops": [
+        {
+         "color": "#ffffff00",
+         "pos": 0
+        },
+        {
+         "color": "#f1f1f1",
+         "pos": 1
+        }
+       ]
+      }
+     ],
+     "strokeWeight": 1
+    },
+    {
+     "id": "113:248",
+     "name": "Clarity is a business asset.",
+     "type": "TEXT",
+     "box": {
+      "x": 8068,
+      "y": 42759,
+      "width": 736,
+      "height": 71
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#202020"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "Clarity is a business asset.",
+     "textStyle": {
+      "fontFamily": "Times New Roman",
+      "fontWeight": 400,
+      "fontSize": 64,
+      "lineHeightPx": 71,
+      "letterSpacing": 0,
+      "textAlign": "CENTER"
+     },
+     "textColor": "#202020"
+    },
+    {
+     "id": "113:249",
+     "name": "Start with a focused question. Leave with something useful.",
+     "type": "TEXT",
+     "box": {
+      "x": 8140,
+      "y": 42843,
+      "width": 592,
+      "height": 33
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#000000",
+       "opacity": 0.6000000238418579
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "Start with a focused question. Leave with something useful.",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeightPx": 33,
+      "letterSpacing": 0,
+      "textAlign": "CENTER"
+     },
+     "textColor": "#000000"
+    },
+    {
+     "id": "113:250",
+     "name": "The investment",
+     "type": "TEXT",
+     "box": {
+      "x": 8294,
+      "y": 42710,
+      "width": 285,
+      "height": 27
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#191a15"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "The investment",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeightPx": 27,
+      "letterSpacing": 0,
+      "textAlign": "CENTER"
+     },
+     "textColor": "#191a15"
+    },
+    {
+     "id": "113:251",
+     "name": "Frame 279",
+     "type": "FRAME",
+     "box": {
+      "x": 8093,
+      "y": 42918,
+      "width": 743,
+      "height": 503
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#0053d0"
+      }
+     ],
+     "strokes": [
+      "#cdcdcd"
+     ],
+     "strokeWeight": 1,
+     "cornerRadius": 20,
+     "effects": [
+      {
+       "type": "GLASS"
+      }
+     ],
+     "children": [
+      {
+       "id": "113:252",
+       "name": "N45,000",
+       "type": "TEXT",
+       "box": {
+        "x": 8129,
+        "y": 43020,
+        "width": 336,
+        "height": 110
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#ffffff"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "N45,000",
+       "textStyle": {
+        "fontFamily": "Times New Roman",
+        "fontWeight": 700,
+        "fontSize": 96,
+        "lineHeightPx": 54,
+        "letterSpacing": 0,
+        "textAlign": "LEFT"
+       },
+       "textColor": "#ffffff"
+      },
+      {
+       "id": "113:253",
+       "name": "Executive Intelligence Assessment",
+       "type": "TEXT",
+       "box": {
+        "x": 8151,
+        "y": 43000,
+        "width": 261,
+        "height": 20
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#ffffff"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "Executive Intelligence Assessment\n",
+       "textStyle": {
+        "fontFamily": "Inter",
+        "fontWeight": 400,
+        "fontSize": 16,
+        "lineHeightPx": 10,
+        "letterSpacing": 0,
+        "textAlign": "CENTER"
+       },
+       "textColor": "#ffffff"
+      },
+      {
+       "id": "113:254",
+       "name": "Frame 393",
+       "type": "FRAME",
+       "box": {
+        "x": 8124,
+        "y": 43199,
+        "width": 327,
+        "height": 87
+       },
+       "fills": [],
+       "strokes": [
+        "#ffffff"
+       ],
+       "strokeWeight": 1,
+       "cornerRadius": 10,
+       "autoLayout": {
+        "mode": "HORIZONTAL",
+        "paddingTop": 10,
+        "paddingBottom": 10,
+        "paddingLeft": 10,
+        "paddingRight": 10,
+        "itemSpacing": 10,
+        "primaryAxisAlignItems": "CENTER",
+        "counterAxisAlignItems": "CENTER"
+       },
+       "children": [
+        {
+         "id": "113:255",
+         "name": "Good news. If you decide to continue with Remsana, 100% of your assessment fee is credited toward your selected plan.",
+         "type": "TEXT",
+         "box": {
+          "x": 8135,
+          "y": 43205,
+          "width": 305,
+          "height": 75
+         },
+         "fills": [
+          {
+           "type": "SOLID",
+           "color": "#ffffff"
+          }
+         ],
+         "strokeWeight": 1,
+         "characters": "Good news. If you decide to continue with Remsana, 100% of your assessment fee is credited toward your selected plan.",
+         "textStyle": {
+          "fontFamily": "Inter",
+          "fontWeight": 400,
+          "fontSize": 14,
+          "lineHeightPx": 25,
+          "letterSpacing": 0,
+          "textAlign": "CENTER"
+         },
+         "textColor": "#ffffff"
+        }
+       ]
+      },
+      {
+       "id": "113:256",
+       "name": "Frame 249",
+       "type": "FRAME",
+       "box": {
+        "x": 8241,
+        "y": 43330,
+        "width": 379,
+        "height": 43
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#1b2027"
+        }
+       ],
+       "strokes": [
+        "#ffffff"
+       ],
+       "strokeWeight": 1,
+       "cornerRadius": 50,
+       "autoLayout": {
+        "mode": "HORIZONTAL",
+        "paddingTop": 10,
+        "paddingBottom": 10,
+        "paddingLeft": 10,
+        "paddingRight": 10,
+        "itemSpacing": 10,
+        "primaryAxisAlignItems": "SPACE_BETWEEN",
+        "counterAxisAlignItems": "CENTER"
+       },
+       "children": [
+        {
+         "id": "113:257",
+         "name": "Frame 250",
+         "type": "FRAME",
+         "box": {
+          "x": 8306,
+          "y": 43340,
+          "width": 249,
+          "height": 23
+         },
+         "strokeWeight": 1,
+         "autoLayout": {
+          "mode": "HORIZONTAL",
+          "itemSpacing": 5,
+          "primaryAxisAlignItems": "CENTER",
+          "counterAxisAlignItems": "CENTER"
+         },
+         "children": [
+          {
+           "id": "113:258",
+           "name": "Reserve your assessment slot",
+           "type": "TEXT",
+           "box": {
+            "x": 8306,
+            "y": 43340,
+            "width": 229,
+            "height": 23
+           },
+           "fills": [
+            {
+             "type": "SOLID",
+             "color": "#ffffff"
+            }
+           ],
+           "strokeWeight": 1,
+           "characters": "Reserve your assessment slot",
+           "textStyle": {
+            "fontFamily": "Inter",
+            "fontWeight": 500,
+            "fontSize": 16,
+            "lineHeightPx": 23,
+            "letterSpacing": 0,
+            "textAlign": "CENTER"
+           },
+           "textColor": "#ffffff"
+          },
+          {
+           "id": "113:259",
+           "name": "arrow-left-02",
+           "type": "FRAME",
+           "box": {
+            "x": 8539.999999046326,
+            "y": 43343.999999642336,
+            "width": 15.00000226501652,
+            "height": 15.000000357664248
+           },
+           "strokeWeight": 1,
+           "children": [
+            {
+             "id": "113:260",
+             "name": "Vector",
+             "type": "VECTOR",
+             "box": {
+              "x": 8543.124999046326,
+              "y": 43351.49999926237,
+              "width": 8.437500953674316,
+              "height": 7.376293069683015e-7
+             },
+             "strokes": [
+              "#ffffff"
+             ],
+             "strokeWeight": 1.5
+            },
+            {
+             "id": "113:261",
+             "name": "Vector",
+             "type": "VECTOR",
+             "box": {
+              "x": 8548.124980926514,
+              "y": 43347.74996820091,
+              "width": 3.7500197291592485,
+              "height": 7.50003179909254
+             },
+             "strokes": [
+              "#ffffff"
+             ],
+             "strokeWeight": 1.5
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "id": "113:262",
+       "name": "Frame 308",
+       "type": "FRAME",
+       "box": {
+        "x": 8486,
+        "y": 42967,
+        "width": 319,
+        "height": 337
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#ddeaff"
+        }
+       ],
+       "strokeWeight": 1,
+       "cornerRadius": 10,
+       "autoLayout": {
+        "mode": "VERTICAL",
+        "paddingTop": 20,
+        "paddingBottom": 20,
+        "paddingLeft": 20,
+        "paddingRight": 20,
+        "primaryAxisAlignItems": "CENTER",
+        "counterAxisAlignItems": "CENTER"
+       },
+       "children": [
+        {
+         "id": "113:263",
+         "name": "Includes",
+         "type": "TEXT",
+         "box": {
+          "x": 8506,
+          "y": 42990.5,
+          "width": 279,
+          "height": 32
+         },
+         "fills": [
+          {
+           "type": "SOLID",
+           "color": "#000000"
+          }
+         ],
+         "strokeWeight": 1,
+         "characters": "Includes",
+         "textStyle": {
+          "fontFamily": "Inter",
+          "fontWeight": 700,
+          "fontSize": 16,
+          "lineHeightPx": 32,
+          "letterSpacing": 0,
+          "textAlign": "LEFT"
+         },
+         "textColor": "#000000"
+        },
+        {
+         "id": "113:264",
+         "name": "Qualification and planning Data preparation Executive dashboard setup Day 1 Executive Reveal 7-Day Assessment Executive Intelligence Review",
+         "type": "TEXT",
+         "box": {
+          "x": 8506,
+          "y": 43022.5,
+          "width": 279,
+          "height": 258
+         },
+         "fills": [
+          {
+           "type": "SOLID",
+           "color": "#000000"
+          }
+         ],
+         "strokeWeight": 1,
+         "characters": "Qualification and planning\nData preparation\nExecutive dashboard setup\nDay 1 Executive Reveal\n7-Day Assessment\nExecutive Intelligence Review",
+         "textStyle": {
+          "fontFamily": "Inter",
+          "fontWeight": 400,
+          "fontSize": 14,
+          "lineHeightPx": 43,
+          "letterSpacing": 0,
+          "textAlign": "LEFT"
+         },
+         "textColor": "#000000"
+        }
+       ]
+      },
+      {
+       "id": "113:265",
+       "name": "Frame 407",
+       "type": "FRAME",
+       "box": {
+        "x": 8142,
+        "y": 43148,
+        "width": 258,
+        "height": 25
+       },
+       "strokeWeight": 1,
+       "autoLayout": {
+        "mode": "HORIZONTAL",
+        "itemSpacing": 10,
+        "counterAxisAlignItems": "CENTER"
+       },
+       "children": [
+        {
+         "id": "113:266",
+         "name": "One-time assessment fee",
+         "type": "TEXT",
+         "box": {
+          "x": 8142,
+          "y": 43153,
+          "width": 182,
+          "height": 15
+         },
+         "fills": [
+          {
+           "type": "SOLID",
+           "color": "#f1f14d"
+          }
+         ],
+         "strokeWeight": 1,
+         "characters": "One-time assessment fee",
+         "textStyle": {
+          "fontFamily": "Inter",
+          "fontWeight": 400,
+          "fontSize": 14,
+          "lineHeightPx": 15,
+          "letterSpacing": 0,
+          "textAlign": "CENTER"
+         },
+         "textColor": "#f1f14d"
+        },
+        {
+         "id": "113:267",
+         "name": "Frame 315",
+         "type": "FRAME",
+         "box": {
+          "x": 8334,
+          "y": 43148,
+          "width": 66,
+          "height": 25
+         },
+         "fills": [
+          {
+           "type": "SOLID",
+           "color": "#f2f24d"
+          }
+         ],
+         "strokeWeight": 1,
+         "cornerRadius": 20,
+         "autoLayout": {
+          "mode": "HORIZONTAL",
+          "paddingTop": 10,
+          "paddingBottom": 10,
+          "paddingLeft": 10,
+          "paddingRight": 10,
+          "itemSpacing": 10,
+          "primaryAxisAlignItems": "CENTER",
+          "counterAxisAlignItems": "CENTER"
+         },
+         "children": [
+          {
+           "id": "113:268",
+           "name": "7 Days",
+           "type": "TEXT",
+           "box": {
+            "x": 8347.5,
+            "y": 43149.5,
+            "width": 39,
+            "height": 22
+           },
+           "fills": [
+            {
+             "type": "SOLID",
+             "color": "#000000"
+            }
+           ],
+           "strokeWeight": 1,
+           "characters": "7 Days",
+           "textStyle": {
+            "fontFamily": "Inter",
+            "fontWeight": 600,
+            "fontSize": 12,
+            "lineHeightPx": 22,
+            "letterSpacing": 0,
+            "textAlign": "CENTER"
+           },
+           "textColor": "#000000"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "113:269",
+   "name": "Desktop - 64",
+   "type": "FRAME",
+   "box": {
+    "x": 7732,
+    "y": 43540,
+    "width": 1440,
+    "height": 915
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#1b2027"
+    }
+   ],
+   "strokeWeight": 1,
+   "children": [
+    {
+     "id": "113:270",
+     "name": "Rectangle 158",
+     "type": "RECTANGLE",
+     "box": {
+      "x": 7732,
+      "y": 43605,
+      "width": 1440,
+      "height": 959
+     },
+     "fills": [
+      {
+       "type": "GRADIENT_LINEAR",
+       "stops": [
+        {
+         "color": "#ffffff00",
+         "pos": 0
+        },
+        {
+         "color": "#f1f1f1",
+         "pos": 1
+        }
+       ]
+      }
+     ],
+     "strokeWeight": 1
+    },
+    {
+     "id": "113:271",
+     "name": "For CEOs who need to know sooner.",
+     "type": "TEXT",
+     "box": {
+      "x": 7858,
+      "y": 43718,
+      "width": 552,
+      "height": 456
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#ffffff"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "For CEOs who need to know sooner.",
+     "textStyle": {
+      "fontFamily": "Times New Roman",
+      "fontWeight": 400,
+      "fontSize": 128,
+      "lineHeightPx": 114,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#ffffff"
+    },
+    {
+     "id": "113:272",
+     "name": "The assessment is made for the person who needs to move the business forward not for a technical team to configure another system.",
+     "type": "TEXT",
+     "box": {
+      "x": 7858,
+      "y": 44207,
+      "width": 567,
+      "height": 66
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#ffffff",
+       "opacity": 0.6000000238418579
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "The assessment is made for the person who needs to move the business forward not for a technical team to configure another system.",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeightPx": 33,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#ffffff"
+    },
+    {
+     "id": "113:273",
+     "name": "Built for the accountable leader",
+     "type": "TEXT",
+     "box": {
+      "x": 7858,
+      "y": 43641,
+      "width": 285,
+      "height": 27
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#ffffff"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "Built for the accountable leader",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeightPx": 27,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#ffffff"
+    },
+    {
+     "id": "113:274",
+     "name": "Frame 377",
+     "type": "FRAME",
+     "box": {
+      "x": 8559,
+      "y": 43712,
+      "width": 417,
+      "height": 132
+     },
+     "strokes": [
+      "#ffffff"
+     ],
+     "strokeWeight": 1,
+     "children": [
+      {
+       "id": "113:275",
+       "name": "CEOs & Managing Directors",
+       "type": "TEXT",
+       "box": {
+        "x": 8612,
+        "y": 43733,
+        "width": 223,
+        "height": 20
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#ffffff"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "CEOs & Managing Directors",
+       "textStyle": {
+        "fontFamily": "Inter",
+        "fontWeight": 400,
+        "fontSize": 16,
+        "lineHeightPx": 20,
+        "letterSpacing": 0,
+        "textAlign": "LEFT"
+       },
+       "textColor": "#ffffff"
+      },
+      {
+       "id": "113:276",
+       "name": "Accountable for high-stakes decisions with fragmented information.",
+       "type": "TEXT",
+       "box": {
+        "x": 8575,
+        "y": 43778,
+        "width": 307,
+        "height": 40
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#ffffff"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "Accountable for high-stakes decisions with fragmented information.",
+       "textStyle": {
+        "fontFamily": "Inter",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 20,
+        "letterSpacing": 0,
+        "textAlign": "LEFT"
+       },
+       "textColor": "#ffffff"
+      },
+      {
+       "id": "113:277",
+       "name": "01",
+       "type": "TEXT",
+       "box": {
+        "x": 8575,
+        "y": 43725,
+        "width": 26,
+        "height": 36
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#0053d0"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "01",
+       "textStyle": {
+        "fontFamily": "Times New Roman",
+        "fontWeight": 400,
+        "fontSize": 24,
+        "lineHeightPx": 71,
+        "letterSpacing": 0,
+        "textAlign": "LEFT"
+       },
+       "textColor": "#0053d0"
+      }
+     ]
+    },
+    {
+     "id": "113:278",
+     "name": "Frame 378",
+     "type": "FRAME",
+     "box": {
+      "x": 8559,
+      "y": 43877,
+      "width": 417,
+      "height": 132
+     },
+     "strokes": [
+      "#ffffff"
+     ],
+     "strokeWeight": 1,
+     "children": [
+      {
+       "id": "113:279",
+       "name": "Founder-led leadership teams",
+       "type": "TEXT",
+       "box": {
+        "x": 8614,
+        "y": 43900,
+        "width": 252,
+        "height": 20
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#ffffff"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "Founder-led leadership teams",
+       "textStyle": {
+        "fontFamily": "Inter",
+        "fontWeight": 400,
+        "fontSize": 16,
+        "lineHeightPx": 20,
+        "letterSpacing": 0,
+        "textAlign": "LEFT"
+       },
+       "textColor": "#ffffff"
+      },
+      {
+       "id": "113:280",
+       "name": "Managing growth while spending too much time assembling updates.",
+       "type": "TEXT",
+       "box": {
+        "x": 8575,
+        "y": 43943,
+        "width": 307,
+        "height": 40
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#ffffff"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "Managing growth while spending too much time assembling updates.",
+       "textStyle": {
+        "fontFamily": "Inter",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 20,
+        "letterSpacing": 0,
+        "textAlign": "LEFT"
+       },
+       "textColor": "#ffffff"
+      },
+      {
+       "id": "113:281",
+       "name": "02",
+       "type": "TEXT",
+       "box": {
+        "x": 8575,
+        "y": 43890,
+        "width": 26,
+        "height": 36
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#0053d0"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "02",
+       "textStyle": {
+        "fontFamily": "Times New Roman",
+        "fontWeight": 400,
+        "fontSize": 24,
+        "lineHeightPx": 71,
+        "letterSpacing": 0,
+        "textAlign": "LEFT"
+       },
+       "textColor": "#0053d0"
+      }
+     ]
+    },
+    {
+     "id": "113:282",
+     "name": "Frame 379",
+     "type": "FRAME",
+     "box": {
+      "x": 8559,
+      "y": 44042,
+      "width": 417,
+      "height": 132
+     },
+     "strokes": [
+      "#ffffff"
+     ],
+     "strokeWeight": 1,
+     "children": [
+      {
+       "id": "113:283",
+       "name": "Growing SMEs",
+       "type": "TEXT",
+       "box": {
+        "x": 8614,
+        "y": 44065,
+        "width": 252,
+        "height": 20
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#ffffff"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "Growing SMEs",
+       "textStyle": {
+        "fontFamily": "Inter",
+        "fontWeight": 400,
+        "fontSize": 16,
+        "lineHeightPx": 20,
+        "letterSpacing": 0,
+        "textAlign": "LEFT"
+       },
+       "textColor": "#ffffff"
+      },
+      {
+       "id": "113:284",
+       "name": "Businesses ready to improve operational intelligence before complexity compounds.",
+       "type": "TEXT",
+       "box": {
+        "x": 8575,
+        "y": 44108,
+        "width": 307,
+        "height": 40
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#ffffff"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "Businesses ready to improve operational intelligence before complexity compounds.",
+       "textStyle": {
+        "fontFamily": "Inter",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 20,
+        "letterSpacing": 0,
+        "textAlign": "LEFT"
+       },
+       "textColor": "#ffffff"
+      },
+      {
+       "id": "113:285",
+       "name": "03",
+       "type": "TEXT",
+       "box": {
+        "x": 8575,
+        "y": 44055,
+        "width": 26,
+        "height": 36
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#0053d0"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "03",
+       "textStyle": {
+        "fontFamily": "Times New Roman",
+        "fontWeight": 400,
+        "fontSize": 24,
+        "lineHeightPx": 71,
+        "letterSpacing": 0,
+        "textAlign": "LEFT"
+       },
+       "textColor": "#0053d0"
+      }
+     ]
+    },
+    {
+     "id": "113:286",
+     "name": "Frame 380",
+     "type": "FRAME",
+     "box": {
+      "x": 8559,
+      "y": 44201,
+      "width": 417,
+      "height": 132
+     },
+     "strokes": [
+      "#ffffff"
+     ],
+     "strokeWeight": 1,
+     "children": [
+      {
+       "id": "113:287",
+       "name": "Multi-department organizations",
+       "type": "TEXT",
+       "box": {
+        "x": 8614,
+        "y": 44224,
+        "width": 252,
+        "height": 20
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#ffffff"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "Multi-department organizations",
+       "textStyle": {
+        "fontFamily": "Inter",
+        "fontWeight": 400,
+        "fontSize": 16,
+        "lineHeightPx": 20,
+        "letterSpacing": 0,
+        "textAlign": "LEFT"
+       },
+       "textColor": "#ffffff"
+      },
+      {
+       "id": "113:288",
+       "name": "Companies seeking a clearer view across functions and fewer reporting gaps.",
+       "type": "TEXT",
+       "box": {
+        "x": 8575,
+        "y": 44267,
+        "width": 307,
+        "height": 40
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#ffffff"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "Companies seeking a clearer view across functions and fewer reporting gaps.",
+       "textStyle": {
+        "fontFamily": "Inter",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 20,
+        "letterSpacing": 0,
+        "textAlign": "LEFT"
+       },
+       "textColor": "#ffffff"
+      },
+      {
+       "id": "113:289",
+       "name": "04",
+       "type": "TEXT",
+       "box": {
+        "x": 8575,
+        "y": 44214,
+        "width": 26,
+        "height": 36
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#0053d0"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "04",
+       "textStyle": {
+        "fontFamily": "Times New Roman",
+        "fontWeight": 400,
+        "fontSize": 24,
+        "lineHeightPx": 71,
+        "letterSpacing": 0,
+        "textAlign": "LEFT"
+       },
+       "textColor": "#0053d0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "113:290",
+   "name": "Desktop - 57",
+   "type": "FRAME",
+   "box": {
+    "x": 7732,
+    "y": 44455,
+    "width": 1440,
+    "height": 803
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#ebebeb"
+    }
+   ],
+   "strokeWeight": 1,
+   "children": [
+    {
+     "id": "113:291",
+     "name": "Rectangle 158",
+     "type": "RECTANGLE",
+     "box": {
+      "x": 7732,
+      "y": 44520,
+      "width": 1440,
+      "height": 959
+     },
+     "fills": [
+      {
+       "type": "GRADIENT_LINEAR",
+       "stops": [
+        {
+         "color": "#ffffff00",
+         "pos": 0
+        },
+        {
+         "color": "#f1f1f1",
+         "pos": 1
+        }
+       ]
+      }
+     ],
+     "strokeWeight": 1
+    },
+    {
+     "id": "113:292",
+     "name": "Better decisions begin with better visibility.",
+     "type": "TEXT",
+     "box": {
+      "x": 7858,
+      "y": 44598,
+      "width": 579,
+      "height": 142
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#202020"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "Better decisions begin with better visibility.",
+     "textStyle": {
+      "fontFamily": "Times New Roman",
+      "fontWeight": 400,
+      "fontSize": 64,
+      "lineHeightPx": 71,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#202020"
+    },
+    {
+     "id": "113:293",
+     "name": "When you can clearly see:",
+     "type": "TEXT",
+     "box": {
+      "x": 7858,
+      "y": 44773,
+      "width": 443,
+      "height": 33
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#000000",
+       "opacity": 0.6000000238418579
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "When you can clearly see:",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeightPx": 33,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#000000"
+    },
+    {
+     "id": "113:294",
+     "name": "You make faster, more confident decisions without another week lost to assembling the evidence. Remsana helps make that possible.",
+     "type": "TEXT",
+     "box": {
+      "x": 7858,
+      "y": 45068,
+      "width": 569,
+      "height": 66
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#000000",
+       "opacity": 0.6000000238418579
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "You make faster, more confident decisions without another week lost to assembling the evidence. Remsana helps make that possible.",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeightPx": 33,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#000000"
+    },
+    {
+     "id": "113:295",
+     "name": "The outcome",
+     "type": "TEXT",
+     "box": {
+      "x": 7858.4921875,
+      "y": 44546,
+      "width": 285,
+      "height": 27
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#0053d0"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "The outcome",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeightPx": 27,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#0053d0"
+    },
+    {
+     "id": "113:296",
+     "name": "Frame 368",
+     "type": "FRAME",
+     "box": {
+      "x": 8434.548290079796,
+      "y": 44597.43359375,
+      "width": 553.0692212067352,
+      "height": 569.7193264518646
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#ffffff"
+      }
+     ],
+     "strokeWeight": 1,
+     "cornerRadius": 20,
+     "children": [
+      {
+       "id": "113:297",
+       "name": "remsana-hero 1",
+       "type": "RECTANGLE",
+       "box": {
+        "x": 8338.546078953776,
+        "y": 44590.171875,
+        "width": 804.8193674917566,
+        "height": 804.8193674917566
+       },
+       "strokeWeight": 1
+      },
+      {
+       "id": "113:298",
+       "name": "remsana-ceo-finance 1",
+       "type": "RECTANGLE",
+       "box": {
+        "x": 8256.327093512593,
+        "y": 44347.59375,
+        "width": 886.7362366918369,
+        "height": 970.9954363360885
+       },
+       "fills": [
+        {
+         "type": "IMAGE",
+         "imageRef": "f81e65e8da096e08456a02d05ae829f42ad1bad2"
+        }
+       ],
+       "strokeWeight": 1
+      }
+     ]
+    },
+    {
+     "id": "113:299",
+     "name": "Financial performance Sales activity Operational bottlenecks Business trends Critical risks",
+     "type": "TEXT",
+     "box": {
+      "x": 7893,
+      "y": 44825,
+      "width": 290,
+      "height": 205
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#000000"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "Financial performance\nSales activity\nOperational bottlenecks\nBusiness trends\nCritical risks",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 400,
+      "fontSize": 14,
+      "lineHeightPx": 41,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#000000"
+    },
+    {
+     "id": "113:300",
+     "name": "check",
+     "type": "FRAME",
+     "box": {
+      "x": 7858,
+      "y": 44834,
+      "width": 24,
+      "height": 24
+     },
+     "strokeWeight": 1,
+     "children": [
+      {
+       "id": "113:301",
+       "name": "Vector",
+       "type": "VECTOR",
+       "box": {
+        "x": 7863,
+        "y": 44841,
+        "width": 14,
+        "height": 10.000039100646973
+       },
+       "strokes": [
+        "#000000"
+       ],
+       "strokeWeight": 1.5
+      }
+     ]
+    },
+    {
+     "id": "113:302",
+     "name": "check",
+     "type": "FRAME",
+     "box": {
+      "x": 7858,
+      "y": 44916,
+      "width": 24,
+      "height": 24
+     },
+     "strokeWeight": 1,
+     "children": [
+      {
+       "id": "113:303",
+       "name": "Vector",
+       "type": "VECTOR",
+       "box": {
+        "x": 7863,
+        "y": 44923,
+        "width": 14,
+        "height": 10.000039100646973
+       },
+       "strokes": [
+        "#000000"
+       ],
+       "strokeWeight": 1.5
+      }
+     ]
+    },
+    {
+     "id": "113:304",
+     "name": "check",
+     "type": "FRAME",
+     "box": {
+      "x": 7858,
+      "y": 44877,
+      "width": 24,
+      "height": 24
+     },
+     "strokeWeight": 1,
+     "children": [
+      {
+       "id": "113:305",
+       "name": "Vector",
+       "type": "VECTOR",
+       "box": {
+        "x": 7863,
+        "y": 44884,
+        "width": 14,
+        "height": 10.000039100646973
+       },
+       "strokes": [
+        "#000000"
+       ],
+       "strokeWeight": 1.5
+      }
+     ]
+    },
+    {
+     "id": "113:306",
+     "name": "check",
+     "type": "FRAME",
+     "box": {
+      "x": 7858,
+      "y": 44959,
+      "width": 24,
+      "height": 24
+     },
+     "strokeWeight": 1,
+     "children": [
+      {
+       "id": "113:307",
+       "name": "Vector",
+       "type": "VECTOR",
+       "box": {
+        "x": 7863,
+        "y": 44966,
+        "width": 14,
+        "height": 10.000039100646973
+       },
+       "strokes": [
+        "#000000"
+       ],
+       "strokeWeight": 1.5
+      }
+     ]
+    },
+    {
+     "id": "113:308",
+     "name": "check",
+     "type": "FRAME",
+     "box": {
+      "x": 7858,
+      "y": 44998,
+      "width": 24,
+      "height": 24
+     },
+     "strokeWeight": 1,
+     "children": [
+      {
+       "id": "113:309",
+       "name": "Vector",
+       "type": "VECTOR",
+       "box": {
+        "x": 7863,
+        "y": 45005,
+        "width": 14,
+        "height": 10.000039100646973
+       },
+       "strokes": [
+        "#000000"
+       ],
+       "strokeWeight": 1.5
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "113:310",
+   "name": "Desktop - 59",
+   "type": "FRAME",
+   "box": {
+    "x": 7732,
+    "y": 45258,
+    "width": 1440,
+    "height": 598
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#ffc74e"
+    }
+   ],
+   "strokeWeight": 1,
+   "children": [
+    {
+     "id": "113:311",
+     "name": "Rectangle 158",
+     "type": "RECTANGLE",
+     "box": {
+      "x": 7732,
+      "y": 45323,
+      "width": 1440,
+      "height": 959
+     },
+     "fills": [
+      {
+       "type": "GRADIENT_LINEAR",
+       "stops": [
+        {
+         "color": "#ffffff00",
+         "pos": 0
+        },
+        {
+         "color": "#f1f1f1",
+         "pos": 1
+        }
+       ]
+      }
+     ],
+     "strokeWeight": 1
+    },
+    {
+     "id": "113:312",
+     "name": "Only 8 businesses per month.",
+     "type": "TEXT",
+     "box": {
+      "x": 7858,
+      "y": 45355,
+      "width": 703,
+      "height": 186
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#202020"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "Only 8 businesses per month.",
+     "textStyle": {
+      "fontFamily": "Times New Roman",
+      "fontWeight": 400,
+      "fontSize": 96,
+      "lineHeightPx": 93,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#202020"
+    },
+    {
+     "id": "113:313",
+     "name": "To maintain delivery quality and personalized attention, Remsana currently accepts only 8 Executive Intelligence Assessments per month. Applications are reviewed before invitations are issued.",
+     "type": "TEXT",
+     "box": {
+      "x": 7857,
+      "y": 45582,
+      "width": 584,
+      "height": 99
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#000000"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "To maintain delivery quality and personalized attention, Remsana currently accepts only 8 Executive Intelligence Assessments per month. Applications are reviewed before invitations are issued.",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeightPx": 33,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#000000"
+    },
+    {
+     "id": "113:314",
+     "name": "Frame 366",
+     "type": "FRAME",
+     "box": {
+      "x": 7858,
+      "y": 45718,
+      "width": 319,
+      "height": 58
+     },
+     "fills": [],
+     "strokes": [
+      "#000000"
+     ],
+     "strokeWeight": 1,
+     "cornerRadius": 10,
+     "autoLayout": {
+      "mode": "HORIZONTAL",
+      "paddingTop": 10,
+      "paddingBottom": 10,
+      "paddingLeft": 20,
+      "paddingRight": 20,
+      "itemSpacing": 10,
+      "counterAxisAlignItems": "CENTER"
+     },
+     "children": [
+      {
+       "id": "113:315",
+       "name": "Frame 250",
+       "type": "FRAME",
+       "box": {
+        "x": 7878,
+        "y": 45735.5,
+        "width": 279,
+        "height": 23
+       },
+       "strokeWeight": 1,
+       "autoLayout": {
+        "mode": "HORIZONTAL",
+        "itemSpacing": 5,
+        "primaryAxisAlignItems": "CENTER",
+        "counterAxisAlignItems": "CENTER"
+       },
+       "children": [
+        {
+         "id": "113:316",
+         "name": "Ask about this month’s availability",
+         "type": "TEXT",
+         "box": {
+          "x": 7878,
+          "y": 45735.5,
+          "width": 259,
+          "height": 23
+         },
+         "fills": [
+          {
+           "type": "SOLID",
+           "color": "#191a15"
+          }
+         ],
+         "strokeWeight": 1,
+         "characters": "Ask about this month’s availability",
+         "textStyle": {
+          "fontFamily": "Inter",
+          "fontWeight": 500,
+          "fontSize": 16,
+          "lineHeightPx": 23,
+          "letterSpacing": 0,
+          "textAlign": "CENTER"
+         },
+         "textColor": "#191a15"
+        },
+        {
+         "id": "113:317",
+         "name": "arrow-left-02",
+         "type": "FRAME",
+         "box": {
+          "x": 8141.999999046326,
+          "y": 45739.499999642336,
+          "width": 15.00000226501561,
+          "height": 15.000000357664248
+         },
+         "strokeWeight": 1,
+         "children": [
+          {
+           "id": "113:318",
+           "name": "Vector",
+           "type": "VECTOR",
+           "box": {
+            "x": 8145.124999046326,
+            "y": 45746.99999926237,
+            "width": 8.437500953674316,
+            "height": 7.376293069683015e-7
+           },
+           "strokes": [
+            "#191a15"
+           ],
+           "strokeWeight": 1.5
+          },
+          {
+           "id": "113:319",
+           "name": "Vector",
+           "type": "VECTOR",
+           "box": {
+            "x": 8150.124980926514,
+            "y": 45743.24996820091,
+            "width": 3.750019729160158,
+            "height": 7.50003179909254
+           },
+           "strokes": [
+            "#191a15"
+           ],
+           "strokeWeight": 1.5
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "113:320",
+     "name": "Frame 394",
+     "type": "FRAME",
+     "box": {
+      "x": 8689,
+      "y": 45399.998418569565,
+      "width": 301.7264473438263,
+      "height": 301.7264473438263
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#ffffff"
+      }
+     ],
+     "strokeWeight": 1,
+     "cornerRadius": 218,
+     "children": [
+      {
+       "id": "113:321",
+       "name": "08",
+       "type": "TEXT",
+       "box": {
+        "x": 8761.7998046875,
+        "y": 45476.55217786133,
+        "width": 165.09308284521103,
+        "height": 113.33830790221691
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#202020"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "08",
+       "textStyle": {
+        "fontFamily": "Times New Roman",
+        "fontWeight": 400,
+        "fontSize": 128,
+        "lineHeightPx": 71,
+        "letterSpacing": 0,
+        "textAlign": "LEFT"
+       },
+       "textColor": "#202020"
+      },
+      {
+       "id": "113:322",
+       "name": "Monthly slots",
+       "type": "TEXT",
+       "box": {
+        "x": 8787.2451171875,
+        "y": 45586.95567329228,
+        "width": 118.05252487957478,
+        "height": 46.122159704566
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#000000"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "Monthly slots",
+       "textStyle": {
+        "fontFamily": "Inter",
+        "fontWeight": 400,
+        "fontSize": 16,
+        "lineHeightPx": 33,
+        "letterSpacing": 0,
+        "textAlign": "LEFT"
+       },
+       "textColor": "#000000"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "113:323",
+   "name": "Desktop - 58",
+   "type": "FRAME",
+   "box": {
+    "x": 7732,
+    "y": 45856,
+    "width": 1440,
+    "height": 803
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#ebebeb"
+    }
+   ],
+   "strokeWeight": 1,
+   "children": [
+    {
+     "id": "113:324",
+     "name": "Rectangle 158",
+     "type": "RECTANGLE",
+     "box": {
+      "x": 7732,
+      "y": 45921,
+      "width": 1440,
+      "height": 959
+     },
+     "fills": [
+      {
+       "type": "GRADIENT_LINEAR",
+       "stops": [
+        {
+         "color": "#ffffff00",
+         "pos": 0
+        },
+        {
+         "color": "#f1f1f1",
+         "pos": 1
+        }
+       ]
+      }
+     ],
+     "strokeWeight": 1
+    },
+    {
+     "id": "113:325",
+     "name": "Before you apply.",
+     "type": "TEXT",
+     "box": {
+      "x": 7858,
+      "y": 46038,
+      "width": 277,
+      "height": 142
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#202020"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "Before you apply.",
+     "textStyle": {
+      "fontFamily": "Times New Roman",
+      "fontWeight": 400,
+      "fontSize": 64,
+      "lineHeightPx": 71,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#202020"
+    },
+    {
+     "id": "113:326",
+     "name": "Questions, answered",
+     "type": "TEXT",
+     "box": {
+      "x": 7858.4921875,
+      "y": 45986,
+      "width": 285,
+      "height": 27
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#0053d0"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "Questions, answered",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeightPx": 27,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#0053d0"
+    },
+    {
+     "id": "113:327",
+     "name": "Frame 405",
+     "type": "FRAME",
+     "box": {
+      "x": 8357,
+      "y": 45957,
+      "width": 625,
+      "height": 629
+     },
+     "strokeWeight": 1,
+     "autoLayout": {
+      "mode": "VERTICAL",
+      "itemSpacing": 10
+     },
+     "children": [
+      {
+       "id": "113:328",
+       "name": "Frame 400",
+       "type": "FRAME",
+       "box": {
+        "x": 8357,
+        "y": 45957,
+        "width": 625,
+        "height": 118
+       },
+       "strokes": [
+        "#000000"
+       ],
+       "strokeWeight": 1,
+       "autoLayout": {
+        "mode": "HORIZONTAL",
+        "paddingTop": 20,
+        "paddingBottom": 20,
+        "itemSpacing": 32
+       },
+       "children": [
+        {
+         "id": "113:329",
+         "name": "Frame 395",
+         "type": "FRAME",
+         "box": {
+          "x": 8357,
+          "y": 45977,
+          "width": 569,
+          "height": 77
+         },
+         "strokeWeight": 1,
+         "autoLayout": {
+          "mode": "VERTICAL",
+          "itemSpacing": 11
+         },
+         "children": [
+          {
+           "id": "113:330",
+           "name": "How long does the assessment take?",
+           "type": "TEXT",
+           "box": {
+            "x": 8357,
+            "y": 45977,
+            "width": 569,
+            "height": 33
+           },
+           "fills": [
+            {
+             "type": "SOLID",
+             "color": "#191a15"
+            }
+           ],
+           "strokeWeight": 1,
+           "characters": "How long does the assessment take?",
+           "textStyle": {
+            "fontFamily": "Inter",
+            "fontWeight": 600,
+            "fontSize": 16,
+            "lineHeightPx": 33,
+            "letterSpacing": 0,
+            "textAlign": "LEFT"
+           },
+           "textColor": "#191a15"
+          },
+          {
+           "id": "113:331",
+           "name": "7 days from Day 1 activation.",
+           "type": "TEXT",
+           "box": {
+            "x": 8357,
+            "y": 46021,
+            "width": 569,
+            "height": 33
+           },
+           "fills": [
+            {
+             "type": "SOLID",
+             "color": "#000000",
+             "opacity": 0.6000000238418579
+            }
+           ],
+           "strokeWeight": 1,
+           "characters": "7 days from Day 1 activation.",
+           "textStyle": {
+            "fontFamily": "Inter",
+            "fontWeight": 400,
+            "fontSize": 14,
+            "lineHeightPx": 33,
+            "letterSpacing": 0,
+            "textAlign": "LEFT"
+           },
+           "textColor": "#000000"
+          }
+         ]
+        },
+        {
+         "id": "113:332",
+         "name": "arrow-down-01",
+         "type": "FRAME",
+         "box": {
+          "x": 8958,
+          "y": 45977,
+          "width": 24,
+          "height": 24
+         },
+         "strokeWeight": 1,
+         "children": [
+          {
+           "id": "113:333",
+           "name": "Vector",
+           "type": "VECTOR",
+           "box": {
+            "x": 8964,
+            "y": 45986,
+            "width": 12,
+            "height": 6
+           },
+           "strokes": [
+            "#141b34"
+           ],
+           "strokeWeight": 1.5
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "id": "113:334",
+       "name": "Frame 401",
+       "type": "FRAME",
+       "box": {
+        "x": 8357,
+        "y": 46085,
+        "width": 625,
+        "height": 118
+       },
+       "strokes": [
+        "#000000"
+       ],
+       "strokeWeight": 1,
+       "autoLayout": {
+        "mode": "HORIZONTAL",
+        "paddingTop": 20,
+        "paddingBottom": 20,
+        "itemSpacing": 32
+       },
+       "children": [
+        {
+         "id": "113:335",
+         "name": "Frame 396",
+         "type": "FRAME",
+         "box": {
+          "x": 8357,
+          "y": 46105,
+          "width": 569,
+          "height": 77
+         },
+         "strokeWeight": 1,
+         "autoLayout": {
+          "mode": "VERTICAL",
+          "itemSpacing": 11
+         },
+         "children": [
+          {
+           "id": "113:336",
+           "name": "Do I need technical knowledge?",
+           "type": "TEXT",
+           "box": {
+            "x": 8357,
+            "y": 46105,
+            "width": 569,
+            "height": 33
+           },
+           "fills": [
+            {
+             "type": "SOLID",
+             "color": "#191a15"
+            }
+           ],
+           "strokeWeight": 1,
+           "characters": "Do I need technical knowledge?",
+           "textStyle": {
+            "fontFamily": "Inter",
+            "fontWeight": 600,
+            "fontSize": 16,
+            "lineHeightPx": 33,
+            "letterSpacing": 0,
+            "textAlign": "LEFT"
+           },
+           "textColor": "#191a15"
+          },
+          {
+           "id": "113:337",
+           "name": "No. The assessment is designed for business leaders, not technical teams.",
+           "type": "TEXT",
+           "box": {
+            "x": 8357,
+            "y": 46149,
+            "width": 569,
+            "height": 33
+           },
+           "fills": [
+            {
+             "type": "SOLID",
+             "color": "#000000",
+             "opacity": 0.6000000238418579
+            }
+           ],
+           "strokeWeight": 1,
+           "characters": "No. The assessment is designed for business leaders, not technical teams.",
+           "textStyle": {
+            "fontFamily": "Inter",
+            "fontWeight": 400,
+            "fontSize": 14,
+            "lineHeightPx": 33,
+            "letterSpacing": 0,
+            "textAlign": "LEFT"
+           },
+           "textColor": "#000000"
+          }
+         ]
+        },
+        {
+         "id": "113:338",
+         "name": "arrow-down-01",
+         "type": "FRAME",
+         "box": {
+          "x": 8958,
+          "y": 46105,
+          "width": 24,
+          "height": 24
+         },
+         "strokeWeight": 1,
+         "children": [
+          {
+           "id": "113:339",
+           "name": "Vector",
+           "type": "VECTOR",
+           "box": {
+            "x": 8964,
+            "y": 46114,
+            "width": 12,
+            "height": 6
+           },
+           "strokes": [
+            "#141b34"
+           ],
+           "strokeWeight": 1.5
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "id": "113:340",
+       "name": "Frame 402",
+       "type": "FRAME",
+       "box": {
+        "x": 8357,
+        "y": 46213,
+        "width": 625,
+        "height": 118
+       },
+       "strokes": [
+        "#000000"
+       ],
+       "strokeWeight": 1,
+       "autoLayout": {
+        "mode": "HORIZONTAL",
+        "paddingTop": 20,
+        "paddingBottom": 20,
+        "itemSpacing": 32
+       },
+       "children": [
+        {
+         "id": "113:341",
+         "name": "Frame 397",
+         "type": "FRAME",
+         "box": {
+          "x": 8357,
+          "y": 46233,
+          "width": 569,
+          "height": 77
+         },
+         "strokeWeight": 1,
+         "autoLayout": {
+          "mode": "VERTICAL",
+          "itemSpacing": 11
+         },
+         "children": [
+          {
+           "id": "113:342",
+           "name": "What data do you require?",
+           "type": "TEXT",
+           "box": {
+            "x": 8357,
+            "y": 46233,
+            "width": 569,
+            "height": 33
+           },
+           "fills": [
+            {
+             "type": "SOLID",
+             "color": "#191a15"
+            }
+           ],
+           "strokeWeight": 1,
+           "characters": "What data do you require?",
+           "textStyle": {
+            "fontFamily": "Inter",
+            "fontWeight": 600,
+            "fontSize": 16,
+            "lineHeightPx": 33,
+            "letterSpacing": 0,
+            "textAlign": "LEFT"
+           },
+           "textColor": "#191a15"
+          },
+          {
+           "id": "113:343",
+           "name": "Only the information necessary to answer the agreed executive question.",
+           "type": "TEXT",
+           "box": {
+            "x": 8357,
+            "y": 46277,
+            "width": 569,
+            "height": 33
+           },
+           "fills": [
+            {
+             "type": "SOLID",
+             "color": "#000000",
+             "opacity": 0.6000000238418579
+            }
+           ],
+           "strokeWeight": 1,
+           "characters": "Only the information necessary to answer the agreed executive question.",
+           "textStyle": {
+            "fontFamily": "Inter",
+            "fontWeight": 400,
+            "fontSize": 14,
+            "lineHeightPx": 33,
+            "letterSpacing": 0,
+            "textAlign": "LEFT"
+           },
+           "textColor": "#000000"
+          }
+         ]
+        },
+        {
+         "id": "113:344",
+         "name": "arrow-down-01",
+         "type": "FRAME",
+         "box": {
+          "x": 8958,
+          "y": 46233,
+          "width": 24,
+          "height": 24
+         },
+         "strokeWeight": 1,
+         "children": [
+          {
+           "id": "113:345",
+           "name": "Vector",
+           "type": "VECTOR",
+           "box": {
+            "x": 8964,
+            "y": 46242,
+            "width": 12,
+            "height": 6
+           },
+           "strokes": [
+            "#141b34"
+           ],
+           "strokeWeight": 1.5
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "id": "113:346",
+       "name": "Frame 403",
+       "type": "FRAME",
+       "box": {
+        "x": 8357,
+        "y": 46341,
+        "width": 625,
+        "height": 118
+       },
+       "strokes": [
+        "#000000"
+       ],
+       "strokeWeight": 1,
+       "autoLayout": {
+        "mode": "HORIZONTAL",
+        "paddingTop": 20,
+        "paddingBottom": 20,
+        "itemSpacing": 32
+       },
+       "children": [
+        {
+         "id": "113:347",
+         "name": "Frame 398",
+         "type": "FRAME",
+         "box": {
+          "x": 8357,
+          "y": 46361,
+          "width": 569,
+          "height": 77
+         },
+         "strokeWeight": 1,
+         "autoLayout": {
+          "mode": "VERTICAL",
+          "itemSpacing": 11
+         },
+         "children": [
+          {
+           "id": "113:348",
+           "name": "Is my business information secure?",
+           "type": "TEXT",
+           "box": {
+            "x": 8357,
+            "y": 46361,
+            "width": 569,
+            "height": 33
+           },
+           "fills": [
+            {
+             "type": "SOLID",
+             "color": "#191a15"
+            }
+           ],
+           "strokeWeight": 1,
+           "characters": "Is my business information secure?",
+           "textStyle": {
+            "fontFamily": "Inter",
+            "fontWeight": 600,
+            "fontSize": 16,
+            "lineHeightPx": 33,
+            "letterSpacing": 0,
+            "textAlign": "LEFT"
+           },
+           "textColor": "#191a15"
+          },
+          {
+           "id": "113:349",
+           "name": "Yes. Data is handled according to agreed access and authorization requirements",
+           "type": "TEXT",
+           "box": {
+            "x": 8357,
+            "y": 46405,
+            "width": 569,
+            "height": 33
+           },
+           "fills": [
+            {
+             "type": "SOLID",
+             "color": "#000000",
+             "opacity": 0.6000000238418579
+            }
+           ],
+           "strokeWeight": 1,
+           "characters": "Yes. Data is handled according to agreed access and authorization requirements",
+           "textStyle": {
+            "fontFamily": "Inter",
+            "fontWeight": 400,
+            "fontSize": 14,
+            "lineHeightPx": 33,
+            "letterSpacing": 0,
+            "textAlign": "LEFT"
+           },
+           "textColor": "#000000"
+          }
+         ]
+        },
+        {
+         "id": "113:350",
+         "name": "arrow-down-01",
+         "type": "FRAME",
+         "box": {
+          "x": 8958,
+          "y": 46361,
+          "width": 24,
+          "height": 24
+         },
+         "strokeWeight": 1,
+         "children": [
+          {
+           "id": "113:351",
+           "name": "Vector",
+           "type": "VECTOR",
+           "box": {
+            "x": 8964,
+            "y": 46370,
+            "width": 12,
+            "height": 6
+           },
+           "strokes": [
+            "#141b34"
+           ],
+           "strokeWeight": 1.5
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "id": "113:352",
+       "name": "Frame 404",
+       "type": "FRAME",
+       "box": {
+        "x": 8357,
+        "y": 46469,
+        "width": 625,
+        "height": 117
+       },
+       "strokeWeight": 1,
+       "autoLayout": {
+        "mode": "HORIZONTAL",
+        "paddingTop": 20,
+        "paddingBottom": 20,
+        "itemSpacing": 32
+       },
+       "children": [
+        {
+         "id": "113:353",
+         "name": "Frame 399",
+         "type": "FRAME",
+         "box": {
+          "x": 8357,
+          "y": 46489,
+          "width": 569,
+          "height": 77
+         },
+         "strokeWeight": 1,
+         "autoLayout": {
+          "mode": "VERTICAL",
+          "itemSpacing": 11
+         },
+         "children": [
+          {
+           "id": "113:354",
+           "name": "Am I required to subscribe afterward?",
+           "type": "TEXT",
+           "box": {
+            "x": 8357,
+            "y": 46489,
+            "width": 569,
+            "height": 33
+           },
+           "fills": [
+            {
+             "type": "SOLID",
+             "color": "#191a15"
+            }
+           ],
+           "strokeWeight": 1,
+           "characters": "Am I required to subscribe afterward?",
+           "textStyle": {
+            "fontFamily": "Inter",
+            "fontWeight": 600,
+            "fontSize": 16,
+            "lineHeightPx": 33,
+            "letterSpacing": 0,
+            "textAlign": "LEFT"
+           },
+           "textColor": "#191a15"
+          },
+          {
+           "id": "113:355",
+           "name": "No. The decision to continue is entirely yours",
+           "type": "TEXT",
+           "box": {
+            "x": 8357,
+            "y": 46533,
+            "width": 569,
+            "height": 33
+           },
+           "fills": [
+            {
+             "type": "SOLID",
+             "color": "#000000",
+             "opacity": 0.6000000238418579
+            }
+           ],
+           "strokeWeight": 1,
+           "characters": "No. The decision to continue is entirely yours",
+           "textStyle": {
+            "fontFamily": "Inter",
+            "fontWeight": 400,
+            "fontSize": 14,
+            "lineHeightPx": 33,
+            "letterSpacing": 0,
+            "textAlign": "LEFT"
+           },
+           "textColor": "#000000"
+          }
+         ]
+        },
+        {
+         "id": "113:356",
+         "name": "arrow-down-01",
+         "type": "FRAME",
+         "box": {
+          "x": 8958,
+          "y": 46489,
+          "width": 24,
+          "height": 24
+         },
+         "strokeWeight": 1,
+         "children": [
+          {
+           "id": "113:357",
+           "name": "Vector",
+           "type": "VECTOR",
+           "box": {
+            "x": 8964,
+            "y": 46498,
+            "width": 12,
+            "height": 6
+           },
+           "strokes": [
+            "#141b34"
+           ],
+           "strokeWeight": 1.5
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "113:358",
+   "name": "Desktop - 65",
+   "type": "FRAME",
+   "box": {
+    "x": 7732,
+    "y": 46659,
+    "width": 1440,
+    "height": 915
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#1b2027"
+    }
+   ],
+   "strokeWeight": 1,
+   "children": [
+    {
+     "id": "113:359",
+     "name": "Rectangle 158",
+     "type": "RECTANGLE",
+     "box": {
+      "x": 7732,
+      "y": 46724,
+      "width": 1440,
+      "height": 959
+     },
+     "fills": [
+      {
+       "type": "GRADIENT_LINEAR",
+       "stops": [
+        {
+         "color": "#ffffff00",
+         "pos": 0
+        },
+        {
+         "color": "#f1f1f1",
+         "pos": 1
+        }
+       ]
+      }
+     ],
+     "strokeWeight": 1
+    },
+    {
+     "id": "113:360",
+     "name": "The decisions you make are only as good as the information behind them.",
+     "type": "TEXT",
+     "box": {
+      "x": 7900,
+      "y": 46935,
+      "width": 1045,
+      "height": 300
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#ffffff"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "The decisions you make are only as good as the information behind them.",
+     "textStyle": {
+      "fontFamily": "Times New Roman",
+      "fontWeight": 400,
+      "fontSize": 96,
+      "lineHeightPx": 100,
+      "letterSpacing": 0,
+      "textAlign": "CENTER"
+     },
+     "textColor": "#ffffff"
+    },
+    {
+     "id": "113:361",
+     "name": "Tell us the decision you are weighing. We’ll help you see what your business may be trying to tell you.",
+     "type": "TEXT",
+     "box": {
+      "x": 8024,
+      "y": 47281,
+      "width": 798,
+      "height": 33
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#ffffff",
+       "opacity": 0.6000000238418579
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "Tell us the decision you are weighing. We’ll help you see what your business may be trying to tell you.",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeightPx": 33,
+      "letterSpacing": 0,
+      "textAlign": "CENTER"
+     },
+     "textColor": "#ffffff"
+    },
+    {
+     "id": "113:362",
+     "name": "Frame 366",
+     "type": "FRAME",
+     "box": {
+      "x": 8286,
+      "y": 47378,
+      "width": 273,
+      "height": 58
+     },
+     "fills": [],
+     "strokes": [
+      "#ffffff"
+     ],
+     "strokeWeight": 1,
+     "cornerRadius": 10,
+     "autoLayout": {
+      "mode": "HORIZONTAL",
+      "paddingTop": 10,
+      "paddingBottom": 10,
+      "paddingLeft": 20,
+      "paddingRight": 20,
+      "itemSpacing": 10,
+      "counterAxisAlignItems": "CENTER"
+     },
+     "children": [
+      {
+       "id": "113:363",
+       "name": "Frame 250",
+       "type": "FRAME",
+       "box": {
+        "x": 8306,
+        "y": 47395.5,
+        "width": 233,
+        "height": 23
+       },
+       "strokeWeight": 1,
+       "autoLayout": {
+        "mode": "HORIZONTAL",
+        "itemSpacing": 5,
+        "primaryAxisAlignItems": "CENTER",
+        "counterAxisAlignItems": "CENTER"
+       },
+       "children": [
+        {
+         "id": "113:364",
+         "name": "Start your CEO Assessment",
+         "type": "TEXT",
+         "box": {
+          "x": 8306,
+          "y": 47395.5,
+          "width": 213,
+          "height": 23
+         },
+         "fills": [
+          {
+           "type": "SOLID",
+           "color": "#ffffff"
+          }
+         ],
+         "strokeWeight": 1,
+         "characters": "Start your CEO Assessment",
+         "textStyle": {
+          "fontFamily": "Inter",
+          "fontWeight": 500,
+          "fontSize": 16,
+          "lineHeightPx": 23,
+          "letterSpacing": 0,
+          "textAlign": "CENTER"
+         },
+         "textColor": "#ffffff"
+        },
+        {
+         "id": "113:365",
+         "name": "arrow-left-02",
+         "type": "FRAME",
+         "box": {
+          "x": 8523.999999046326,
+          "y": 47399.499999642336,
+          "width": 15.00000226501652,
+          "height": 15.000000357664248
+         },
+         "strokeWeight": 1,
+         "children": [
+          {
+           "id": "113:366",
+           "name": "Vector",
+           "type": "VECTOR",
+           "box": {
+            "x": 8527.124999046326,
+            "y": 47406.99999926237,
+            "width": 8.437500953674316,
+            "height": 7.376293069683015e-7
+           },
+           "strokes": [
+            "#ffffff"
+           ],
+           "strokeWeight": 1.5
+          },
+          {
+           "id": "113:367",
+           "name": "Vector",
+           "type": "VECTOR",
+           "box": {
+            "x": 8532.124980926514,
+            "y": 47403.24996820091,
+            "width": 3.7500197291592485,
+            "height": 7.50003179909254
+           },
+           "strokes": [
+            "#ffffff"
+           ],
+           "strokeWeight": 1.5
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "113:368",
+     "name": "Your next decision deserves a clearer brief",
+     "type": "TEXT",
+     "box": {
+      "x": 8241,
+      "y": 46811,
+      "width": 364,
+      "height": 27
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#ffffff"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "Your next decision deserves a clearer brief",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeightPx": 27,
+      "letterSpacing": 0,
+      "textAlign": "CENTER"
+     },
+     "textColor": "#ffffff"
+    }
+   ]
+  }
+ ]
+}

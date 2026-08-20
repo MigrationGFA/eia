@@ -1,0 +1,385 @@
+{
+ "id": "113:290",
+ "name": "Desktop - 57",
+ "type": "FRAME",
+ "box": {
+  "x": 7732,
+  "y": 44455,
+  "width": 1440,
+  "height": 803
+ },
+ "fills": [
+  {
+   "type": "SOLID",
+   "color": "#ebebeb"
+  }
+ ],
+ "strokeWeight": 1,
+ "children": [
+  {
+   "id": "113:291",
+   "name": "Rectangle 158",
+   "type": "RECTANGLE",
+   "box": {
+    "x": 7732,
+    "y": 44520,
+    "width": 1440,
+    "height": 959
+   },
+   "fills": [
+    {
+     "type": "GRADIENT_LINEAR",
+     "stops": [
+      {
+       "color": "#ffffff00",
+       "pos": 0
+      },
+      {
+       "color": "#f1f1f1",
+       "pos": 1
+      }
+     ]
+    }
+   ],
+   "strokeWeight": 1
+  },
+  {
+   "id": "113:292",
+   "name": "Better decisions begin with better visibility.",
+   "type": "TEXT",
+   "box": {
+    "x": 7858,
+    "y": 44598,
+    "width": 579,
+    "height": 142
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#202020"
+    }
+   ],
+   "strokeWeight": 1,
+   "characters": "Better decisions begin with better visibility.",
+   "textStyle": {
+    "fontFamily": "Times New Roman",
+    "fontWeight": 400,
+    "fontSize": 64,
+    "lineHeightPx": 71,
+    "letterSpacing": 0,
+    "textAlign": "LEFT"
+   },
+   "textColor": "#202020"
+  },
+  {
+   "id": "113:293",
+   "name": "When you can clearly see:",
+   "type": "TEXT",
+   "box": {
+    "x": 7858,
+    "y": 44773,
+    "width": 443,
+    "height": 33
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#000000",
+     "opacity": 0.6000000238418579
+    }
+   ],
+   "strokeWeight": 1,
+   "characters": "When you can clearly see:",
+   "textStyle": {
+    "fontFamily": "Inter",
+    "fontWeight": 400,
+    "fontSize": 16,
+    "lineHeightPx": 33,
+    "letterSpacing": 0,
+    "textAlign": "LEFT"
+   },
+   "textColor": "#000000"
+  },
+  {
+   "id": "113:294",
+   "name": "You make faster, more confident decisions without another week lost to assembling the evidence. Remsana helps make that possible.",
+   "type": "TEXT",
+   "box": {
+    "x": 7858,
+    "y": 45068,
+    "width": 569,
+    "height": 66
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#000000",
+     "opacity": 0.6000000238418579
+    }
+   ],
+   "strokeWeight": 1,
+   "characters": "You make faster, more confident decisions without another week lost to assembling the evidence. Remsana helps make that possible.",
+   "textStyle": {
+    "fontFamily": "Inter",
+    "fontWeight": 400,
+    "fontSize": 16,
+    "lineHeightPx": 33,
+    "letterSpacing": 0,
+    "textAlign": "LEFT"
+   },
+   "textColor": "#000000"
+  },
+  {
+   "id": "113:295",
+   "name": "The outcome",
+   "type": "TEXT",
+   "box": {
+    "x": 7858.4921875,
+    "y": 44546,
+    "width": 285,
+    "height": 27
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#0053d0"
+    }
+   ],
+   "strokeWeight": 1,
+   "characters": "The outcome",
+   "textStyle": {
+    "fontFamily": "Inter",
+    "fontWeight": 400,
+    "fontSize": 16,
+    "lineHeightPx": 27,
+    "letterSpacing": 0,
+    "textAlign": "LEFT"
+   },
+   "textColor": "#0053d0"
+  },
+  {
+   "id": "113:296",
+   "name": "Frame 368",
+   "type": "FRAME",
+   "box": {
+    "x": 8434.548290079796,
+    "y": 44597.43359375,
+    "width": 553.0692212067352,
+    "height": 569.7193264518646
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#ffffff"
+    }
+   ],
+   "strokeWeight": 1,
+   "cornerRadius": 20,
+   "children": [
+    {
+     "id": "113:297",
+     "name": "remsana-hero 1",
+     "type": "RECTANGLE",
+     "box": {
+      "x": 8338.546078953776,
+      "y": 44590.171875,
+      "width": 804.8193674917566,
+      "height": 804.8193674917566
+     },
+     "strokeWeight": 1
+    },
+    {
+     "id": "113:298",
+     "name": "remsana-ceo-finance 1",
+     "type": "RECTANGLE",
+     "box": {
+      "x": 8256.327093512593,
+      "y": 44347.59375,
+      "width": 886.7362366918369,
+      "height": 970.9954363360885
+     },
+     "fills": [
+      {
+       "type": "IMAGE",
+       "imageRef": "f81e65e8da096e08456a02d05ae829f42ad1bad2"
+      }
+     ],
+     "strokeWeight": 1
+    }
+   ]
+  },
+  {
+   "id": "113:299",
+   "name": "Financial performance Sales activity Operational bottlenecks Business trends Critical risks",
+   "type": "TEXT",
+   "box": {
+    "x": 7893,
+    "y": 44825,
+    "width": 290,
+    "height": 205
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#000000"
+    }
+   ],
+   "strokeWeight": 1,
+   "characters": "Financial performance\nSales activity\nOperational bottlenecks\nBusiness trends\nCritical risks",
+   "textStyle": {
+    "fontFamily": "Inter",
+    "fontWeight": 400,
+    "fontSize": 14,
+    "lineHeightPx": 41,
+    "letterSpacing": 0,
+    "textAlign": "LEFT"
+   },
+   "textColor": "#000000"
+  },
+  {
+   "id": "113:300",
+   "name": "check",
+   "type": "FRAME",
+   "box": {
+    "x": 7858,
+    "y": 44834,
+    "width": 24,
+    "height": 24
+   },
+   "strokeWeight": 1,
+   "children": [
+    {
+     "id": "113:301",
+     "name": "Vector",
+     "type": "VECTOR",
+     "box": {
+      "x": 7863,
+      "y": 44841,
+      "width": 14,
+      "height": 10.000039100646973
+     },
+     "strokes": [
+      "#000000"
+     ],
+     "strokeWeight": 1.5
+    }
+   ]
+  },
+  {
+   "id": "113:302",
+   "name": "check",
+   "type": "FRAME",
+   "box": {
+    "x": 7858,
+    "y": 44916,
+    "width": 24,
+    "height": 24
+   },
+   "strokeWeight": 1,
+   "children": [
+    {
+     "id": "113:303",
+     "name": "Vector",
+     "type": "VECTOR",
+     "box": {
+      "x": 7863,
+      "y": 44923,
+      "width": 14,
+      "height": 10.000039100646973
+     },
+     "strokes": [
+      "#000000"
+     ],
+     "strokeWeight": 1.5
+    }
+   ]
+  },
+  {
+   "id": "113:304",
+   "name": "check",
+   "type": "FRAME",
+   "box": {
+    "x": 7858,
+    "y": 44877,
+    "width": 24,
+    "height": 24
+   },
+   "strokeWeight": 1,
+   "children": [
+    {
+     "id": "113:305",
+     "name": "Vector",
+     "type": "VECTOR",
+     "box": {
+      "x": 7863,
+      "y": 44884,
+      "width": 14,
+      "height": 10.000039100646973
+     },
+     "strokes": [
+      "#000000"
+     ],
+     "strokeWeight": 1.5
+    }
+   ]
+  },
+  {
+   "id": "113:306",
+   "name": "check",
+   "type": "FRAME",
+   "box": {
+    "x": 7858,
+    "y": 44959,
+    "width": 24,
+    "height": 24
+   },
+   "strokeWeight": 1,
+   "children": [
+    {
+     "id": "113:307",
+     "name": "Vector",
+     "type": "VECTOR",
+     "box": {
+      "x": 7863,
+      "y": 44966,
+      "width": 14,
+      "height": 10.000039100646973
+     },
+     "strokes": [
+      "#000000"
+     ],
+     "strokeWeight": 1.5
+    }
+   ]
+  },
+  {
+   "id": "113:308",
+   "name": "check",
+   "type": "FRAME",
+   "box": {
+    "x": 7858,
+    "y": 44998,
+    "width": 24,
+    "height": 24
+   },
+   "strokeWeight": 1,
+   "children": [
+    {
+     "id": "113:309",
+     "name": "Vector",
+     "type": "VECTOR",
+     "box": {
+      "x": 7863,
+      "y": 45005,
+      "width": 14,
+      "height": 10.000039100646973
+     },
+     "strokes": [
+      "#000000"
+     ],
+     "strokeWeight": 1.5
+    }
+   ]
+  }
+ ]
+}

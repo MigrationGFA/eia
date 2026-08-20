@@ -1,0 +1,554 @@
+{
+ "id": "113:217",
+ "name": "Desktop - 63",
+ "type": "FRAME",
+ "box": {
+  "x": 7732,
+  "y": 41677,
+  "width": 1440,
+  "height": 915
+ },
+ "fills": [
+  {
+   "type": "SOLID",
+   "color": "#1b2027"
+  }
+ ],
+ "strokeWeight": 1,
+ "children": [
+  {
+   "id": "113:218",
+   "name": "Rectangle 158",
+   "type": "RECTANGLE",
+   "box": {
+    "x": 7732,
+    "y": 41742,
+    "width": 1440,
+    "height": 959
+   },
+   "fills": [
+    {
+     "type": "GRADIENT_LINEAR",
+     "stops": [
+      {
+       "color": "#ffffff00",
+       "pos": 0
+      },
+      {
+       "color": "#f1f1f1",
+       "pos": 1
+      }
+     ]
+    }
+   ],
+   "strokeWeight": 1
+  },
+  {
+   "id": "113:219",
+   "name": "This is not a software demo.",
+   "type": "TEXT",
+   "box": {
+    "x": 7865,
+    "y": 41898,
+    "width": 824,
+    "height": 71
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#ffffff"
+    }
+   ],
+   "strokeWeight": 1,
+   "characters": "This is not a software demo.",
+   "textStyle": {
+    "fontFamily": "Times New Roman",
+    "fontWeight": 400,
+    "fontSize": 64,
+    "lineHeightPx": 71,
+    "letterSpacing": 0,
+    "textAlign": "LEFT"
+   },
+   "textColor": "#ffffff"
+  },
+  {
+   "id": "113:220",
+   "name": "Most software companies ask you to buy first and discover value later. We do the opposite.",
+   "type": "TEXT",
+   "box": {
+    "x": 7865,
+    "y": 41988,
+    "width": 550,
+    "height": 66
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#ffffff",
+     "opacity": 0.6000000238418579
+    }
+   ],
+   "strokeWeight": 1,
+   "characters": "Most software companies ask you to buy first and discover value later. We do the opposite.",
+   "textStyle": {
+    "fontFamily": "Inter",
+    "fontWeight": 400,
+    "fontSize": 16,
+    "lineHeightPx": 33,
+    "letterSpacing": 0,
+    "textAlign": "LEFT"
+   },
+   "textColor": "#ffffff"
+  },
+  {
+   "id": "113:221",
+   "name": "A different starting point",
+   "type": "TEXT",
+   "box": {
+    "x": 7865,
+    "y": 41839,
+    "width": 285,
+    "height": 27
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#ffffff"
+    }
+   ],
+   "strokeWeight": 1,
+   "characters": "A different starting point",
+   "textStyle": {
+    "fontFamily": "Inter",
+    "fontWeight": 400,
+    "fontSize": 16,
+    "lineHeightPx": 27,
+    "letterSpacing": 0,
+    "textAlign": "LEFT"
+   },
+   "textColor": "#ffffff"
+  },
+  {
+   "id": "113:222",
+   "name": "Frame 381",
+   "type": "FRAME",
+   "box": {
+    "x": 7862,
+    "y": 42098,
+    "width": 542,
+    "height": 296
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#ffffff",
+     "opacity": 0.009999999776482582
+    }
+   ],
+   "strokes": [
+    "#ffffff"
+   ],
+   "strokeWeight": 1,
+   "cornerRadius": 10,
+   "children": [
+    {
+     "id": "113:223",
+     "name": "Buy software Learn the system Configure dashboards Hope it solves the problem",
+     "type": "TEXT",
+     "box": {
+      "x": 7921,
+      "y": 42162,
+      "width": 193,
+      "height": 164
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#ffffff"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "Buy software\nLearn the system\nConfigure dashboards\nHope it solves the problem",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 400,
+      "fontSize": 14,
+      "lineHeightPx": 41,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#ffffff"
+    },
+    {
+     "id": "113:224",
+     "name": "Traditional approach",
+     "type": "TEXT",
+     "box": {
+      "x": 7878,
+      "y": 42122,
+      "width": 309,
+      "height": 20
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#0053d0"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "Traditional approach",
+     "textStyle": {
+      "fontFamily": "Times New Roman",
+      "fontWeight": 400,
+      "fontSize": 20,
+      "lineHeightPx": 20,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#0053d0"
+    },
+    {
+     "id": "113:225",
+     "name": "x",
+     "type": "FRAME",
+     "box": {
+      "x": 7884,
+      "y": 42170,
+      "width": 24,
+      "height": 24
+     },
+     "strokeWeight": 1,
+     "children": [
+      {
+       "id": "113:226",
+       "name": "Vector",
+       "type": "VECTOR",
+       "box": {
+        "x": 7890,
+        "y": 42176,
+        "width": 12,
+        "height": 12
+       },
+       "strokes": [
+        "#0053d0"
+       ],
+       "strokeWeight": 1.5
+      }
+     ]
+    },
+    {
+     "id": "113:227",
+     "name": "x",
+     "type": "FRAME",
+     "box": {
+      "x": 7884,
+      "y": 42252,
+      "width": 24,
+      "height": 24
+     },
+     "strokeWeight": 1,
+     "children": [
+      {
+       "id": "113:228",
+       "name": "Vector",
+       "type": "VECTOR",
+       "box": {
+        "x": 7890,
+        "y": 42258,
+        "width": 12,
+        "height": 12
+       },
+       "strokes": [
+        "#0053d0"
+       ],
+       "strokeWeight": 1.5
+      }
+     ]
+    },
+    {
+     "id": "113:229",
+     "name": "x",
+     "type": "FRAME",
+     "box": {
+      "x": 7884,
+      "y": 42213,
+      "width": 24,
+      "height": 24
+     },
+     "strokeWeight": 1,
+     "children": [
+      {
+       "id": "113:230",
+       "name": "Vector",
+       "type": "VECTOR",
+       "box": {
+        "x": 7890,
+        "y": 42219,
+        "width": 12,
+        "height": 12
+       },
+       "strokes": [
+        "#0053d0"
+       ],
+       "strokeWeight": 1.5
+      }
+     ]
+    },
+    {
+     "id": "113:231",
+     "name": "x",
+     "type": "FRAME",
+     "box": {
+      "x": 7884,
+      "y": 42295,
+      "width": 24,
+      "height": 24
+     },
+     "strokeWeight": 1,
+     "children": [
+      {
+       "id": "113:232",
+       "name": "Vector",
+       "type": "VECTOR",
+       "box": {
+        "x": 7890,
+        "y": 42301,
+        "width": 12,
+        "height": 12
+       },
+       "strokes": [
+        "#0053d0"
+       ],
+       "strokeWeight": 1.5
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "113:233",
+   "name": "Frame 382",
+   "type": "FRAME",
+   "box": {
+    "x": 8437,
+    "y": 42098,
+    "width": 542,
+    "height": 296
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#0053d0"
+    }
+   ],
+   "strokes": [
+    "#ffffff"
+   ],
+   "strokeWeight": 1,
+   "cornerRadius": 10,
+   "children": [
+    {
+     "id": "113:234",
+     "name": "Identify a business problem Prepare your data Deliver useful intelligence Demonstrate value first Then discuss long-term options",
+     "type": "TEXT",
+     "box": {
+      "x": 8494,
+      "y": 42161,
+      "width": 290,
+      "height": 205
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#ffffff"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "Identify a business problem\nPrepare your data\nDeliver useful intelligence\nDemonstrate value first\nThen discuss long-term options",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 400,
+      "fontSize": 14,
+      "lineHeightPx": 41,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#ffffff"
+    },
+    {
+     "id": "113:235",
+     "name": "Remsana approach",
+     "type": "TEXT",
+     "box": {
+      "x": 8453,
+      "y": 42122,
+      "width": 309,
+      "height": 20
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#ffffff"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "Remsana approach",
+     "textStyle": {
+      "fontFamily": "Times New Roman",
+      "fontWeight": 400,
+      "fontSize": 20,
+      "lineHeightPx": 20,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#ffffff"
+    },
+    {
+     "id": "113:236",
+     "name": "check",
+     "type": "FRAME",
+     "box": {
+      "x": 8459,
+      "y": 42170,
+      "width": 24,
+      "height": 24
+     },
+     "strokeWeight": 1,
+     "children": [
+      {
+       "id": "113:237",
+       "name": "Vector",
+       "type": "VECTOR",
+       "box": {
+        "x": 8464,
+        "y": 42177,
+        "width": 14,
+        "height": 10.000039100646973
+       },
+       "strokes": [
+        "#ffffff"
+       ],
+       "strokeWeight": 1.5
+      }
+     ]
+    },
+    {
+     "id": "113:238",
+     "name": "check",
+     "type": "FRAME",
+     "box": {
+      "x": 8459,
+      "y": 42252,
+      "width": 24,
+      "height": 24
+     },
+     "strokeWeight": 1,
+     "children": [
+      {
+       "id": "113:239",
+       "name": "Vector",
+       "type": "VECTOR",
+       "box": {
+        "x": 8464,
+        "y": 42259,
+        "width": 14,
+        "height": 10.000039100646973
+       },
+       "strokes": [
+        "#ffffff"
+       ],
+       "strokeWeight": 1.5
+      }
+     ]
+    },
+    {
+     "id": "113:240",
+     "name": "check",
+     "type": "FRAME",
+     "box": {
+      "x": 8459,
+      "y": 42213,
+      "width": 24,
+      "height": 24
+     },
+     "strokeWeight": 1,
+     "children": [
+      {
+       "id": "113:241",
+       "name": "Vector",
+       "type": "VECTOR",
+       "box": {
+        "x": 8464,
+        "y": 42220,
+        "width": 14,
+        "height": 10.000039100646973
+       },
+       "strokes": [
+        "#ffffff"
+       ],
+       "strokeWeight": 1.5
+      }
+     ]
+    },
+    {
+     "id": "113:242",
+     "name": "check",
+     "type": "FRAME",
+     "box": {
+      "x": 8459,
+      "y": 42295,
+      "width": 24,
+      "height": 24
+     },
+     "strokeWeight": 1,
+     "children": [
+      {
+       "id": "113:243",
+       "name": "Vector",
+       "type": "VECTOR",
+       "box": {
+        "x": 8464,
+        "y": 42302,
+        "width": 14,
+        "height": 10.000039100646973
+       },
+       "strokes": [
+        "#ffffff"
+       ],
+       "strokeWeight": 1.5
+      }
+     ]
+    },
+    {
+     "id": "113:244",
+     "name": "check",
+     "type": "FRAME",
+     "box": {
+      "x": 8459,
+      "y": 42334,
+      "width": 24,
+      "height": 24
+     },
+     "strokeWeight": 1,
+     "children": [
+      {
+       "id": "113:245",
+       "name": "Vector",
+       "type": "VECTOR",
+       "box": {
+        "x": 8464,
+        "y": 42341,
+        "width": 14,
+        "height": 10.000039100646973
+       },
+       "strokes": [
+        "#ffffff"
+       ],
+       "strokeWeight": 1.5
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

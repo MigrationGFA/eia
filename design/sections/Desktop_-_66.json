@@ -1,0 +1,592 @@
+{
+ "id": "113:246",
+ "name": "Desktop - 66",
+ "type": "FRAME",
+ "box": {
+  "x": 7732,
+  "y": 42592,
+  "width": 1440,
+  "height": 948
+ },
+ "fills": [
+  {
+   "type": "SOLID",
+   "color": "#ebebeb"
+  }
+ ],
+ "strokeWeight": 1,
+ "children": [
+  {
+   "id": "113:247",
+   "name": "Rectangle 158",
+   "type": "RECTANGLE",
+   "box": {
+    "x": 7732,
+    "y": 42657,
+    "width": 1440,
+    "height": 959
+   },
+   "fills": [
+    {
+     "type": "GRADIENT_LINEAR",
+     "stops": [
+      {
+       "color": "#ffffff00",
+       "pos": 0
+      },
+      {
+       "color": "#f1f1f1",
+       "pos": 1
+      }
+     ]
+    }
+   ],
+   "strokeWeight": 1
+  },
+  {
+   "id": "113:248",
+   "name": "Clarity is a business asset.",
+   "type": "TEXT",
+   "box": {
+    "x": 8068,
+    "y": 42759,
+    "width": 736,
+    "height": 71
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#202020"
+    }
+   ],
+   "strokeWeight": 1,
+   "characters": "Clarity is a business asset.",
+   "textStyle": {
+    "fontFamily": "Times New Roman",
+    "fontWeight": 400,
+    "fontSize": 64,
+    "lineHeightPx": 71,
+    "letterSpacing": 0,
+    "textAlign": "CENTER"
+   },
+   "textColor": "#202020"
+  },
+  {
+   "id": "113:249",
+   "name": "Start with a focused question. Leave with something useful.",
+   "type": "TEXT",
+   "box": {
+    "x": 8140,
+    "y": 42843,
+    "width": 592,
+    "height": 33
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#000000",
+     "opacity": 0.6000000238418579
+    }
+   ],
+   "strokeWeight": 1,
+   "characters": "Start with a focused question. Leave with something useful.",
+   "textStyle": {
+    "fontFamily": "Inter",
+    "fontWeight": 400,
+    "fontSize": 16,
+    "lineHeightPx": 33,
+    "letterSpacing": 0,
+    "textAlign": "CENTER"
+   },
+   "textColor": "#000000"
+  },
+  {
+   "id": "113:250",
+   "name": "The investment",
+   "type": "TEXT",
+   "box": {
+    "x": 8294,
+    "y": 42710,
+    "width": 285,
+    "height": 27
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#191a15"
+    }
+   ],
+   "strokeWeight": 1,
+   "characters": "The investment",
+   "textStyle": {
+    "fontFamily": "Inter",
+    "fontWeight": 400,
+    "fontSize": 16,
+    "lineHeightPx": 27,
+    "letterSpacing": 0,
+    "textAlign": "CENTER"
+   },
+   "textColor": "#191a15"
+  },
+  {
+   "id": "113:251",
+   "name": "Frame 279",
+   "type": "FRAME",
+   "box": {
+    "x": 8093,
+    "y": 42918,
+    "width": 743,
+    "height": 503
+   },
+   "fills": [
+    {
+     "type": "SOLID",
+     "color": "#0053d0"
+    }
+   ],
+   "strokes": [
+    "#cdcdcd"
+   ],
+   "strokeWeight": 1,
+   "cornerRadius": 20,
+   "effects": [
+    {
+     "type": "GLASS"
+    }
+   ],
+   "children": [
+    {
+     "id": "113:252",
+     "name": "N45,000",
+     "type": "TEXT",
+     "box": {
+      "x": 8129,
+      "y": 43020,
+      "width": 336,
+      "height": 110
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#ffffff"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "N45,000",
+     "textStyle": {
+      "fontFamily": "Times New Roman",
+      "fontWeight": 700,
+      "fontSize": 96,
+      "lineHeightPx": 54,
+      "letterSpacing": 0,
+      "textAlign": "LEFT"
+     },
+     "textColor": "#ffffff"
+    },
+    {
+     "id": "113:253",
+     "name": "Executive Intelligence Assessment",
+     "type": "TEXT",
+     "box": {
+      "x": 8151,
+      "y": 43000,
+      "width": 261,
+      "height": 20
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#ffffff"
+      }
+     ],
+     "strokeWeight": 1,
+     "characters": "Executive Intelligence Assessment\n",
+     "textStyle": {
+      "fontFamily": "Inter",
+      "fontWeight": 400,
+      "fontSize": 16,
+      "lineHeightPx": 10,
+      "letterSpacing": 0,
+      "textAlign": "CENTER"
+     },
+     "textColor": "#ffffff"
+    },
+    {
+     "id": "113:254",
+     "name": "Frame 393",
+     "type": "FRAME",
+     "box": {
+      "x": 8124,
+      "y": 43199,
+      "width": 327,
+      "height": 87
+     },
+     "fills": [],
+     "strokes": [
+      "#ffffff"
+     ],
+     "strokeWeight": 1,
+     "cornerRadius": 10,
+     "autoLayout": {
+      "mode": "HORIZONTAL",
+      "paddingTop": 10,
+      "paddingBottom": 10,
+      "paddingLeft": 10,
+      "paddingRight": 10,
+      "itemSpacing": 10,
+      "primaryAxisAlignItems": "CENTER",
+      "counterAxisAlignItems": "CENTER"
+     },
+     "children": [
+      {
+       "id": "113:255",
+       "name": "Good news. If you decide to continue with Remsana, 100% of your assessment fee is credited toward your selected plan.",
+       "type": "TEXT",
+       "box": {
+        "x": 8135,
+        "y": 43205,
+        "width": 305,
+        "height": 75
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#ffffff"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "Good news. If you decide to continue with Remsana, 100% of your assessment fee is credited toward your selected plan.",
+       "textStyle": {
+        "fontFamily": "Inter",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 25,
+        "letterSpacing": 0,
+        "textAlign": "CENTER"
+       },
+       "textColor": "#ffffff"
+      }
+     ]
+    },
+    {
+     "id": "113:256",
+     "name": "Frame 249",
+     "type": "FRAME",
+     "box": {
+      "x": 8241,
+      "y": 43330,
+      "width": 379,
+      "height": 43
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#1b2027"
+      }
+     ],
+     "strokes": [
+      "#ffffff"
+     ],
+     "strokeWeight": 1,
+     "cornerRadius": 50,
+     "autoLayout": {
+      "mode": "HORIZONTAL",
+      "paddingTop": 10,
+      "paddingBottom": 10,
+      "paddingLeft": 10,
+      "paddingRight": 10,
+      "itemSpacing": 10,
+      "primaryAxisAlignItems": "SPACE_BETWEEN",
+      "counterAxisAlignItems": "CENTER"
+     },
+     "children": [
+      {
+       "id": "113:257",
+       "name": "Frame 250",
+       "type": "FRAME",
+       "box": {
+        "x": 8306,
+        "y": 43340,
+        "width": 249,
+        "height": 23
+       },
+       "strokeWeight": 1,
+       "autoLayout": {
+        "mode": "HORIZONTAL",
+        "itemSpacing": 5,
+        "primaryAxisAlignItems": "CENTER",
+        "counterAxisAlignItems": "CENTER"
+       },
+       "children": [
+        {
+         "id": "113:258",
+         "name": "Reserve your assessment slot",
+         "type": "TEXT",
+         "box": {
+          "x": 8306,
+          "y": 43340,
+          "width": 229,
+          "height": 23
+         },
+         "fills": [
+          {
+           "type": "SOLID",
+           "color": "#ffffff"
+          }
+         ],
+         "strokeWeight": 1,
+         "characters": "Reserve your assessment slot",
+         "textStyle": {
+          "fontFamily": "Inter",
+          "fontWeight": 500,
+          "fontSize": 16,
+          "lineHeightPx": 23,
+          "letterSpacing": 0,
+          "textAlign": "CENTER"
+         },
+         "textColor": "#ffffff"
+        },
+        {
+         "id": "113:259",
+         "name": "arrow-left-02",
+         "type": "FRAME",
+         "box": {
+          "x": 8539.999999046326,
+          "y": 43343.999999642336,
+          "width": 15.00000226501652,
+          "height": 15.000000357664248
+         },
+         "strokeWeight": 1,
+         "children": [
+          {
+           "id": "113:260",
+           "name": "Vector",
+           "type": "VECTOR",
+           "box": {
+            "x": 8543.124999046326,
+            "y": 43351.49999926237,
+            "width": 8.437500953674316,
+            "height": 7.376293069683015e-7
+           },
+           "strokes": [
+            "#ffffff"
+           ],
+           "strokeWeight": 1.5
+          },
+          {
+           "id": "113:261",
+           "name": "Vector",
+           "type": "VECTOR",
+           "box": {
+            "x": 8548.124980926514,
+            "y": 43347.74996820091,
+            "width": 3.7500197291592485,
+            "height": 7.50003179909254
+           },
+           "strokes": [
+            "#ffffff"
+           ],
+           "strokeWeight": 1.5
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "113:262",
+     "name": "Frame 308",
+     "type": "FRAME",
+     "box": {
+      "x": 8486,
+      "y": 42967,
+      "width": 319,
+      "height": 337
+     },
+     "fills": [
+      {
+       "type": "SOLID",
+       "color": "#ddeaff"
+      }
+     ],
+     "strokeWeight": 1,
+     "cornerRadius": 10,
+     "autoLayout": {
+      "mode": "VERTICAL",
+      "paddingTop": 20,
+      "paddingBottom": 20,
+      "paddingLeft": 20,
+      "paddingRight": 20,
+      "primaryAxisAlignItems": "CENTER",
+      "counterAxisAlignItems": "CENTER"
+     },
+     "children": [
+      {
+       "id": "113:263",
+       "name": "Includes",
+       "type": "TEXT",
+       "box": {
+        "x": 8506,
+        "y": 42990.5,
+        "width": 279,
+        "height": 32
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#000000"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "Includes",
+       "textStyle": {
+        "fontFamily": "Inter",
+        "fontWeight": 700,
+        "fontSize": 16,
+        "lineHeightPx": 32,
+        "letterSpacing": 0,
+        "textAlign": "LEFT"
+       },
+       "textColor": "#000000"
+      },
+      {
+       "id": "113:264",
+       "name": "Qualification and planning Data preparation Executive dashboard setup Day 1 Executive Reveal 7-Day Assessment Executive Intelligence Review",
+       "type": "TEXT",
+       "box": {
+        "x": 8506,
+        "y": 43022.5,
+        "width": 279,
+        "height": 258
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#000000"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "Qualification and planning\nData preparation\nExecutive dashboard setup\nDay 1 Executive Reveal\n7-Day Assessment\nExecutive Intelligence Review",
+       "textStyle": {
+        "fontFamily": "Inter",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 43,
+        "letterSpacing": 0,
+        "textAlign": "LEFT"
+       },
+       "textColor": "#000000"
+      }
+     ]
+    },
+    {
+     "id": "113:265",
+     "name": "Frame 407",
+     "type": "FRAME",
+     "box": {
+      "x": 8142,
+      "y": 43148,
+      "width": 258,
+      "height": 25
+     },
+     "strokeWeight": 1,
+     "autoLayout": {
+      "mode": "HORIZONTAL",
+      "itemSpacing": 10,
+      "counterAxisAlignItems": "CENTER"
+     },
+     "children": [
+      {
+       "id": "113:266",
+       "name": "One-time assessment fee",
+       "type": "TEXT",
+       "box": {
+        "x": 8142,
+        "y": 43153,
+        "width": 182,
+        "height": 15
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#f1f14d"
+        }
+       ],
+       "strokeWeight": 1,
+       "characters": "One-time assessment fee",
+       "textStyle": {
+        "fontFamily": "Inter",
+        "fontWeight": 400,
+        "fontSize": 14,
+        "lineHeightPx": 15,
+        "letterSpacing": 0,
+        "textAlign": "CENTER"
+       },
+       "textColor": "#f1f14d"
+      },
+      {
+       "id": "113:267",
+       "name": "Frame 315",
+       "type": "FRAME",
+       "box": {
+        "x": 8334,
+        "y": 43148,
+        "width": 66,
+        "height": 25
+       },
+       "fills": [
+        {
+         "type": "SOLID",
+         "color": "#f2f24d"
+        }
+       ],
+       "strokeWeight": 1,
+       "cornerRadius": 20,
+       "autoLayout": {
+        "mode": "HORIZONTAL",
+        "paddingTop": 10,
+        "paddingBottom": 10,
+        "paddingLeft": 10,
+        "paddingRight": 10,
+        "itemSpacing": 10,
+        "primaryAxisAlignItems": "CENTER",
+        "counterAxisAlignItems": "CENTER"
+       },
+       "children": [
+        {
+         "id": "113:268",
+         "name": "7 Days",
+         "type": "TEXT",
+         "box": {
+          "x": 8347.5,
+          "y": 43149.5,
+          "width": 39,
+          "height": 22
+         },
+         "fills": [
+          {
+           "type": "SOLID",
+           "color": "#000000"
+          }
+         ],
+         "strokeWeight": 1,
+         "characters": "7 Days",
+         "textStyle": {
+          "fontFamily": "Inter",
+          "fontWeight": 600,
+          "fontSize": 12,
+          "lineHeightPx": 22,
+          "letterSpacing": 0,
+          "textAlign": "CENTER"
+         },
+         "textColor": "#000000"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
